@@ -8,6 +8,18 @@
     <display-name lang="es">Canal Ecuavisa (Ecuador)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal Ecuador TV">
+    <display-name lang="es">Canal Ecuador TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Ecuavisa Internacional (ECUA)">
+    <display-name lang="en">Ecuavisa Internacional (ECUA)</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="TeleCentro (TLCN)">
+    <display-name lang="en">TeleCentro (TLCN)</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
   <programme start="20210923003000 -0500" stop="20210923020000 -0500" channel="Canal Uno (Ecuador)">
     <title lang="es">Película</title>
   </programme>
@@ -95,7 +107,7 @@
   <programme start="20210923230000 -0500" stop="20210924000000 -0500" channel="Canal Uno (Ecuador)">
     <title lang="es">Noticiero Uno</title>
   </programme>
-  <programme start="20210924090000 -0500" stop="20210924093000 -0500" channel="Canal Uno (Ecuador)">
+  <programme start="20210924130000 -0500" stop="20210924133000 -0500" channel="Canal Uno (Ecuador)">
     <title lang="es">Lo mejor en carne propia</title>
   </programme>
   <programme start="20210925003000 -0500" stop="20210925020000 -0500" channel="Canal Uno (Ecuador)">
@@ -305,8 +317,8 @@
   <programme start="20210923230000 -0500" stop="20210924000000 -0500" channel="Canal Ecuavisa (Ecuador)">
     <title lang="es">Sharon la hechicera</title>
   </programme>
-  <programme start="20210924090000 -0500" stop="20210924093000 -0500" channel="Canal Ecuavisa (Ecuador)">
-    <title lang="es">Telenovela</title>
+  <programme start="20210924130000 -0500" stop="20210924140000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Televistazo</title>
   </programme>
   <programme start="20210925020000 -0500" stop="20210925030000 -0500" channel="Canal Ecuavisa (Ecuador)">
     <title lang="es">El Combo Amarillo</title>
@@ -412,5 +424,152 @@
   </programme>
   <programme start="20210926160000 -0500" stop="20210926190000 -0500" channel="Canal Ecuavisa (Ecuador)">
     <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210923003000 -0500" stop="20210923013000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210923013000 -0500" stop="20210923043000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210923043000 -0500" stop="20210923053000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210923053000 -0500" stop="20210923060000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Noticiero Quichua Willaykuna</title>
+  </programme>
+  <programme start="20210923060000 -0500" stop="20210923080000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210923080000 -0500" stop="20210923100000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210923100000 -0500" stop="20210923110000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210923110000 -0500" stop="20210923120000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210923120000 -0500" stop="20210923123000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210923123000 -0500" stop="20210923130000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Hola,¿qué hace</title>
+  </programme>
+  <programme start="20210923130000 -0500" stop="20210923140000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210923140000 -0500" stop="20210923145000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210923145000 -0500" stop="20210923150000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Tierra y Mar</title>
+  </programme>
+  <programme start="20210923150000 -0500" stop="20210923160000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210923160000 -0500" stop="20210923163000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210923163000 -0500" stop="20210923183000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210923183000 -0500" stop="20210923190000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210923190000 -0500" stop="20210923200000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210923200000 -0500" stop="20210923210000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210923210000 -0500" stop="20210923220000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210923220000 -0500" stop="20210923230000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210923230000 -0500" stop="20210924000000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210924130000 -0500" stop="20210924140000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210925013000 -0500" stop="20210925060000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210925060000 -0500" stop="20210925063000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Noticiero Quichua Willaykuna</title>
+  </programme>
+  <programme start="20210925063000 -0500" stop="20210925073000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210925073000 -0500" stop="20210925080000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210925080000 -0500" stop="20210925083000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210925083000 -0500" stop="20210925090000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210925090000 -0500" stop="20210925110000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210925110000 -0500" stop="20210925120000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210925120000 -0500" stop="20210925130000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210925130000 -0500" stop="20210925140000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210925140000 -0500" stop="20210925150000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210925150000 -0500" stop="20210925173000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210925173000 -0500" stop="20210925183000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210925183000 -0500" stop="20210925190000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210925190000 -0500" stop="20210925193000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210925193000 -0500" stop="20210925200000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210925200000 -0500" stop="20210925203000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210925203000 -0500" stop="20210925213000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210925213000 -0500" stop="20210925223000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Cortometraje</title>
+  </programme>
+  <programme start="20210925223000 -0500" stop="20210925233000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210925233000 -0500" stop="20210926003000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210926003000 -0500" stop="20210926013000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210926013000 -0500" stop="20210926033000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210926033000 -0500" stop="20210926040000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210926040000 -0500" stop="20210926060000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210926073000 -0500" stop="20210926080000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Misa</title>
   </programme>
 </tv>

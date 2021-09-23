@@ -12,9 +12,9 @@
     <display-name lang="es">Canal Ecuador TV</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Ecuavisa Internacional (ECUA)">
-    <display-name lang="en">Ecuavisa Internacional (ECUA)</display-name>
-    <url>http://www.directv.com</url>
+  <channel id="Canal Teleamazonas">
+    <display-name lang="es">Canal Teleamazonas</display-name>
+    <url>http://www.gatotv.com</url>
   </channel>
   <channel id="TeleCentro (TLCN)">
     <display-name lang="en">TeleCentro (TLCN)</display-name>
@@ -107,8 +107,8 @@
   <programme start="20210923230000 -0500" stop="20210924000000 -0500" channel="Canal Uno (Ecuador)">
     <title lang="es">Noticiero Uno</title>
   </programme>
-  <programme start="20210924130000 -0500" stop="20210924133000 -0500" channel="Canal Uno (Ecuador)">
-    <title lang="es">Lo mejor en carne propia</title>
+  <programme start="20210924150000 -0500" stop="20210924160000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Educa</title>
   </programme>
   <programme start="20210925003000 -0500" stop="20210925020000 -0500" channel="Canal Uno (Ecuador)">
     <title lang="es">Porcel</title>
@@ -317,8 +317,8 @@
   <programme start="20210923230000 -0500" stop="20210924000000 -0500" channel="Canal Ecuavisa (Ecuador)">
     <title lang="es">Sharon la hechicera</title>
   </programme>
-  <programme start="20210924130000 -0500" stop="20210924140000 -0500" channel="Canal Ecuavisa (Ecuador)">
-    <title lang="es">Televistazo</title>
+  <programme start="20210924140000 -0500" stop="20210924160000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">El poder del amor</title>
   </programme>
   <programme start="20210925020000 -0500" stop="20210925030000 -0500" channel="Canal Ecuavisa (Ecuador)">
     <title lang="es">El Combo Amarillo</title>
@@ -491,8 +491,8 @@
   <programme start="20210923230000 -0500" stop="20210924000000 -0500" channel="Canal Ecuador TV">
     <title lang="es">Rodando Ecuador</title>
   </programme>
-  <programme start="20210924130000 -0500" stop="20210924140000 -0500" channel="Canal Ecuador TV">
-    <title lang="es">Telediario</title>
+  <programme start="20210924150000 -0500" stop="20210924160000 -0500" channel="Canal Ecuador TV">
+    <title lang="es">Educa</title>
   </programme>
   <programme start="20210925013000 -0500" stop="20210925060000 -0500" channel="Canal Ecuador TV">
     <title lang="es">Café TV</title>
@@ -571,5 +571,236 @@
   </programme>
   <programme start="20210926073000 -0500" stop="20210926080000 -0500" channel="Canal Ecuador TV">
     <title lang="es">Misa</title>
+  </programme>
+  <programme start="20210923001500 -0500" stop="20210923011500 -0500" channel="Canal Teleamazonas">
+    <title lang="es">C.S.I. Miami</title>
+  </programme>
+  <programme start="20210923011500 -0500" stop="20210923020000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Vivos</title>
+  </programme>
+  <programme start="20210923020000 -0500" stop="20210923023000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210923023000 -0500" stop="20210923024500 -0500" channel="Canal Teleamazonas">
+    <title lang="es">24 horas</title>
+  </programme>
+  <programme start="20210923024500 -0500" stop="20210923033000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Divino niño</title>
+  </programme>
+  <programme start="20210923033000 -0500" stop="20210923040000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210923040000 -0500" stop="20210923050000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Boys Over Flowers</title>
+  </programme>
+  <programme start="20210923050000 -0500" stop="20210923060000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Pedro el Escamoso</title>
+  </programme>
+  <programme start="20210923060000 -0500" stop="20210923065500 -0500" channel="Canal Teleamazonas">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210923065500 -0500" stop="20210923073000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Los Desayunos De 24 Horas</title>
+  </programme>
+  <programme start="20210923073000 -0500" stop="20210923093000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210923093000 -0500" stop="20210923113000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Madre</title>
+  </programme>
+  <programme start="20210923113000 -0500" stop="20210923123000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Boys Over Flowers</title>
+  </programme>
+  <programme start="20210923123000 -0500" stop="20210923130000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20210923130000 -0500" stop="20210923135500 -0500" channel="Canal Teleamazonas">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210923135500 -0500" stop="20210923143000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Comunidad</title>
+  </programme>
+  <programme start="20210923143000 -0500" stop="20210923144200 -0500" channel="Canal Teleamazonas">
+    <title lang="es">En Corto</title>
+  </programme>
+  <programme start="20210923144200 -0500" stop="20210923150000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Deporte Total</title>
+  </programme>
+  <programme start="20210923150000 -0500" stop="20210923160000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20210923160000 -0500" stop="20210923163000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+  </programme>
+  <programme start="20210923163000 -0500" stop="20210923170000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20210923170000 -0500" stop="20210923180000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Futurama</title>
+  </programme>
+  <programme start="20210923180000 -0500" stop="20210923190000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Nuevo rico, nuevo pobre</title>
+  </programme>
+  <programme start="20210923190000 -0500" stop="20210923200000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210923200000 -0500" stop="20210923210000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210923210000 -0500" stop="20210923220000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">El Doctor milagro</title>
+  </programme>
+  <programme start="20210923220000 -0500" stop="20210923224500 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20210923224500 -0500" stop="20210923230000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Las muñecas de la mafia</title>
+  </programme>
+  <programme start="20210923230000 -0500" stop="20210923231000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">La ley secreta</title>
+  </programme>
+  <programme start="20210924001500 -0500" stop="20210924011500 -0500" channel="Canal Teleamazonas">
+    <title lang="es">C.S.I. Las Vegas</title>
+  </programme>
+  <programme start="20210924150000 -0500" stop="20210924160000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20210925001500 -0500" stop="20210925011500 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Rosewood</title>
+  </programme>
+  <programme start="20210925024500 -0500" stop="20210925031500 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210925031500 -0500" stop="20210925033000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Mitos y Verdades</title>
+  </programme>
+  <programme start="20210925033000 -0500" stop="20210925043000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">PluriTV</title>
+  </programme>
+  <programme start="20210925043000 -0500" stop="20210925050000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">PluriTV</title>
+  </programme>
+  <programme start="20210925050000 -0500" stop="20210925060000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Tres Patines</title>
+  </programme>
+  <programme start="20210925060000 -0500" stop="20210925070000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Día a día</title>
+  </programme>
+  <programme start="20210925070000 -0500" stop="20210925080000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Mitos y verdades</title>
+  </programme>
+  <programme start="20210925080000 -0500" stop="20210925100000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210925100000 -0500" stop="20210925103000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Soy yo</title>
+  </programme>
+  <programme start="20210925103000 -0500" stop="20210925110000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">iCarly</title>
+  </programme>
+  <programme start="20210925110000 -0500" stop="20210925120000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Knight Squad</title>
+  </programme>
+  <programme start="20210925120000 -0500" stop="20210925130000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Smackdown</title>
+  </programme>
+  <programme start="20210925130000 -0500" stop="20210925133000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210925133000 -0500" stop="20210925140000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Clima mortal</title>
+  </programme>
+  <programme start="20210925140000 -0500" stop="20210925170000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Súper Nick</title>
+  </programme>
+  <programme start="20210925170000 -0500" stop="20210925173000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20210925173000 -0500" stop="20210925180000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210925180000 -0500" stop="20210925190000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Fresh Off the Boat</title>
+  </programme>
+  <programme start="20210925190000 -0500" stop="20210925200000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Glee</title>
+  </programme>
+  <programme start="20210925200000 -0500" stop="20210925220000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Princesa valiente</title>
+  </programme>
+  <programme start="20210925220000 -0500" stop="20210925223500 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20210925223500 -0500" stop="20210925230000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Enchufe tv</title>
+  </programme>
+  <programme start="20210925230000 -0500" stop="20210925230500 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210925230500 -0500" stop="20210926011500 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210926011500 -0500" stop="20210926021500 -0500" channel="Canal Teleamazonas">
+    <title lang="es">UHF</title>
+  </programme>
+  <programme start="20210926021500 -0500" stop="20210926024500 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Mitos y Verdades</title>
+  </programme>
+  <programme start="20210926024500 -0500" stop="20210926030000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20210926030000 -0500" stop="20210926033000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20210926033000 -0500" stop="20210926040000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20210926040000 -0500" stop="20210926041500 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20210926041500 -0500" stop="20210926043000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Camaramanía</title>
+  </programme>
+  <programme start="20210926043000 -0500" stop="20210926050000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Geeks</title>
+  </programme>
+  <programme start="20210926050000 -0500" stop="20210926053000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Tres Patines</title>
+  </programme>
+  <programme start="20210926053000 -0500" stop="20210926073000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Amor bajo la luz de la luna</title>
+  </programme>
+  <programme start="20210926073000 -0500" stop="20210926080000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Soy yo</title>
+  </programme>
+  <programme start="20210926100000 -0500" stop="20210926103000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">La Cocina del Chef</title>
+  </programme>
+  <programme start="20210926103000 -0500" stop="20210926110000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">El Encantador de Perros</title>
+  </programme>
+  <programme start="20210926110000 -0500" stop="20210926113300 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Día a día</title>
+  </programme>
+  <programme start="20210926113300 -0500" stop="20210926120000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Documentales de Animales</title>
+  </programme>
+  <programme start="20210926120000 -0500" stop="20210926123000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Mitos y Verdades</title>
+  </programme>
+  <programme start="20210926123000 -0500" stop="20210926143000 -0500" channel="Canal Teleamazonas">
+    <title lang="es">América Vive</title>
+  </programme>
+  <programme start="20210926143000 -0500" stop="20210926154500 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Oie</title>
+  </programme>
+  <programme start="20210926154500 -0500" stop="20210926164500 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20210926164500 -0500" stop="20210926174500 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20210926174500 -0500" stop="20210926191500 -0500" channel="Canal Teleamazonas">
+    <title lang="es">Película</title>
   </programme>
 </tv>

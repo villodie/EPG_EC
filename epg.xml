@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Uno (Ecuador)">
+    <display-name lang="es">Canal Uno (Ecuador)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Ecuavisa (Ecuador)">
+    <display-name lang="es">Canal Ecuavisa (Ecuador)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210923003000 -0500" stop="20210923020000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210923020000 -0500" stop="20210923030000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210923030000 -0500" stop="20210923050000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210923050000 -0500" stop="20210923054500 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210923054500 -0500" stop="20210923060000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210923060000 -0500" stop="20210923063000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210923063000 -0500" stop="20210923070000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210923070000 -0500" stop="20210923083000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Lo mejor en carne propia</title>
+  </programme>
+  <programme start="20210923083000 -0500" stop="20210923090000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210923090000 -0500" stop="20210923093000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Lo mejor en carne propia</title>
+  </programme>
+  <programme start="20210923093000 -0500" stop="20210923100000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210923100000 -0500" stop="20210923110000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Entre NOS</title>
+  </programme>
+  <programme start="20210923110000 -0500" stop="20210923120000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210923120000 -0500" stop="20210923123000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Lo mejor en carne propia</title>
+  </programme>
+  <programme start="20210923123000 -0500" stop="20210923130000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210923130000 -0500" stop="20210923133000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Lo mejor en carne propia</title>
+  </programme>
+  <programme start="20210923133000 -0500" stop="20210923134500 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210923134500 -0500" stop="20210923140000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210923140000 -0500" stop="20210923143000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210923143000 -0500" stop="20210923150000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Mazinger</title>
+  </programme>
+  <programme start="20210923150000 -0500" stop="20210923160000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210923160000 -0500" stop="20210923180000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210923180000 -0500" stop="20210923183000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210923183000 -0500" stop="20210923190000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210923190000 -0500" stop="20210923200000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Lo mejor en carne propia</title>
+  </programme>
+  <programme start="20210923200000 -0500" stop="20210923210000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Noticiero Uno</title>
+  </programme>
+  <programme start="20210923210000 -0500" stop="20210923223000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">BLN</title>
+  </programme>
+  <programme start="20210923223000 -0500" stop="20210923230000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Doña Bella</title>
+  </programme>
+  <programme start="20210923230000 -0500" stop="20210924000000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Noticiero Uno</title>
+  </programme>
+  <programme start="20210924090000 -0500" stop="20210924093000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Lo mejor en carne propia</title>
+  </programme>
+  <programme start="20210925003000 -0500" stop="20210925020000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Porcel</title>
+  </programme>
+  <programme start="20210925030000 -0500" stop="20210925050000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Porcel</title>
+  </programme>
+  <programme start="20210925050000 -0500" stop="20210925051500 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210925051500 -0500" stop="20210925054500 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Entre NOS</title>
+  </programme>
+  <programme start="20210925054500 -0500" stop="20210925060000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210925060000 -0500" stop="20210925063000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210925063000 -0500" stop="20210925070000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210925070000 -0500" stop="20210925080000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210925080000 -0500" stop="20210925083000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210925083000 -0500" stop="20210925090000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210925090000 -0500" stop="20210925093000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210925093000 -0500" stop="20210925103000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210925103000 -0500" stop="20210925110000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210925110000 -0500" stop="20210925113000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210925113000 -0500" stop="20210925120000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210925120000 -0500" stop="20210925123000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210925123000 -0500" stop="20210925130000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210925130000 -0500" stop="20210925133000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210925133000 -0500" stop="20210925134500 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210925134500 -0500" stop="20210925140000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210925140000 -0500" stop="20210925143000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210925143000 -0500" stop="20210925163000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">John Wayne</title>
+  </programme>
+  <programme start="20210925163000 -0500" stop="20210925183000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Película Marilyn Monroe</title>
+  </programme>
+  <programme start="20210925183000 -0500" stop="20210925190000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210925190000 -0500" stop="20210925203000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">India María</title>
+  </programme>
+  <programme start="20210925203000 -0500" stop="20210925223000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Lo mejor en carne propia</title>
+  </programme>
+  <programme start="20210925223000 -0500" stop="20210926020000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Porcel</title>
+  </programme>
+  <programme start="20210926020000 -0500" stop="20210926030000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210926030000 -0500" stop="20210926050000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Porcel</title>
+  </programme>
+  <programme start="20210926050000 -0500" stop="20210926051500 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210926051500 -0500" stop="20210926054500 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Entre NOS</title>
+  </programme>
+  <programme start="20210926060000 -0500" stop="20210926063000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210926063000 -0500" stop="20210926070000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210926070000 -0500" stop="20210926080000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210926080000 -0500" stop="20210926083000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210926083000 -0500" stop="20210926090000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210926090000 -0500" stop="20210926093000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210926093000 -0500" stop="20210926103000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210926103000 -0500" stop="20210926110000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210926110000 -0500" stop="20210926113000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210926113000 -0500" stop="20210926120000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210926120000 -0500" stop="20210926123000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Entre NOS</title>
+  </programme>
+  <programme start="20210926130000 -0500" stop="20210926133000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210926134500 -0500" stop="20210926140000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210926140000 -0500" stop="20210926143000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Entre NOS</title>
+  </programme>
+  <programme start="20210926143000 -0500" stop="20210926150000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210926150000 -0500" stop="20210926170000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">John Wayne</title>
+  </programme>
+  <programme start="20210926170000 -0500" stop="20210926183000 -0500" channel="Canal Uno (Ecuador)">
+    <title lang="es">India María</title>
+  </programme>
+  <programme start="20210923020000 -0500" stop="20210923023000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Princesa mía</title>
+  </programme>
+  <programme start="20210923023000 -0500" stop="20210923030000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Mi último deseo</title>
+  </programme>
+  <programme start="20210923030000 -0500" stop="20210923040000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210923040000 -0500" stop="20210923050000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Totalmente Diva</title>
+  </programme>
+  <programme start="20210923050000 -0500" stop="20210923055500 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210923055500 -0500" stop="20210923065500 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210923065500 -0500" stop="20210923073000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20210923073000 -0500" stop="20210923090000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210923090000 -0500" stop="20210923093000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210923093000 -0500" stop="20210923103000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Dulce Venganza</title>
+  </programme>
+  <programme start="20210923103000 -0500" stop="20210923130000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20210923130000 -0500" stop="20210923140000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210923140000 -0500" stop="20210923160000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">El poder del amor</title>
+  </programme>
+  <programme start="20210923160000 -0500" stop="20210923170000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">La Hija del Mariachi</title>
+  </programme>
+  <programme start="20210923170000 -0500" stop="20210923180000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Gülperi</title>
+  </programme>
+  <programme start="20210923180000 -0500" stop="20210923190000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210923190000 -0500" stop="20210923200000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210923200000 -0500" stop="20210923210000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">No me dejes ir</title>
+  </programme>
+  <programme start="20210923210000 -0500" stop="20210923220000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Amor eterno</title>
+  </programme>
+  <programme start="20210923220000 -0500" stop="20210923230000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Betty en NY</title>
+  </programme>
+  <programme start="20210923230000 -0500" stop="20210924000000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Sharon la hechicera</title>
+  </programme>
+  <programme start="20210924090000 -0500" stop="20210924093000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210925020000 -0500" stop="20210925030000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20210925030000 -0500" stop="20210925040000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210925040000 -0500" stop="20210925050000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210925050000 -0500" stop="20210925053000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210925053000 -0500" stop="20210925063000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20210925063000 -0500" stop="20210925080000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Producción nacional</title>
+  </programme>
+  <programme start="20210925080000 -0500" stop="20210925090000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210925090000 -0500" stop="20210925093000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Pan Nuestro</title>
+  </programme>
+  <programme start="20210925093000 -0500" stop="20210925103000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210925103000 -0500" stop="20210925110000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210925110000 -0500" stop="20210925120000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Wonder Woman</title>
+  </programme>
+  <programme start="20210925120000 -0500" stop="20210925130000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Supergirl</title>
+  </programme>
+  <programme start="20210925130000 -0500" stop="20210925150000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Smallville</title>
+  </programme>
+  <programme start="20210925150000 -0500" stop="20210925160000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210925160000 -0500" stop="20210925170000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Arrow</title>
+  </programme>
+  <programme start="20210925170000 -0500" stop="20210925190000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210925190000 -0500" stop="20210925193000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210925193000 -0500" stop="20210925220000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210925220000 -0500" stop="20210926000000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">El poder del amor</title>
+  </programme>
+  <programme start="20210926000000 -0500" stop="20210926014500 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Prueba de amor</title>
+  </programme>
+  <programme start="20210926014500 -0500" stop="20210926030000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20210926030000 -0500" stop="20210926041500 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210926041500 -0500" stop="20210926050000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Ripley's</title>
+  </programme>
+  <programme start="20210926050000 -0500" stop="20210926063000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">El Hombre Increíble</title>
+  </programme>
+  <programme start="20210926063000 -0500" stop="20210926073000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Macgyver</title>
+  </programme>
+  <programme start="20210926073000 -0500" stop="20210926083000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Ripley's</title>
+  </programme>
+  <programme start="20210926083000 -0500" stop="20210926093000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210926093000 -0500" stop="20210926103000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Panorama internacional</title>
+  </programme>
+  <programme start="20210926103000 -0500" stop="20210926113000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Políticamente correcto</title>
+  </programme>
+  <programme start="20210926113000 -0500" stop="20210926123000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Esta Semana con Pedro Jiménez</title>
+  </programme>
+  <programme start="20210926123000 -0500" stop="20210926130000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Entre flashes</title>
+  </programme>
+  <programme start="20210926130000 -0500" stop="20210926140000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Wonder Woman</title>
+  </programme>
+  <programme start="20210926140000 -0500" stop="20210926150000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Brigada A</title>
+  </programme>
+  <programme start="20210926150000 -0500" stop="20210926160000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">El Hombre Increíble</title>
+  </programme>
+  <programme start="20210926160000 -0500" stop="20210926190000 -0500" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Largometraje</title>
+  </programme>
+</tv>

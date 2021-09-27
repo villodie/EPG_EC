@@ -52,6 +52,10 @@
     <display-name lang="en">EC DIRECTV Sports Plus</display-name>
     <url>http://www.directvsports.com</url>
   </channel>
+  <channel id="Ecuavisa Internacional (ECUA)">
+    <display-name lang="en">Ecuavisa Internacional (ECUA)</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
   <programme start="20210926020000 -0500" stop="20210926030000 -0500" channel="Canal Uno (Ecuador)">
     <title lang="es">Notas divinas</title>
   </programme>

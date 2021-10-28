@@ -50,6 +50,7 @@
   </channel>
   <channel id="ESPN 2">
     <display-name lang="es">ESPN 2</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/8f65f052ab481d73e1fa9ab65e9744ec.jpg" />
     <url>http://www.claro.com</url>
   </channel>
   <channel id="M DEPORTES HD (M Deportes HD)">
@@ -2414,6 +2415,74 @@
   <programme start="20211031165500 -0600" stop="20211031190000 -0600" channel="Canal ESPN 2 (Colombia)">
     <title lang="es">Fútbol italiano Serie A</title>
   </programme>
+  <programme start="20211028000000 +0000" stop="20211028020000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211028020000 +0000" stop="20211028040000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F90</title>
+    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.(n)</desc>
+  </programme>
+  <programme start="20211028040000 +0000" stop="20211028050000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211028050000 +0000" stop="20211028060000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F90</title>
+    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.(n)</desc>
+  </programme>
+  <programme start="20211028060000 +0000" stop="20211028070000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211028070000 +0000" stop="20211028080000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211028080000 +0000" stop="20211028083000 +0000" channel="ESPN 2">
+    <title lang="es">ESPN W</title>
+    <desc lang="es">ESPN trae para ti todo sobre el deporte femenino a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20211028083000 +0000" stop="20211028090000 +0000" channel="ESPN 2">
+    <title lang="es">Espn Ciclismo</title>
+    <desc lang="es">Programa de ESPN dedicado al ciclismo.(n)</desc>
+  </programme>
+  <programme start="20211028090000 +0000" stop="20211028100000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211028100000 +0000" stop="20211028110000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211028110000 +0000" stop="20211028150000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211028150000 +0000" stop="20211028160000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F90</title>
+    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.(n)</desc>
+  </programme>
+  <programme start="20211028160000 +0000" stop="20211028180000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F90</title>
+    <desc lang="es">Lo mejor del deporte a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20211028180000 +0000" stop="20211028193000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211028193000 +0000" stop="20211028210000 +0000" channel="ESPN 2">
+    <title lang="es">Balón Dividido</title>
+    <desc lang="es">El análisis y la actualidad del fútbol de Colombia, a cargo de los especialistas de ESPN.(n)</desc>
+  </programme>
+  <programme start="20211028210000 +0000" stop="20211028223000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F Show</title>
+    <desc lang="es">Infórmate sobre las noticias más importantes del mundo deportivo en el ámbito nacional e internacional, las últimas tendencias de las redes frente a la actualidad, y contará con jugosas entrevistas a invitados especiales.(n)</desc>
+  </programme>
+  <programme start="20211028223000 +0000" stop="20211029000000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F360</title>
+    <desc lang="es">Por medio de una discusión entre los panelistas, se tratarán temas de análisis sobre la agenda diaria del fútbol internacional y todo el mundo deportivo.(n)</desc>
+  </programme>
   <programme start="20211029000000 +0000" stop="20211029020000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
@@ -2625,5 +2694,73 @@
   <programme start="20211031230000 +0000" stop="20211101011000 +0000" channel="ESPN 2">
     <title lang="es">Estudiantes de la Plata VS River Plate - LPF 2021</title>
     <desc lang="es">La Liga Profesional de Fútbol Argentino, conocida como Liga Profesional de Fútbol o Liga Profesional o por la sigla LPF, es un órgano interno de la AFA, creado oficialmente en la asamblea extraordinaria del 19 de mayo de 2020.</desc>
+  </programme>
+  <programme start="20211101011000 +0000" stop="20211101023000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F10</title>
+    <desc lang="es">Un repaso por los momentos más destacados de lo que se lleva disputado en la jornada inaugural del campeonato argentino.(n)</desc>
+  </programme>
+  <programme start="20211101023000 +0000" stop="20211101033000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211101033000 +0000" stop="20211101043000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211101043000 +0000" stop="20211101053000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211101053000 +0000" stop="20211101063000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211101063000 +0000" stop="20211101073000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211101073000 +0000" stop="20211101083000 +0000" channel="ESPN 2">
+    <title lang="es">Simplemente Fútbol</title>
+    <desc lang="es">Programa deportivo conducida por el periodista y ex-futbolista Quique Wolff. Presenta entrevistas con los grandes protagonositas en al historia de futbol mundial, ademas de tu trayectoria.(n)</desc>
+  </programme>
+  <programme start="20211101083000 +0000" stop="20211101090000 +0000" channel="ESPN 2">
+    <title lang="es">UEFA Champions League Weekly</title>
+    <desc lang="es">ESPN trae para ti toda la acción de la UEFA Champions League, la competencia de clubes más importante del mundo.(n)</desc>
+  </programme>
+  <programme start="20211101090000 +0000" stop="20211101100000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F10</title>
+    <desc lang="es">Un repaso por los momentos más destacados de lo que se lleva disputado en la jornada inaugural del campeonato argentino.(n)</desc>
+  </programme>
+  <programme start="20211101100000 +0000" stop="20211101110000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211101110000 +0000" stop="20211101150000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211101150000 +0000" stop="20211101160000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F10</title>
+    <desc lang="es">Un repaso por los momentos más destacados de lo que se lleva disputado en la jornada inaugural del campeonato argentino.(n)</desc>
+  </programme>
+  <programme start="20211101160000 +0000" stop="20211101180000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F90</title>
+    <desc lang="es">Lo mejor del deporte a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20211101180000 +0000" stop="20211101193000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211101193000 +0000" stop="20211101210000 +0000" channel="ESPN 2">
+    <title lang="es">Balón Dividido</title>
+    <desc lang="es">El análisis y la actualidad del fútbol de Colombia, a cargo de los especialistas de ESPN.(n)</desc>
+  </programme>
+  <programme start="20211101210000 +0000" stop="20211101223000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F Show</title>
+    <desc lang="es">Infórmate sobre las noticias más importantes del mundo deportivo en el ámbito nacional e internacional, las últimas tendencias de las redes frente a la actualidad, y contará con jugosas entrevistas a invitados especiales.(n)</desc>
+  </programme>
+  <programme start="20211101223000 +0000" stop="20211102000000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F360</title>
+    <desc lang="es">Por medio de una discusión entre los panelistas, se tratarán temas de análisis sobre la agenda diaria del fútbol internacional y todo el mundo deportivo.(n)</desc>
   </programme>
 </tv>

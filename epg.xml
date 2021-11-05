@@ -50,6 +50,7 @@
   </channel>
   <channel id="ESPN 2">
     <display-name lang="es">ESPN 2</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/8f65f052ab481d73e1fa9ab65e9744ec.jpg" />
     <url>http://www.claro.com</url>
   </channel>
   <channel id="M DEPORTES HD (M Deportes HD)">
@@ -2187,6 +2188,74 @@
     <title lang="es">SportsCenter</title>
     <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
   </programme>
+  <programme start="20211105000000 +0000" stop="20211105020000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211105020000 +0000" stop="20211105040000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F90</title>
+    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.(n)</desc>
+  </programme>
+  <programme start="20211105040000 +0000" stop="20211105050000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211105050000 +0000" stop="20211105060000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F90</title>
+    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.(n)</desc>
+  </programme>
+  <programme start="20211105060000 +0000" stop="20211105070000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211105070000 +0000" stop="20211105080000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211105080000 +0000" stop="20211105090000 +0000" channel="ESPN 2">
+    <title lang="es">Simplemente Fútbol</title>
+    <desc lang="es">Programa deportivo conducida por el periodista y ex-futbolista Quique Wolff. Presenta entrevistas con los grandes protagonositas en al historia de futbol mundial, ademas de tu trayectoria.(n)</desc>
+  </programme>
+  <programme start="20211105090000 +0000" stop="20211105100000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211105100000 +0000" stop="20211105110000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211105110000 +0000" stop="20211105150000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211105150000 +0000" stop="20211105160000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F90</title>
+    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.(n)</desc>
+  </programme>
+  <programme start="20211105160000 +0000" stop="20211105180000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F90</title>
+    <desc lang="es">Lo mejor del deporte a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20211105180000 +0000" stop="20211105190000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211105190000 +0000" stop="20211105195000 +0000" channel="ESPN 2">
+    <title lang="es">Balón Dividido</title>
+    <desc lang="es">El análisis y la actualidad del fútbol de Colombia, a cargo de los especialistas de ESPN.(n)</desc>
+  </programme>
+  <programme start="20211105195000 +0000" stop="20211105215500 +0000" channel="ESPN 2">
+    <title lang="es">Southampton VS Aston Villa - Premier 2021-22</title>
+    <desc lang="es">La Premier League (en español, Liga Principal), también conocida en Inglaterra como The Premiership, es la máxima categoría del sistema de ligas de fútbol de Inglaterra.(n)</desc>
+  </programme>
+  <programme start="20211105215500 +0000" stop="20211105230000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F Show</title>
+    <desc lang="es">Infórmate sobre las noticias más importantes del mundo deportivo en el ámbito nacional e internacional, las últimas tendencias de las redes frente a la actualidad, y contará con jugosas entrevistas a invitados especiales.(n)</desc>
+  </programme>
+  <programme start="20211105230000 +0000" stop="20211106000000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F360</title>
+    <desc lang="es">Por medio de una discusión entre los panelistas, se tratarán temas de análisis sobre la agenda diaria del fútbol internacional y todo el mundo deportivo.(n)</desc>
+  </programme>
   <programme start="20211106000000 +0000" stop="20211106020000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
@@ -2232,16 +2301,16 @@
     <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
   </programme>
   <programme start="20211106122000 +0000" stop="20211106142500 +0000" channel="ESPN 2">
-    <title lang="es">Manchester City VS Crystal Palace - Premier 2021-22</title>
-    <desc lang="es">La Premier League (en español, Liga Principal), también conocida en Inglaterra como The Premiership, es la máxima categoría del sistema de ligas de fútbol de Inglaterra.</desc>
+    <title lang="es">Manchester United VS Manchester City - Premier 2021-22</title>
+    <desc lang="es">La Premier League (en español, Liga Principal), también conocida en Inglaterra como The Premiership, es la máxima categoría del sistema de ligas de fútbol de Inglaterra.(c)</desc>
   </programme>
   <programme start="20211106142500 +0000" stop="20211106145000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
   </programme>
   <programme start="20211106145000 +0000" stop="20211106165500 +0000" channel="ESPN 2">
-    <title lang="es">Chelsea VS Burnley - Premier 2021-22</title>
-    <desc lang="es">La Premier League (en español, Liga Principal), también conocida en Inglaterra como The Premiership, es la máxima categoría del sistema de ligas de fútbol de Inglaterra.</desc>
+    <title lang="es">Crystal Palace VS Wolverhampton Wanderers - Premier 2021-22</title>
+    <desc lang="es">La Premier League (en español, Liga Principal), también conocida en Inglaterra como The Premiership, es la máxima categoría del sistema de ligas de fútbol de Inglaterra.(c)</desc>
   </programme>
   <programme start="20211106165500 +0000" stop="20211106185500 +0000" channel="ESPN 2">
     <title lang="es">Juventus VS Fiorentina - Serie A 2021-22</title>
@@ -2259,105 +2328,109 @@
     <title lang="es">SportsCenter</title>
     <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
   </programme>
-  <programme start="20211107010000 +0000" stop="20211107030000 +0000" channel="ESPN 2">
+  <programme start="20211107010000 +0000" stop="20211107031500 +0000" channel="ESPN 2">
+    <title lang="es">Espn Knockout - Preliminares</title>
+    <desc lang="es">ESPN KNOCKOUT es el segmento con el que ESPN electriza a los fanáticos del boxeo. Esta producción original transmite semana tras semana los mejores combates de boxeo en directo y en español para toda Latinoamérica.(c)</desc>
+  </programme>
+  <programme start="20211107031500 +0000" stop="20211107043000 +0000" channel="ESPN 2">
     <title lang="es">Canelo Alvarez VS Caleb Plant - Espn Knockout</title>
-    <desc lang="es">ESPN KNOCKOUT es el segmento con el que ESPN electriza a los fanáticos del boxeo. Esta producción original transmite semana tras semana los mejores combates de boxeo en directo y en español para toda Latinoamérica.</desc>
+    <desc lang="es">ESPN KNOCKOUT es el segmento con el que ESPN electriza a los fanáticos del boxeo. Esta producción original transmite semana tras semana los mejores combates de boxeo en directo y en español para toda Latinoamérica.(c)</desc>
   </programme>
-  <programme start="20211107030000 +0000" stop="20211107040000 +0000" channel="ESPN 2">
+  <programme start="20211107043000 +0000" stop="20211107063000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(c)</desc>
   </programme>
-  <programme start="20211107040000 +0000" stop="20211107050000 +0000" channel="ESPN 2">
+  <programme start="20211107063000 +0000" stop="20211107073000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(c)</desc>
   </programme>
-  <programme start="20211107050000 +0000" stop="20211107060000 +0000" channel="ESPN 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
-  </programme>
-  <programme start="20211107060000 +0000" stop="20211107070000 +0000" channel="ESPN 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
-  </programme>
-  <programme start="20211107070000 +0000" stop="20211107080000 +0000" channel="ESPN 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
-  </programme>
-  <programme start="20211107080000 +0000" stop="20211107085500 +0000" channel="ESPN 2">
+  <programme start="20211107073000 +0000" stop="20211107083000 +0000" channel="ESPN 2">
     <title lang="es">Simplemente Fútbol</title>
-    <desc lang="es">Programa deportivo conducida por el periodista y ex-futbolista Quique Wolff. Presenta entrevistas con los grandes protagonositas en al historia de futbol mundial, ademas de tu trayectoria.</desc>
+    <desc lang="es">Programa deportivo conducida por el periodista y ex-futbolista Quique Wolff. Presenta entrevistas con los grandes protagonositas en al historia de futbol mundial, ademas de tu trayectoria.(c)</desc>
   </programme>
-  <programme start="20211107085500 +0000" stop="20211107095500 +0000" channel="ESPN 2">
+  <programme start="20211107083000 +0000" stop="20211107092500 +0000" channel="ESPN 2">
+    <title lang="es">Manchester United VS Manchester City - Premier 2021-22</title>
+    <desc lang="es">La Premier League (en español, Liga Principal), también conocida en Inglaterra como The Premiership, es la máxima categoría del sistema de ligas de fútbol de Inglaterra.(c)</desc>
+  </programme>
+  <programme start="20211107092500 +0000" stop="20211107102300 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(c)</desc>
   </programme>
-  <programme start="20211107095500 +0000" stop="20211107105300 +0000" channel="ESPN 2">
+  <programme start="20211107102300 +0000" stop="20211107112000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(c)</desc>
   </programme>
-  <programme start="20211107105300 +0000" stop="20211107115000 +0000" channel="ESPN 2">
+  <programme start="20211107112000 +0000" stop="20211107132500 +0000" channel="ESPN 2">
+    <title lang="es">Venezia VS AS Roma - Serie A 2021-22</title>
+    <desc lang="es">La Serie A de Italia conocida por motivos de patrocinio como Serie A TIM es la máxima categoría del sistema de ligas de Italia y la principal competición a nivel de clubes del país.(c)</desc>
+  </programme>
+  <programme start="20211107132500 +0000" stop="20211107135500 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(c)</desc>
   </programme>
-  <programme start="20211107115000 +0000" stop="20211107140000 +0000" channel="ESPN 2">
-    <title lang="es">Alavés VS Celta de Vigo</title>
-    <desc lang="es">Laliga 2020-2021. La Primera División de España conocida como LaLiga o, por motivos de patrocinio, como LaLiga Santander es la máxima categoría masculina del sistema de ligas de España y la principal competición a nivel de clubes del país.</desc>
+  <programme start="20211107135500 +0000" stop="20211107155500 +0000" channel="ESPN 2">
+    <title lang="es">Arsenal VS Waterford - Premier 2021-22</title>
+    <desc lang="es">La Premier League (en español, Liga Principal), también conocida en Inglaterra como The Premiership, es la máxima categoría del sistema de ligas de fútbol de Inglaterra.(c)</desc>
   </programme>
-  <programme start="20211107140000 +0000" stop="20211107152000 +0000" channel="ESPN 2">
+  <programme start="20211107155500 +0000" stop="20211107162000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(c)</desc>
   </programme>
-  <programme start="20211107152000 +0000" stop="20211107173000 +0000" channel="ESPN 2">
-    <title lang="es">Arsenal VS Liverpool</title>
-    <desc lang="es">Premier League 2020-2021. La Premier League (en español, Liga Principal), también conocida en Inglaterra como The Premiership, es la máxima categoría del sistema de ligas de fútbol de Inglaterra.</desc>
+  <programme start="20211107162000 +0000" stop="20211107182500 +0000" channel="ESPN 2">
+    <title lang="es">West Ham United VS Liverpool - Premier 2021-22</title>
+    <desc lang="es">La Premier League (en español, Liga Principal), también conocida en Inglaterra como The Premiership, es la máxima categoría del sistema de ligas de fútbol de Inglaterra.(c)</desc>
   </programme>
-  <programme start="20211107173000 +0000" stop="20211107185000 +0000" channel="ESPN 2">
+  <programme start="20211107182500 +0000" stop="20211107193000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(c)</desc>
   </programme>
-  <programme start="20211107185000 +0000" stop="20211107210000 +0000" channel="ESPN 2">
-    <title lang="es">Real Madrid VS Eibar</title>
-    <desc lang="es">Laliga 2020-2021. La Primera División de España conocida como LaLiga o, por motivos de patrocinio, como LaLiga Santander es la máxima categoría masculina del sistema de ligas de España y la principal competición a nivel de clubes del país.</desc>
+  <programme start="20211107193000 +0000" stop="20211107214000 +0000" channel="ESPN 2">
+    <title lang="es">AC Milan VS Inter - Serie A 2021-22</title>
+    <desc lang="es">La Serie A de Italia conocida por motivos de patrocinio como Serie A TIM es la máxima categoría del sistema de ligas de Italia y la principal competición a nivel de clubes del país.(c)</desc>
   </programme>
-  <programme start="20211107210000 +0000" stop="20211107222000 +0000" channel="ESPN 2">
+  <programme start="20211107214000 +0000" stop="20211107230000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(c)</desc>
   </programme>
-  <programme start="20211107222000 +0000" stop="20211108002000 +0000" channel="ESPN 2">
+  <programme start="20211107230000 +0000" stop="20211108011000 +0000" channel="ESPN 2">
+    <title lang="es">River Plate VS Patronato - LPF 2021</title>
+    <desc lang="es">La Liga Profesional de Fútbol Argentino, conocida como Liga Profesional de Fútbol o Liga Profesional o por la sigla LPF, es un órgano interno de la AFA, creado oficialmente en la asamblea extraordinaria del 19 de mayo de 2020.(c)</desc>
+  </programme>
+  <programme start="20211108011000 +0000" stop="20211108023000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F10</title>
+    <desc lang="es">Un repaso por los momentos más destacados de lo que se lleva disputado en la jornada inaugural del campeonato argentino.(c)</desc>
+  </programme>
+  <programme start="20211108023000 +0000" stop="20211108033000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(c)</desc>
   </programme>
-  <programme start="20211108002000 +0000" stop="20211108023000 +0000" channel="ESPN 2">
+  <programme start="20211108033000 +0000" stop="20211108043000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(c)</desc>
   </programme>
-  <programme start="20211108023000 +0000" stop="20211108040000 +0000" channel="ESPN 2">
-    <title lang="es">Balón Dividido</title>
-    <desc lang="es">El análisis y la actualidad del fútbol de Colombia, a cargo de los especialistas de ESPN.</desc>
-  </programme>
-  <programme start="20211108040000 +0000" stop="20211108050000 +0000" channel="ESPN 2">
+  <programme start="20211108043000 +0000" stop="20211108053000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(c)</desc>
   </programme>
-  <programme start="20211108050000 +0000" stop="20211108060000 +0000" channel="ESPN 2">
+  <programme start="20211108053000 +0000" stop="20211108063000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(c)</desc>
   </programme>
-  <programme start="20211108060000 +0000" stop="20211108070000 +0000" channel="ESPN 2">
+  <programme start="20211108063000 +0000" stop="20211108073000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(c)</desc>
   </programme>
-  <programme start="20211108070000 +0000" stop="20211108080000 +0000" channel="ESPN 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
+  <programme start="20211108073000 +0000" stop="20211108083000 +0000" channel="ESPN 2">
+    <title lang="es">Bordeaux VS PSG - L1F 2021-22</title>
+    <desc lang="es">La Ligue 1 es la primera división del sistema de ligas del fútbol francés organizada por la Ligue de Football Professionnel. Está formada por veinte clubes que operan en un sistema de ascensos y descensos con la Ligue 2, la segunda división francesa.(c)</desc>
   </programme>
-  <programme start="20211108080000 +0000" stop="20211108083000 +0000" channel="ESPN 2">
+  <programme start="20211108083000 +0000" stop="20211108090000 +0000" channel="ESPN 2">
     <title lang="es">UEFA Champions League Weekly</title>
-    <desc lang="es">ESPN trae para ti toda la acción de la UEFA Champions League, la competencia de clubes más importante del mundo.</desc>
+    <desc lang="es">ESPN trae para ti toda la acción de la UEFA Champions League, la competencia de clubes más importante del mundo.(c)</desc>
   </programme>
-  <programme start="20211108083000 +0000" stop="20211108100000 +0000" channel="ESPN 2">
-    <title lang="es">Balón Dividido</title>
-    <desc lang="es">El análisis y la actualidad del fútbol de Colombia, a cargo de los especialistas de ESPN.</desc>
+  <programme start="20211108090000 +0000" stop="20211108100000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F10</title>
+    <desc lang="es">Un repaso por los momentos más destacados de lo que se lleva disputado en la jornada inaugural del campeonato argentino.(c)</desc>
   </programme>
   <programme start="20211108100000 +0000" stop="20211108110000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
@@ -2368,16 +2441,12 @@
     <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
   </programme>
   <programme start="20211108150000 +0000" stop="20211108160000 +0000" channel="ESPN 2">
-    <title lang="es">Balón Dividido</title>
-    <desc lang="es">El análisis y la actualidad del fútbol de Colombia, a cargo de los especialistas de ESPN.</desc>
+    <title lang="es">Espn F10</title>
+    <desc lang="es">Un repaso por los momentos más destacados de lo que se lleva disputado en la jornada inaugural del campeonato argentino.(c)</desc>
   </programme>
-  <programme start="20211108160000 +0000" stop="20211108165000 +0000" channel="ESPN 2">
+  <programme start="20211108160000 +0000" stop="20211108180000 +0000" channel="ESPN 2">
     <title lang="es">Espn F90</title>
-    <desc lang="es">Lo mejor del deporte a nivel mundial.</desc>
-  </programme>
-  <programme start="20211108165000 +0000" stop="20211108180000 +0000" channel="ESPN 2">
-    <title lang="es">Crystal Palace VS Manchester City</title>
-    <desc lang="es">Premier League 2020-2021. La Premier League (en español, Liga Principal), también conocida en Inglaterra como The Premiership, es la máxima categoría del sistema de ligas de fútbol de Inglaterra.</desc>
+    <desc lang="es">Lo mejor del deporte a nivel mundial.(c)</desc>
   </programme>
   <programme start="20211108180000 +0000" stop="20211108193000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
@@ -2388,11 +2457,79 @@
     <desc lang="es">El análisis y la actualidad del fútbol de Colombia, a cargo de los especialistas de ESPN.</desc>
   </programme>
   <programme start="20211108210000 +0000" stop="20211108223000 +0000" channel="ESPN 2">
-    <title lang="es">Nexo Espn</title>
-    <desc lang="es">Lo mejor del deporte a nivel mundial lo trae para ti ESPN.</desc>
+    <title lang="es">Espn F Show</title>
+    <desc lang="es">Infórmate sobre las noticias más importantes del mundo deportivo en el ámbito nacional e internacional, las últimas tendencias de las redes frente a la actualidad, y contará con jugosas entrevistas a invitados especiales.(c)</desc>
   </programme>
   <programme start="20211108223000 +0000" stop="20211109000000 +0000" channel="ESPN 2">
-    <title lang="es">Espn Fc</title>
-    <desc lang="es">Donde ruede una pelota, allí estaremos, con móviles donde la noticia convoque y las voces autorizadas de nuestros especialistas.</desc>
+    <title lang="es">Espn F360</title>
+    <desc lang="es">Por medio de una discusión entre los panelistas, se tratarán temas de análisis sobre la agenda diaria del fútbol internacional y todo el mundo deportivo.(c)</desc>
+  </programme>
+  <programme start="20211109000000 +0000" stop="20211109021000 +0000" channel="ESPN 2">
+    <title lang="es">Aldosivi VS Boca Juniors - LPF 2021</title>
+    <desc lang="es">La Liga Profesional de Fútbol Argentino, conocida como Liga Profesional de Fútbol o Liga Profesional o por la sigla LPF, es un órgano interno de la AFA, creado oficialmente en la asamblea extraordinaria del 19 de mayo de 2020.(n)</desc>
+  </programme>
+  <programme start="20211109021000 +0000" stop="20211109040000 +0000" channel="ESPN 2">
+    <title lang="es">Equipo F</title>
+    <desc lang="es">Una mirada del deporte a nivel mundial con un completo analisis.(n)</desc>
+  </programme>
+  <programme start="20211109040000 +0000" stop="20211109050000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211109050000 +0000" stop="20211109060000 +0000" channel="ESPN 2">
+    <title lang="es">Equipo F</title>
+    <desc lang="es">Una mirada del deporte a nivel mundial con un completo analisis.(n)</desc>
+  </programme>
+  <programme start="20211109060000 +0000" stop="20211109070000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211109070000 +0000" stop="20211109080000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211109080000 +0000" stop="20211109083000 +0000" channel="ESPN 2">
+    <title lang="es">Espn X</title>
+    <desc lang="es">El programa que muestra lo mejor de los X Games de verano y de invierno además de los deportes de acción más sobresalientes del mundo.(n)</desc>
+  </programme>
+  <programme start="20211109083000 +0000" stop="20211109090000 +0000" channel="ESPN 2">
+    <title lang="es">ESPN Run</title>
+    <desc lang="es">ESPN RUN, el programa exclusivo para los fanáticos del running. Consejos, tips, maratones, novedades, grandes referentes y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211109090000 +0000" stop="20211109100000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211109100000 +0000" stop="20211109110000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211109110000 +0000" stop="20211109150000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211109150000 +0000" stop="20211109160000 +0000" channel="ESPN 2">
+    <title lang="es">Equipo F</title>
+    <desc lang="es">Una mirada del deporte a nivel mundial con un completo analisis.(n)</desc>
+  </programme>
+  <programme start="20211109160000 +0000" stop="20211109180000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F90</title>
+    <desc lang="es">Lo mejor del deporte a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20211109180000 +0000" stop="20211109193000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211109193000 +0000" stop="20211109210000 +0000" channel="ESPN 2">
+    <title lang="es">Balón Dividido</title>
+    <desc lang="es">El análisis y la actualidad del fútbol de Colombia, a cargo de los especialistas de ESPN.(n)</desc>
+  </programme>
+  <programme start="20211109210000 +0000" stop="20211109223000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F Show</title>
+    <desc lang="es">Infórmate sobre las noticias más importantes del mundo deportivo en el ámbito nacional e internacional, las últimas tendencias de las redes frente a la actualidad, y contará con jugosas entrevistas a invitados especiales.(n)</desc>
+  </programme>
+  <programme start="20211109223000 +0000" stop="20211110000000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F360</title>
+    <desc lang="es">Por medio de una discusión entre los panelistas, se tratarán temas de análisis sobre la agenda diaria del fútbol internacional y todo el mundo deportivo.(n)</desc>
   </programme>
 </tv>

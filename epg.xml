@@ -46,6 +46,7 @@
   </channel>
   <channel id="ESPN 2">
     <display-name lang="es">ESPN 2</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/8f65f052ab481d73e1fa9ab65e9744ec.jpg" />
     <url>http://www.claro.com</url>
   </channel>
   <channel id="Canal Ecuavisa Internacional">
@@ -2685,6 +2686,78 @@
     <title lang="es">SportsCenter</title>
     <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
   </programme>
+  <programme start="20211106000000 +0000" stop="20211106020000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211106020000 +0000" stop="20211106040000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F90</title>
+    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.(n)</desc>
+  </programme>
+  <programme start="20211106040000 +0000" stop="20211106050000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211106050000 +0000" stop="20211106060000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F90</title>
+    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.(n)</desc>
+  </programme>
+  <programme start="20211106060000 +0000" stop="20211106070000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211106070000 +0000" stop="20211106080000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211106080000 +0000" stop="20211106085500 +0000" channel="ESPN 2">
+    <title lang="es">Uefa Europa Y Conference League Highlights: Matchday 4</title>
+    <desc lang="es">La Liga Europa Conferencia de la UEFA (en inglés y oficialmente, UEFA Europa Conference League; UECL), conocida simplemente como Liga Conferencia (en inglés, Conference League), es una competición continental oficial de clubes organizada por la Unión de Asociaciones Europeas de Fútbol (UEFA), considerada la tercera competición de Europa, tras la Liga de Campeones y la propia Liga Europa.(n)</desc>
+  </programme>
+  <programme start="20211106085500 +0000" stop="20211106092500 +0000" channel="ESPN 2">
+    <title lang="es">UEFA Champions League Weekly</title>
+    <desc lang="es">ESPN trae para ti toda la acción de la UEFA Champions League, la competencia de clubes más importante del mundo.(n)</desc>
+  </programme>
+  <programme start="20211106092500 +0000" stop="20211106102300 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211106102300 +0000" stop="20211106112000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211106112000 +0000" stop="20211106122000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211106122000 +0000" stop="20211106142500 +0000" channel="ESPN 2">
+    <title lang="es">Manchester United VS Manchester City - Premier 2021-22</title>
+    <desc lang="es">La Premier League (en español, Liga Principal), también conocida en Inglaterra como The Premiership, es la máxima categoría del sistema de ligas de fútbol de Inglaterra.(n)</desc>
+  </programme>
+  <programme start="20211106142500 +0000" stop="20211106145000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211106145000 +0000" stop="20211106165500 +0000" channel="ESPN 2">
+    <title lang="es">Crystal Palace VS Wolverhampton Wanderers - Premier 2021-22</title>
+    <desc lang="es">La Premier League (en español, Liga Principal), también conocida en Inglaterra como The Premiership, es la máxima categoría del sistema de ligas de fútbol de Inglaterra.(n)</desc>
+  </programme>
+  <programme start="20211106165500 +0000" stop="20211106185500 +0000" channel="ESPN 2">
+    <title lang="es">Juventus VS Fiorentina - Serie A 2021-22</title>
+    <desc lang="es">La Serie A de Italia conocida por motivos de patrocinio como Serie A TIM es la máxima categoría del sistema de ligas de Italia y la principal competición a nivel de clubes del país.(n)</desc>
+  </programme>
+  <programme start="20211106185500 +0000" stop="20211106195000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211106195000 +0000" stop="20211106215500 +0000" channel="ESPN 2">
+    <title lang="es">Bordeaux VS PSG - L1F 2021-22</title>
+    <desc lang="es">La Ligue 1 es la primera división del sistema de ligas del fútbol francés organizada por la Ligue de Football Professionnel. Está formada por veinte clubes que operan en un sistema de ascensos y descensos con la Ligue 2, la segunda división francesa.(n)</desc>
+  </programme>
+  <programme start="20211106215500 +0000" stop="20211107010000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
   <programme start="20211107010000 +0000" stop="20211107031500 +0000" channel="ESPN 2">
     <title lang="es">Espn Knockout - Preliminares</title>
     <desc lang="es">ESPN KNOCKOUT es el segmento con el que ESPN electriza a los fanáticos del boxeo. Esta producción original transmite semana tras semana los mejores combates de boxeo en directo y en español para toda Latinoamérica.</desc>
@@ -2889,6 +2962,154 @@
     <title lang="es">Espn F360</title>
     <desc lang="es">Por medio de una discusión entre los panelistas, se tratarán temas de análisis sobre la agenda diaria del fútbol internacional y todo el mundo deportivo.</desc>
   </programme>
+  <programme start="20211110000000 +0000" stop="20211110020000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211110020000 +0000" stop="20211110040000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F90</title>
+    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.(n)</desc>
+  </programme>
+  <programme start="20211110040000 +0000" stop="20211110050000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211110050000 +0000" stop="20211110060000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F90</title>
+    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.(n)</desc>
+  </programme>
+  <programme start="20211110060000 +0000" stop="20211110070000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211110070000 +0000" stop="20211110080000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211110080000 +0000" stop="20211110090000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F90</title>
+    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.(n)</desc>
+  </programme>
+  <programme start="20211110090000 +0000" stop="20211110100000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211110100000 +0000" stop="20211110110000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211110110000 +0000" stop="20211110150000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211110150000 +0000" stop="20211110160000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F90</title>
+    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.(n)</desc>
+  </programme>
+  <programme start="20211110160000 +0000" stop="20211110180000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F90</title>
+    <desc lang="es">Lo mejor del deporte a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20211110180000 +0000" stop="20211110193000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+  </programme>
+  <programme start="20211110193000 +0000" stop="20211110210000 +0000" channel="ESPN 2">
+    <title lang="es">Balón Dividido</title>
+    <desc lang="es">El análisis y la actualidad del fútbol de Colombia, a cargo de los especialistas de ESPN.(n)</desc>
+  </programme>
+  <programme start="20211110210000 +0000" stop="20211110223000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F Show</title>
+    <desc lang="es">Infórmate sobre las noticias más importantes del mundo deportivo en el ámbito nacional e internacional, las últimas tendencias de las redes frente a la actualidad, y contará con jugosas entrevistas a invitados especiales.(n)</desc>
+  </programme>
+  <programme start="20211110223000 +0000" stop="20211111000000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F360</title>
+    <desc lang="es">Por medio de una discusión entre los panelistas, se tratarán temas de análisis sobre la agenda diaria del fútbol internacional y todo el mundo deportivo.(n)</desc>
+  </programme>
+  <programme start="20211106010000 -0600" stop="20211106020000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Yo Vendo Unos Ojos Negros</title>
+  </programme>
+  <programme start="20211106020000 -0600" stop="20211106023000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Crónicas urbanas</title>
+  </programme>
+  <programme start="20211106023000 -0600" stop="20211106030000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Pasado y Confeso</title>
+  </programme>
+  <programme start="20211106030000 -0600" stop="20211106033000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Vive simple</title>
+  </programme>
+  <programme start="20211106033000 -0600" stop="20211106040000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Crecer sin límites</title>
+  </programme>
+  <programme start="20211106040000 -0600" stop="20211106050000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20211106050000 -0600" stop="20211106053000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Velform Cover: ¡Oculta las imperfecciones y da color a tu piel</title>
+  </programme>
+  <programme start="20211106053000 -0600" stop="20211106063000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20211106063000 -0600" stop="20211106070000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211106070000 -0600" stop="20211106073000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Vive simple</title>
+  </programme>
+  <programme start="20211106073000 -0600" stop="20211106080000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20211106080000 -0600" stop="20211106083000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Ecuador Olímpico</title>
+  </programme>
+  <programme start="20211106083000 -0600" stop="20211106090000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Hablando de Inmigración</title>
+  </programme>
+  <programme start="20211106090000 -0600" stop="20211106100000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Esta semana</title>
+  </programme>
+  <programme start="20211106100000 -0600" stop="20211106103000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">América 360</title>
+  </programme>
+  <programme start="20211106103000 -0600" stop="20211106110000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Armonías</title>
+  </programme>
+  <programme start="20211106110000 -0600" stop="20211106113000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211106113000 -0600" stop="20211106130000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20211106130000 -0600" stop="20211106150000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">3 Familias</title>
+  </programme>
+  <programme start="20211106150000 -0600" stop="20211106170000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Encantadoras</title>
+  </programme>
+  <programme start="20211106170000 -0600" stop="20211106173000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Crónicas urbanas</title>
+  </programme>
+  <programme start="20211106173000 -0600" stop="20211106180000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">América 360</title>
+  </programme>
+  <programme start="20211106180000 -0600" stop="20211106183000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo sábado</title>
+  </programme>
+  <programme start="20211106183000 -0600" stop="20211106190000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Las huecas</title>
+  </programme>
+  <programme start="20211106190000 -0600" stop="20211106200000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Famosos y Mascotas</title>
+  </programme>
+  <programme start="20211106200000 -0600" stop="20211106210000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Tumbao</title>
+  </programme>
+  <programme start="20211106210000 -0600" stop="20211106220000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Esta semana</title>
+  </programme>
+  <programme start="20211106220000 -0600" stop="20211107000000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">3 Familias</title>
+  </programme>
   <programme start="20211107000000 -0600" stop="20211107033000 -0600" channel="Canal Ecuavisa Internacional">
     <title lang="es">Yo Vendo Unos Ojos Negros</title>
   </programme>
@@ -2915,6 +3136,9 @@
   </programme>
   <programme start="20211107083000 -0600" stop="20211107090000 -0600" channel="Canal Ecuavisa Internacional">
     <title lang="es">Energía pilates</title>
+  </programme>
+  <programme start="20211107090000 -0600" stop="20211107093000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Del huerto a la mesa</title>
   </programme>
   <programme start="20211107093000 -0600" stop="20211107100000 -0600" channel="Canal Ecuavisa Internacional">
     <title lang="es">Armonías</title>
@@ -3045,53 +3269,152 @@
   <programme start="20211108230000 -0600" stop="20211109000000 -0600" channel="Canal Ecuavisa Internacional">
     <title lang="es">Televistazo</title>
   </programme>
+  <programme start="20211109050000 -0600" stop="20211109060000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Encantadoras</title>
+  </programme>
+  <programme start="20211109060000 -0600" stop="20211109070000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo Al Amanecer Costa</title>
+  </programme>
+  <programme start="20211109070000 -0600" stop="20211109073000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Contacto Directo</title>
+  </programme>
+  <programme start="20211109073000 -0600" stop="20211109090000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo en la Comunidad Costa</title>
+  </programme>
+  <programme start="20211109093000 -0600" stop="20211109100000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211109100000 -0600" stop="20211109103000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Vive fit</title>
+  </programme>
+  <programme start="20211109103000 -0600" stop="20211109130000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20211109130000 -0600" stop="20211109140000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo</title>
+  </programme>
   <programme start="20211109140000 -0600" stop="20211109150000 -0600" channel="Canal Ecuavisa Internacional">
     <title lang="es">3 Familias</title>
   </programme>
-  <programme start="20211107011500 -0600" stop="20211107025800 -0600" channel="Canal Starz Encore Español">
+  <programme start="20211109150000 -0600" stop="20211109160000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Encantadoras</title>
+  </programme>
+  <programme start="20211109160000 -0600" stop="20211109163000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20211109163000 -0600" stop="20211109170000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20211109170000 -0600" stop="20211109173000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20211109173000 -0600" stop="20211109180000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211109180000 -0600" stop="20211109183000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20211109183000 -0600" stop="20211109190000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">3 Familias</title>
+  </programme>
+  <programme start="20211109190000 -0600" stop="20211109200000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20211109200000 -0600" stop="20211109210000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">3 Familias</title>
+  </programme>
+  <programme start="20211109210000 -0600" stop="20211109220000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Encantadoras</title>
+  </programme>
+  <programme start="20211109220000 -0600" stop="20211109223000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Crónicas urbanas</title>
+  </programme>
+  <programme start="20211109223000 -0600" stop="20211109230000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Pasado y Confeso</title>
+  </programme>
+  <programme start="20211109230000 -0600" stop="20211110000000 -0600" channel="Canal Ecuavisa Internacional">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20211106011500 -0600" stop="20211106025800 -0600" channel="Canal Starz Encore Español">
     <title lang="es">Death Race 2</title>
   </programme>
-  <programme start="20211107025800 -0600" stop="20211107045800 -0600" channel="Canal Starz Encore Español">
+  <programme start="20211106025800 -0600" stop="20211106045800 -0600" channel="Canal Starz Encore Español">
     <title lang="es">Steel Magnolias</title>
   </programme>
-  <programme start="20211107045800 -0600" stop="20211107063200 -0600" channel="Canal Starz Encore Español">
+  <programme start="20211106045800 -0600" stop="20211106063200 -0600" channel="Canal Starz Encore Español">
     <title lang="es">Woman on Top</title>
   </programme>
-  <programme start="20211107063200 -0600" stop="20211107081600 -0600" channel="Canal Starz Encore Español">
+  <programme start="20211106063200 -0600" stop="20211106081600 -0600" channel="Canal Starz Encore Español">
     <title lang="es">It Could Happen To You</title>
   </programme>
-  <programme start="20211107081600 -0600" stop="20211107095400 -0600" channel="Canal Starz Encore Español">
+  <programme start="20211106081600 -0600" stop="20211106095400 -0600" channel="Canal Starz Encore Español">
     <title lang="es">Sin Nombre</title>
   </programme>
-  <programme start="20211107095400 -0600" stop="20211107113900 -0600" channel="Canal Starz Encore Español">
+  <programme start="20211106095400 -0600" stop="20211106113900 -0600" channel="Canal Starz Encore Español">
     <title lang="es">Get Carter</title>
   </programme>
-  <programme start="20211107113900 -0600" stop="20211107131300 -0600" channel="Canal Starz Encore Español">
+  <programme start="20211106113900 -0600" stop="20211106131300 -0600" channel="Canal Starz Encore Español">
     <title lang="es">Woman on Top</title>
   </programme>
-  <programme start="20211107131300 -0600" stop="20211107145600 -0600" channel="Canal Starz Encore Español">
+  <programme start="20211106131300 -0600" stop="20211106145600 -0600" channel="Canal Starz Encore Español">
     <title lang="es">Death Race 2</title>
   </programme>
-  <programme start="20211107145600 -0600" stop="20211107164700 -0600" channel="Canal Starz Encore Español">
-    <title lang="es">¿Reinas o reyes</title>
+  <programme start="20211106145600 -0600" stop="20211106164700 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">To Wong Foo, Thanks for Everything, Julie Newmar</title>
   </programme>
-  <programme start="20211107164700 -0600" stop="20211107182200 -0600" channel="Canal Starz Encore Español">
+  <programme start="20211106164700 -0600" stop="20211106182200 -0600" channel="Canal Starz Encore Español">
     <title lang="es">Passengers</title>
   </programme>
-  <programme start="20211107182200 -0600" stop="20211107200000 -0600" channel="Canal Starz Encore Español">
+  <programme start="20211106182200 -0600" stop="20211106200000 -0600" channel="Canal Starz Encore Español">
     <title lang="es">Sin Nombre</title>
   </programme>
-  <programme start="20211107200000 -0600" stop="20211107214400 -0600" channel="Canal Starz Encore Español">
+  <programme start="20211106200000 -0600" stop="20211106214400 -0600" channel="Canal Starz Encore Español">
     <title lang="es">It Could Happen To You</title>
   </programme>
-  <programme start="20211107214400 -0600" stop="20211107232000 -0600" channel="Canal Starz Encore Español">
+  <programme start="20211106214400 -0600" stop="20211106232000 -0600" channel="Canal Starz Encore Español">
     <title lang="es">Woman on Top</title>
   </programme>
-  <programme start="20211107232000 -0600" stop="20211108004700 -0600" channel="Canal Starz Encore Español">
+  <programme start="20211106232000 -0600" stop="20211107004700 -0600" channel="Canal Starz Encore Español">
     <title lang="es">Havana</title>
   </programme>
-  <programme start="20211108004700 -0600" stop="20211108033800 -0600" channel="Canal Starz Encore Español">
-    <title lang="es">¿Reinas o reyes</title>
+  <programme start="20211107004700 -0600" stop="20211107033800 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">To Wong Foo, Thanks for Everything, Julie Newmar</title>
+  </programme>
+  <programme start="20211107033800 -0600" stop="20211107052500 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Death Race 3</title>
+  </programme>
+  <programme start="20211107052500 -0600" stop="20211107070000 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Passengers</title>
+  </programme>
+  <programme start="20211107070000 -0600" stop="20211107082400 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Lake Placid</title>
+  </programme>
+  <programme start="20211107082400 -0600" stop="20211107100100 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Cheech &amp; Chong's Next Movie</title>
+  </programme>
+  <programme start="20211107100100 -0600" stop="20211107113300 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Cheech &amp; Chong's Things Are Tough All Over</title>
+  </programme>
+  <programme start="20211107113300 -0600" stop="20211107132100 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">A Dark Truth</title>
+  </programme>
+  <programme start="20211107132100 -0600" stop="20211107150800 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Death Race 3</title>
+  </programme>
+  <programme start="20211107150800 -0600" stop="20211107173500 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Havana</title>
+  </programme>
+  <programme start="20211107173500 -0600" stop="20211107191200 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Cheech &amp; Chong's Next Movie</title>
+  </programme>
+  <programme start="20211107191200 -0600" stop="20211107210000 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">A Dark Truth</title>
+  </programme>
+  <programme start="20211107210000 -0600" stop="20211107223200 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Cheech &amp; Chong's Things Are Tough All Over</title>
+  </programme>
+  <programme start="20211107223200 -0600" stop="20211108010100 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Havana</title>
   </programme>
   <programme start="20211108033800 -0600" stop="20211108052500 -0600" channel="Canal Starz Encore Español">
     <title lang="es">Death Race 3</title>
@@ -3129,8 +3452,44 @@
   <programme start="20211108223200 -0600" stop="20211109010100 -0600" channel="Canal Starz Encore Español">
     <title lang="es">Havana</title>
   </programme>
-  <programme start="20211109223200 -0600" stop="20211110010100 -0600" channel="Canal Starz Encore Español">
-    <title lang="es">Havana</title>
+  <programme start="20211109010100 -0600" stop="20211109032400 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">The Place Beyond the Pines</title>
+  </programme>
+  <programme start="20211109032400 -0600" stop="20211109052500 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">There's something about mary</title>
+  </programme>
+  <programme start="20211109052500 -0600" stop="20211109070000 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">The stepford wives</title>
+  </programme>
+  <programme start="20211109070000 -0600" stop="20211109084400 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Twilight Zone: The Movie</title>
+  </programme>
+  <programme start="20211109084400 -0600" stop="20211109110600 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">The Place Beyond the Pines</title>
+  </programme>
+  <programme start="20211109110600 -0600" stop="20211109125000 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Excess Baggage</title>
+  </programme>
+  <programme start="20211109125000 -0600" stop="20211109143800 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Renegades</title>
+  </programme>
+  <programme start="20211109143800 -0600" stop="20211109163700 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Indecent Proposal</title>
+  </programme>
+  <programme start="20211109163700 -0600" stop="20211109190000 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">The Place Beyond the Pines</title>
+  </programme>
+  <programme start="20211109190000 -0600" stop="20211109194500 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">La bruja</title>
+  </programme>
+  <programme start="20211109194500 -0600" stop="20211109203100 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">La Bella Ceci y el Imprudente</title>
+  </programme>
+  <programme start="20211109203100 -0600" stop="20211109221500 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Excess Baggage</title>
+  </programme>
+  <programme start="20211109221500 -0600" stop="20211110001900 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">There's something about mary</title>
   </programme>
   <programme start="20211110010100 -0600" stop="20211110032400 -0600" channel="Canal Starz Encore Español">
     <title lang="es">The Place Beyond the Pines</title>
@@ -3170,5 +3529,317 @@
   </programme>
   <programme start="20211110221500 -0600" stop="20211111001900 -0600" channel="Canal Starz Encore Español">
     <title lang="es">There's something about mary</title>
+  </programme>
+  <programme start="20211111001900 -0600" stop="20211111010400 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">La bruja</title>
+  </programme>
+  <programme start="20211111010400 -0600" stop="20211111015000 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">La Bella Ceci y el Imprudente</title>
+  </programme>
+  <programme start="20211111015000 -0600" stop="20211111032400 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Evil dead</title>
+  </programme>
+  <programme start="20211111032400 -0600" stop="20211111045000 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Bad Girls From Valley High</title>
+  </programme>
+  <programme start="20211111045000 -0600" stop="20211111062000 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Cheech &amp; Chong's Nice Dreams</title>
+  </programme>
+  <programme start="20211111062000 -0600" stop="20211111074800 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Wrongfully Accused</title>
+  </programme>
+  <programme start="20211111074800 -0600" stop="20211111092700 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Sin Nombre</title>
+  </programme>
+  <programme start="20211111092700 -0600" stop="20211111110700 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">No Good Deed</title>
+  </programme>
+  <programme start="20211111110700 -0600" stop="20211111123700 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Cheech &amp; Chong's Nice Dreams</title>
+  </programme>
+  <programme start="20211111123700 -0600" stop="20211111132200 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">La bruja</title>
+  </programme>
+  <programme start="20211111132200 -0600" stop="20211111140800 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">La Bella Ceci y el Imprudente</title>
+  </programme>
+  <programme start="20211111140800 -0600" stop="20211111155200 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Eye of the beholder</title>
+  </programme>
+  <programme start="20211111155200 -0600" stop="20211111173000 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Sin Nombre</title>
+  </programme>
+  <programme start="20211111173000 -0600" stop="20211111190000 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Cheech &amp; Chong's Nice Dreams</title>
+  </programme>
+  <programme start="20211111190000 -0600" stop="20211111194800 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">La bruja</title>
+  </programme>
+  <programme start="20211111194800 -0600" stop="20211111203400 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">La Bella Ceci y el Imprudente</title>
+  </programme>
+  <programme start="20211111203400 -0600" stop="20211111222100 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Death Race 3</title>
+  </programme>
+  <programme start="20211111222100 -0600" stop="20211112000400 -0600" channel="Canal Starz Encore Español">
+    <title lang="es">Josie and the Pussycats</title>
+  </programme>
+  <programme start="20211106000500 -0600" stop="20211106020300 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Ted 2</title>
+  </programme>
+  <programme start="20211106020300 -0600" stop="20211106022500 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Z Kai</title>
+  </programme>
+  <programme start="20211106022500 -0600" stop="20211106024800 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Z Kai</title>
+  </programme>
+  <programme start="20211106024800 -0600" stop="20211106033500 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Rescue me</title>
+  </programme>
+  <programme start="20211106033500 -0600" stop="20211106035700 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+  </programme>
+  <programme start="20211106035700 -0600" stop="20211106041900 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+  </programme>
+  <programme start="20211106041900 -0600" stop="20211106043900 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+  </programme>
+  <programme start="20211106043900 -0600" stop="20211106050100 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+  </programme>
+  <programme start="20211106050100 -0600" stop="20211106060000 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Flash</title>
+  </programme>
+  <programme start="20211106060000 -0600" stop="20211106071400 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Flash</title>
+  </programme>
+  <programme start="20211106071400 -0600" stop="20211106073400 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+  </programme>
+  <programme start="20211106073400 -0600" stop="20211106075500 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+  </programme>
+  <programme start="20211106075500 -0600" stop="20211106081500 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+  </programme>
+  <programme start="20211106081500 -0600" stop="20211106083700 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+  </programme>
+  <programme start="20211106083700 -0600" stop="20211106090200 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Brooklyn nine-nine</title>
+  </programme>
+  <programme start="20211106090200 -0600" stop="20211106092400 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Brooklyn nine-nine</title>
+  </programme>
+  <programme start="20211106092400 -0600" stop="20211106094800 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Z Kai</title>
+  </programme>
+  <programme start="20211106094800 -0600" stop="20211106101000 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Z Kai</title>
+  </programme>
+  <programme start="20211106101000 -0600" stop="20211106103400 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Z Kai</title>
+  </programme>
+  <programme start="20211106103400 -0600" stop="20211106105800 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Z Kai</title>
+  </programme>
+  <programme start="20211106105800 -0600" stop="20211106112200 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Z Kai</title>
+  </programme>
+  <programme start="20211106112200 -0600" stop="20211106130000 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Héroe de centro comercial</title>
+  </programme>
+  <programme start="20211106130000 -0600" stop="20211106143900 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Héroe de Centro Comercial 2</title>
+  </programme>
+  <programme start="20211106143900 -0600" stop="20211106162900 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Pixels</title>
+    <title lang="xx">Pixels</title>
+    <desc lang="es">Cuando extraterrestres perciben las señales de video juegos como una amenaza y las utilizan para atacar a la tierra de la misma forma.(n)</desc>
+  </programme>
+  <programme start="20211106162900 -0600" stop="20211106192500 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Harry Potter y la Cámara Secreta</title>
+    <desc lang="es">Después de un verano horrible Harry regresa a Hogwarts para comenzar su segundo año, pero cosas extrañas están por pasar en las paredes de la escuela.(n)</desc>
+  </programme>
+  <programme start="20211106192500 -0600" stop="20211106220000 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Harry Potter y el Prisionero de Azkaban</title>
+    <desc lang="es">Harry y sus amigos regresan a Hogwarts donde se ven obligados a lidiar con la verdad sobre el fugitivo Sirius Black y su relación con Harry y sus padres.(n)</desc>
+  </programme>
+  <programme start="20211106220000 -0600" stop="20211107003000 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Harry Potter y la Orden del Fénix</title>
+    <desc lang="es">El ministerio de magia trata de ocultar el regreso de Voldemort, mientras tanto Harry Potter y sus amigos se preparan en secreto para enfrentarlo.(n)</desc>
+  </programme>
+  <programme start="20211107220000 -0600" stop="20211108003000 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Harry Potter y la Orden del Fénix</title>
+    <desc lang="es">El ministerio de magia trata de ocultar el regreso de Voldemort, mientras tanto Harry Potter y sus amigos se preparan en secreto para enfrentarlo.(n)</desc>
+  </programme>
+  <programme start="20211108003000 -0600" stop="20211108023200 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Riddick</title>
+  </programme>
+  <programme start="20211108023200 -0600" stop="20211108025600 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Brooklyn nine-nine</title>
+  </programme>
+  <programme start="20211108025600 -0600" stop="20211108031800 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Brooklyn nine-nine</title>
+  </programme>
+  <programme start="20211108031800 -0600" stop="20211108033700 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+  </programme>
+  <programme start="20211108033700 -0600" stop="20211108035800 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+  </programme>
+  <programme start="20211108035800 -0600" stop="20211108041800 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+  </programme>
+  <programme start="20211108041800 -0600" stop="20211108043900 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+  </programme>
+  <programme start="20211108043900 -0600" stop="20211108060000 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Flash</title>
+  </programme>
+  <programme start="20211108060000 -0600" stop="20211108071800 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Flash</title>
+  </programme>
+  <programme start="20211108071800 -0600" stop="20211108073900 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+  </programme>
+  <programme start="20211108073900 -0600" stop="20211108080300 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Brooklyn nine-nine</title>
+  </programme>
+  <programme start="20211108080300 -0600" stop="20211108082600 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Brooklyn nine-nine</title>
+  </programme>
+  <programme start="20211108082600 -0600" stop="20211108085000 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Z Kai</title>
+  </programme>
+  <programme start="20211108085000 -0600" stop="20211108091200 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Z Kai</title>
+  </programme>
+  <programme start="20211108091200 -0600" stop="20211108093500 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Z Kai</title>
+  </programme>
+  <programme start="20211108093500 -0600" stop="20211108095900 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Z Kai</title>
+  </programme>
+  <programme start="20211108095900 -0600" stop="20211108102300 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Z Kai</title>
+  </programme>
+  <programme start="20211108102300 -0600" stop="20211108120700 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Pixels</title>
+    <title lang="xx">Pixels</title>
+    <desc lang="es">Cuando extraterrestres perciben las señales de video juegos como una amenaza y las utilizan para atacar a la tierra de la misma forma.(n)</desc>
+  </programme>
+  <programme start="20211108120700 -0600" stop="20211108140500 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Golpe bajo El juego final</title>
+  </programme>
+  <programme start="20211108140500 -0600" stop="20211108165600 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Harry Potter y la Cámara Secreta</title>
+    <desc lang="es">Después de un verano horrible Harry regresa a Hogwarts para comenzar su segundo año, pero cosas extrañas están por pasar en las paredes de la escuela.(n)</desc>
+  </programme>
+  <programme start="20211108165600 -0600" stop="20211108192600 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Harry Potter y el Prisionero de Azkaban</title>
+    <desc lang="es">Harry y sus amigos regresan a Hogwarts donde se ven obligados a lidiar con la verdad sobre el fugitivo Sirius Black y su relación con Harry y sus padres.(n)</desc>
+  </programme>
+  <programme start="20211108192600 -0600" stop="20211108220000 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Harry Potter y la Orden del Fénix</title>
+    <desc lang="es">El ministerio de magia trata de ocultar el regreso de Voldemort, mientras tanto Harry Potter y sus amigos se preparan en secreto para enfrentarlo.(n)</desc>
+  </programme>
+  <programme start="20211108220000 -0600" stop="20211109004700 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Batman El caballero de la noche</title>
+  </programme>
+  <programme start="20211109220000 -0600" stop="20211110004700 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Batman El caballero de la noche</title>
+  </programme>
+  <programme start="20211110004700 -0600" stop="20211110025200 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Cincuenta Sombras de Grey</title>
+    <title lang="xx">Fifty Shades of Grey</title>
+    <desc lang="es">La vida de la estudiante de literatura Anastasia Steele cambia para siempre cuando conoce al apuesto y multimillonario Christian Grey.(n)</desc>
+  </programme>
+  <programme start="20211110025200 -0600" stop="20211110031400 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Brooklyn nine-nine</title>
+  </programme>
+  <programme start="20211110031400 -0600" stop="20211110033700 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Brooklyn nine-nine</title>
+  </programme>
+  <programme start="20211110033700 -0600" stop="20211110035800 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+  </programme>
+  <programme start="20211110035800 -0600" stop="20211110041900 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+  </programme>
+  <programme start="20211110041900 -0600" stop="20211110044000 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+  </programme>
+  <programme start="20211110044000 -0600" stop="20211110060000 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Flash</title>
+  </programme>
+  <programme start="20211110060000 -0600" stop="20211110070700 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Flash</title>
+  </programme>
+  <programme start="20211110070700 -0600" stop="20211110072900 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+  </programme>
+  <programme start="20211110072900 -0600" stop="20211110075100 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+  </programme>
+  <programme start="20211110075100 -0600" stop="20211110081400 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Brooklyn nine-nine</title>
+  </programme>
+  <programme start="20211110081400 -0600" stop="20211110083700 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Brooklyn nine-nine</title>
+  </programme>
+  <programme start="20211110083700 -0600" stop="20211110090100 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Z Kai</title>
+  </programme>
+  <programme start="20211110090100 -0600" stop="20211110092600 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Z Kai</title>
+  </programme>
+  <programme start="20211110092600 -0600" stop="20211110111300 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Pixels</title>
+    <title lang="xx">Pixels</title>
+    <desc lang="es">Cuando extraterrestres perciben las señales de video juegos como una amenaza y las utilizan para atacar a la tierra de la misma forma.(n)</desc>
+  </programme>
+  <programme start="20211110111300 -0600" stop="20211110130900 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Golpe bajo El juego final</title>
+  </programme>
+  <programme start="20211110130900 -0600" stop="20211110145100 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">La Herencia del Sr. Deeds</title>
+  </programme>
+  <programme start="20211110145100 -0600" stop="20211110151400 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Brooklyn nine-nine</title>
+  </programme>
+  <programme start="20211110151400 -0600" stop="20211110153700 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Brooklyn nine-nine</title>
+  </programme>
+  <programme start="20211110153700 -0600" stop="20211110160200 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Z Kai</title>
+  </programme>
+  <programme start="20211110160200 -0600" stop="20211110162800 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Z Kai</title>
+  </programme>
+  <programme start="20211110162800 -0600" stop="20211110182000 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Gatubela</title>
+  </programme>
+  <programme start="20211110182000 -0600" stop="20211110211000 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Batman El caballero de la noche</title>
   </programme>
 </tv>

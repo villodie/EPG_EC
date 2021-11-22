@@ -12,8 +12,8 @@
     <display-name lang="es">Canal Ecuador TV</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal Teleamazonas">
-    <display-name lang="es">Canal Teleamazonas</display-name>
+  <channel id="Canal Teleamazonas ">
+    <display-name lang="es">Canal Teleamazonas </display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal TC Televisión">
@@ -427,261 +427,203 @@
   <programme start="20211123080000 -0600" stop="20211123100000 -0600" channel="Canal Ecuador TV">
     <title lang="es">Café TV</title>
   </programme>
-  <programme start="20211122000500 -0600" stop="20211122003000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123100000 -0600" stop="20211123110000 -0600" channel="Canal Ecuador TV">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20211122000500 -0600" stop="20211122003000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">En Corto</title>
   </programme>
-  <programme start="20211122003000 -0600" stop="20211122013000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122003000 -0600" stop="20211122013000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Mitos y verdades</title>
   </programme>
-  <programme start="20211122013000 -0600" stop="20211122021500 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122013000 -0600" stop="20211122021500 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Día a día</title>
   </programme>
-  <programme start="20211122021500 -0600" stop="20211122024500 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122021500 -0600" stop="20211122024500 -0600" channel="Canal Teleamazonas ">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211122024500 -0600" stop="20211122031500 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122024500 -0600" stop="20211122031500 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Deporte Total</title>
   </programme>
-  <programme start="20211122031500 -0600" stop="20211122033000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122031500 -0600" stop="20211122033000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">En Corto</title>
   </programme>
-  <programme start="20211122033000 -0600" stop="20211122041500 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122033000 -0600" stop="20211122041500 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Hora 25</title>
   </programme>
-  <programme start="20211122041500 -0600" stop="20211122050000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122041500 -0600" stop="20211122050000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Un Lugar en Tu Corazón</title>
   </programme>
-  <programme start="20211122050000 -0600" stop="20211122060000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122050000 -0600" stop="20211122060000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Pedro el Escamoso</title>
   </programme>
-  <programme start="20211122060000 -0600" stop="20211122065500 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122060000 -0600" stop="20211122065500 -0600" channel="Canal Teleamazonas ">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211122065500 -0600" stop="20211122073000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122065500 -0600" stop="20211122073000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Los Desayunos De 24 Horas</title>
   </programme>
-  <programme start="20211122073000 -0600" stop="20211122093000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122073000 -0600" stop="20211122093000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211122093000 -0600" stop="20211122113000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122093000 -0600" stop="20211122113000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Madre</title>
   </programme>
-  <programme start="20211122113000 -0600" stop="20211122123000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122113000 -0600" stop="20211122123000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Boys Over Flowers</title>
   </programme>
-  <programme start="20211122123000 -0600" stop="20211122130000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122123000 -0600" stop="20211122130000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Ace of cakes</title>
   </programme>
-  <programme start="20211122130000 -0600" stop="20211122135500 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122130000 -0600" stop="20211122135500 -0600" channel="Canal Teleamazonas ">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211122135500 -0600" stop="20211122143000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122135500 -0600" stop="20211122143000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Comunidad</title>
   </programme>
-  <programme start="20211122143000 -0600" stop="20211122144200 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122143000 -0600" stop="20211122144200 -0600" channel="Canal Teleamazonas ">
     <title lang="es">En Corto</title>
   </programme>
-  <programme start="20211122144200 -0600" stop="20211122150000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122144200 -0600" stop="20211122150000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Deporte Total</title>
   </programme>
-  <programme start="20211122150000 -0600" stop="20211122160000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122150000 -0600" stop="20211122160000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Bob Esponja</title>
   </programme>
-  <programme start="20211122160000 -0600" stop="20211122163000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122160000 -0600" stop="20211122163000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Los Pingüinos de Madagascar</title>
     <title lang="xx">The Penguins of Madagascar</title>
     <desc lang="es">Cuatro pingüinos que viven en el zoológico de Central Park en Nueva York deben usar sus habilidades de comando de primer nivel para resolver misiones.(n)</desc>
   </programme>
-  <programme start="20211122163000 -0600" stop="20211122170000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122163000 -0600" stop="20211122170000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Doraemon</title>
   </programme>
-  <programme start="20211122170000 -0600" stop="20211122180000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122170000 -0600" stop="20211122180000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Futurama</title>
   </programme>
-  <programme start="20211122180000 -0600" stop="20211122190000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122180000 -0600" stop="20211122190000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Nuevo rico, nuevo pobre</title>
   </programme>
-  <programme start="20211122190000 -0600" stop="20211122200000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122190000 -0600" stop="20211122200000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Los Simpson</title>
     <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.(n)</desc>
   </programme>
-  <programme start="20211122200000 -0600" stop="20211122210000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122200000 -0600" stop="20211122210000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211122210000 -0600" stop="20211122224500 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122210000 -0600" stop="20211122224500 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Master Chef Ecuador</title>
   </programme>
-  <programme start="20211122224500 -0600" stop="20211122230000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122224500 -0600" stop="20211122230000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Las muñecas de la mafia</title>
   </programme>
-  <programme start="20211122230000 -0600" stop="20211122231000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122230000 -0600" stop="20211122231000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">La ley secreta</title>
   </programme>
-  <programme start="20211122231000 -0600" stop="20211123001500 -0600" channel="Canal Teleamazonas">
+  <programme start="20211122231000 -0600" stop="20211123001500 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Perseguidos</title>
     <desc lang="es">Un capo perseguido por la justicia ha sido traicionado, ahora las autoridades por fin logran seguirle el rastro y desean capturarlo vivo o muerto.(n)</desc>
   </programme>
-  <programme start="20211123001500 -0600" stop="20211123011500 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123001500 -0600" stop="20211123011500 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Homeland</title>
     <title lang="xx">Homeland</title>
-    <desc lang="es">Una oficial de la CIA se convence a si misma que el rescate de un soldado dado por muerto años atrás se trata de un complot de Al Qaeda en suelo americano.</desc>
+    <desc lang="es">Una oficial de la CIA se convence a si misma que el rescate de un soldado dado por muerto años atrás se trata de un complot de Al Qaeda en suelo americano.(n)</desc>
   </programme>
-  <programme start="20211123011500 -0600" stop="20211123020000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123011500 -0600" stop="20211123020000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Vivos</title>
   </programme>
-  <programme start="20211123020000 -0600" stop="20211123023000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123020000 -0600" stop="20211123023000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211123023000 -0600" stop="20211123024500 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123023000 -0600" stop="20211123024500 -0600" channel="Canal Teleamazonas ">
     <title lang="es">24 horas</title>
   </programme>
-  <programme start="20211123024500 -0600" stop="20211123033000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123024500 -0600" stop="20211123033000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Divino niño</title>
   </programme>
-  <programme start="20211123033000 -0600" stop="20211123040000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123033000 -0600" stop="20211123040000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Educa</title>
   </programme>
-  <programme start="20211123040000 -0600" stop="20211123050000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123040000 -0600" stop="20211123050000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Search</title>
   </programme>
-  <programme start="20211123050000 -0600" stop="20211123060000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123050000 -0600" stop="20211123060000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Pedro el Escamoso</title>
   </programme>
-  <programme start="20211123060000 -0600" stop="20211123065500 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123060000 -0600" stop="20211123065500 -0600" channel="Canal Teleamazonas ">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211123065500 -0600" stop="20211123073000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123065500 -0600" stop="20211123073000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Los Desayunos De 24 Horas</title>
   </programme>
-  <programme start="20211123073000 -0600" stop="20211123093000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123073000 -0600" stop="20211123093000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211123093000 -0600" stop="20211123113000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123093000 -0600" stop="20211123113000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Madre</title>
   </programme>
-  <programme start="20211123113000 -0600" stop="20211123123000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123113000 -0600" stop="20211123123000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Boys Over Flowers</title>
   </programme>
-  <programme start="20211123123000 -0600" stop="20211123130000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123123000 -0600" stop="20211123130000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Ace of cakes</title>
   </programme>
-  <programme start="20211123130000 -0600" stop="20211123135500 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123130000 -0600" stop="20211123135500 -0600" channel="Canal Teleamazonas ">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211123135500 -0600" stop="20211123143000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123135500 -0600" stop="20211123143000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Comunidad</title>
   </programme>
-  <programme start="20211123143000 -0600" stop="20211123144200 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123143000 -0600" stop="20211123144200 -0600" channel="Canal Teleamazonas ">
     <title lang="es">En Corto</title>
   </programme>
-  <programme start="20211123144200 -0600" stop="20211123150000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123144200 -0600" stop="20211123150000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Deporte Total</title>
   </programme>
-  <programme start="20211123150000 -0600" stop="20211123160000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123150000 -0600" stop="20211123160000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Bob Esponja</title>
   </programme>
-  <programme start="20211123160000 -0600" stop="20211123163000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123160000 -0600" stop="20211123163000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Los Pingüinos de Madagascar</title>
     <title lang="xx">The Penguins of Madagascar</title>
-    <desc lang="es">Cuatro pingüinos que viven en el zoológico de Central Park en Nueva York deben usar sus habilidades de comando de primer nivel para resolver misiones.</desc>
+    <desc lang="es">Cuatro pingüinos que viven en el zoológico de Central Park en Nueva York deben usar sus habilidades de comando de primer nivel para resolver misiones.(n)</desc>
   </programme>
-  <programme start="20211123163000 -0600" stop="20211123170000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123163000 -0600" stop="20211123170000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Doraemon</title>
   </programme>
-  <programme start="20211123170000 -0600" stop="20211123180000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123170000 -0600" stop="20211123180000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Futurama</title>
   </programme>
-  <programme start="20211123180000 -0600" stop="20211123190000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123180000 -0600" stop="20211123190000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Nuevo rico, nuevo pobre</title>
   </programme>
-  <programme start="20211123190000 -0600" stop="20211123200000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123190000 -0600" stop="20211123200000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Los Simpson</title>
-    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.(n)</desc>
   </programme>
-  <programme start="20211123200000 -0600" stop="20211123210000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123200000 -0600" stop="20211123210000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211123210000 -0600" stop="20211123224500 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123210000 -0600" stop="20211123224500 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Master Chef Ecuador</title>
   </programme>
-  <programme start="20211123224500 -0600" stop="20211123230000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123224500 -0600" stop="20211123230000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Las muñecas de la mafia</title>
   </programme>
-  <programme start="20211123230000 -0600" stop="20211123231000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123230000 -0600" stop="20211123231000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">La ley secreta</title>
   </programme>
-  <programme start="20211123231000 -0600" stop="20211124001500 -0600" channel="Canal Teleamazonas">
+  <programme start="20211123231000 -0600" stop="20211124001500 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Perseguidos</title>
-    <desc lang="es">Un capo perseguido por la justicia ha sido traicionado, ahora las autoridades por fin logran seguirle el rastro y desean capturarlo vivo o muerto.</desc>
+    <desc lang="es">Un capo perseguido por la justicia ha sido traicionado, ahora las autoridades por fin logran seguirle el rastro y desean capturarlo vivo o muerto.(n)</desc>
   </programme>
-  <programme start="20211124001500 -0600" stop="20211124011500 -0600" channel="Canal Teleamazonas">
-    <title lang="es">Homeland</title>
-    <title lang="xx">Homeland</title>
-    <desc lang="es">Una oficial de la CIA se convence a si misma que el rescate de un soldado dado por muerto años atrás se trata de un complot de Al Qaeda en suelo americano.</desc>
-  </programme>
-  <programme start="20211124024500 -0600" stop="20211124033000 -0600" channel="Canal Teleamazonas">
-    <title lang="es">Divino niño</title>
-  </programme>
-  <programme start="20211124033000 -0600" stop="20211124040000 -0600" channel="Canal Teleamazonas">
-    <title lang="es">Educa</title>
-  </programme>
-  <programme start="20211124040000 -0600" stop="20211124050000 -0600" channel="Canal Teleamazonas">
+  <programme start="20211124040000 -0600" stop="20211124050000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Un Lugar en Tu Corazón</title>
   </programme>
-  <programme start="20211124050000 -0600" stop="20211124060000 -0600" channel="Canal Teleamazonas">
-    <title lang="es">Pedro el Escamoso</title>
-  </programme>
-  <programme start="20211124060000 -0600" stop="20211124065500 -0600" channel="Canal Teleamazonas">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20211124065500 -0600" stop="20211124073000 -0600" channel="Canal Teleamazonas">
-    <title lang="es">Los Desayunos De 24 Horas</title>
-  </programme>
-  <programme start="20211124073000 -0600" stop="20211124093000 -0600" channel="Canal Teleamazonas">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20211124093000 -0600" stop="20211124113000 -0600" channel="Canal Teleamazonas">
-    <title lang="es">Madre</title>
-  </programme>
-  <programme start="20211124113000 -0600" stop="20211124123000 -0600" channel="Canal Teleamazonas">
-    <title lang="es">Boys Over Flowers</title>
-  </programme>
-  <programme start="20211124123000 -0600" stop="20211124130000 -0600" channel="Canal Teleamazonas">
-    <title lang="es">Ace of cakes</title>
-  </programme>
-  <programme start="20211124130000 -0600" stop="20211124135500 -0600" channel="Canal Teleamazonas">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20211124135500 -0600" stop="20211124143000 -0600" channel="Canal Teleamazonas">
-    <title lang="es">Comunidad</title>
-  </programme>
-  <programme start="20211124143000 -0600" stop="20211124144200 -0600" channel="Canal Teleamazonas">
-    <title lang="es">En Corto</title>
-  </programme>
-  <programme start="20211124144200 -0600" stop="20211124150000 -0600" channel="Canal Teleamazonas">
-    <title lang="es">Deporte Total</title>
-  </programme>
-  <programme start="20211124150000 -0600" stop="20211124160000 -0600" channel="Canal Teleamazonas">
-    <title lang="es">Bob Esponja</title>
-  </programme>
-  <programme start="20211124160000 -0600" stop="20211124163000 -0600" channel="Canal Teleamazonas">
-    <title lang="es">Los Pingüinos de Madagascar</title>
-    <title lang="xx">The Penguins of Madagascar</title>
-    <desc lang="es">Cuatro pingüinos que viven en el zoológico de Central Park en Nueva York deben usar sus habilidades de comando de primer nivel para resolver misiones.</desc>
-  </programme>
-  <programme start="20211124163000 -0600" stop="20211124170000 -0600" channel="Canal Teleamazonas">
-    <title lang="es">Doraemon</title>
-  </programme>
-  <programme start="20211124170000 -0600" stop="20211124180000 -0600" channel="Canal Teleamazonas">
-    <title lang="es">Futurama</title>
-  </programme>
-  <programme start="20211124180000 -0600" stop="20211124190000 -0600" channel="Canal Teleamazonas">
-    <title lang="es">Nuevo rico, nuevo pobre</title>
-  </programme>
-  <programme start="20211125001500 -0600" stop="20211125011500 -0600" channel="Canal Teleamazonas">
+  <programme start="20211125001500 -0600" stop="20211125011500 -0600" channel="Canal Teleamazonas ">
     <title lang="es">C.S.I. Miami</title>
     <title lang="xx">CSI: Miami</title>
-    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.</desc>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.(n)</desc>
   </programme>
   <programme start="20211122003000 -0600" stop="20211122010000 -0600" channel="Canal TC Televisión">
     <title lang="es">La Niñera</title>
@@ -992,6 +934,9 @@
   <programme start="20211123073000 -0600" stop="20211123083000 -0600" channel="Canal Gamavisión">
     <title lang="es">Outlet TV</title>
   </programme>
+  <programme start="20211123083000 -0600" stop="20211123130000 -0600" channel="Canal Gamavisión">
+    <title lang="es">Novedades TV</title>
+  </programme>
   <programme start="20211122010000 -0600" stop="20211122020000 -0600" channel="Canal RTS">
     <title lang="es">NÚM3ROS</title>
   </programme>
@@ -1086,6 +1031,9 @@
   </programme>
   <programme start="20211123080000 -0600" stop="20211123093000 -0600" channel="Canal RTS">
     <title lang="es">La noticia en la comunidad</title>
+  </programme>
+  <programme start="20211123093000 -0600" stop="20211123110000 -0600" channel="Canal RTS">
+    <title lang="es">Noticias de la mañana</title>
   </programme>
   <programme start="20211124040000 -0600" stop="20211124050000 -0600" channel="Canal RTS">
     <title lang="es">Educa</title>
@@ -1457,12 +1405,12 @@
   <programme start="20211123000700 -0600" stop="20211123032100 -0600" channel="Canal Cinemax (México)">
     <title lang="es">El Lobo de Wall Street</title>
     <title lang="xx">The Wolf of Wall Street</title>
-    <desc lang="es">La verdadera historia de Jordan Beltford, desde sus inicios cómo un adinerado corredor de bolsa hasta su caída envuelto en crímenes, corrupción y drogas.(c)</desc>
+    <desc lang="es">La verdadera historia de Jordan Beltford, desde sus inicios cómo un adinerado corredor de bolsa hasta su caída envuelto en crímenes, corrupción y drogas.</desc>
   </programme>
   <programme start="20211123032100 -0600" stop="20211123070000 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Rescate en Entebbe</title>
     <title lang="xx">Entebbe</title>
-    <desc lang="es">Basa en hechos reales del secuestro del vuelo con ruta de Tel Aviv a París en 1976, mostrando la misión de rescate más alucinante que se haya intentado.(c)</desc>
+    <desc lang="es">Basa en hechos reales del secuestro del vuelo con ruta de Tel Aviv a París en 1976, mostrando la misión de rescate más alucinante que se haya intentado.</desc>
   </programme>
   <programme start="20211123070000 -0600" stop="20211123082700 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Mi papá es un gato</title>
@@ -1490,7 +1438,7 @@
   </programme>
   <programme start="20211124000100 -0600" stop="20211124024100 -0600" channel="Canal Cinemax (México)">
     <title lang="es">El Gran Gatsby</title>
-    <desc lang="es">Un veterano de la primera guerra mundial se encuentra a si mismo atraído al pasado y estilo de vida de su vecino millonario.(c)</desc>
+    <desc lang="es">Un veterano de la primera guerra mundial se encuentra a si mismo atraído al pasado y estilo de vida de su vecino millonario.</desc>
   </programme>
   <programme start="20211124024100 -0600" stop="20211124051200 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Cazadores de sombras</title>
@@ -1503,7 +1451,7 @@
   </programme>
   <programme start="20211124084300 -0600" stop="20211124103000 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Resident Evil: La Resurrección</title>
-    <desc lang="es">Cuarto film de la serie Resident Evil, Alice recibe ayuda de un viejo amigo para enfrentarse una vez más a la corporación Umbrella.(c)</desc>
+    <desc lang="es">Cuarto film de la serie Resident Evil, Alice recibe ayuda de un viejo amigo para enfrentarse una vez más a la corporación Umbrella.</desc>
   </programme>
   <programme start="20211124103000 -0600" stop="20211124123000 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Malmo vs. Zenit</title>
@@ -1520,11 +1468,11 @@
   <programme start="20211124184300 -0600" stop="20211124212600 -0600" channel="Canal Cinemax (México)">
     <title lang="es">El Robo Perfecto</title>
     <title lang="xx">Den of Thieves</title>
-    <desc lang="es">Una unidad de élite del condado de Los Ángeles persigue a una banda de asaltantes que planean un robo en la Reserva Federal en el centro de la ciudad.(c)</desc>
+    <desc lang="es">Una unidad de élite del condado de Los Ángeles persigue a una banda de asaltantes que planean un robo en la Reserva Federal en el centro de la ciudad.</desc>
   </programme>
   <programme start="20211124212600 -0600" stop="20211124231200 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Resident Evil: La Resurrección</title>
-    <desc lang="es">Cuarto film de la serie Resident Evil, Alice recibe ayuda de un viejo amigo para enfrentarse una vez más a la corporación Umbrella.(c)</desc>
+    <desc lang="es">Cuarto film de la serie Resident Evil, Alice recibe ayuda de un viejo amigo para enfrentarse una vez más a la corporación Umbrella.</desc>
   </programme>
   <programme start="20211124231200 -0600" stop="20211125005600 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Ecos en la Oscuridad</title>
@@ -1532,7 +1480,7 @@
   <programme start="20211125005600 -0600" stop="20211125033800 -0600" channel="Canal Cinemax (México)">
     <title lang="es">El Robo Perfecto</title>
     <title lang="xx">Den of Thieves</title>
-    <desc lang="es">Una unidad de élite del condado de Los Ángeles persigue a una banda de asaltantes que planean un robo en la Reserva Federal en el centro de la ciudad.(g)</desc>
+    <desc lang="es">Una unidad de élite del condado de Los Ángeles persigue a una banda de asaltantes que planean un robo en la Reserva Federal en el centro de la ciudad.</desc>
   </programme>
   <programme start="20211125033800 -0600" stop="20211125051900 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Yo soy la venganza</title>
@@ -1552,7 +1500,7 @@
   <programme start="20211125130600 -0600" stop="20211125150900 -0600" channel="Canal Cinemax (México)">
     <title lang="es">¿Cómo Sobrevivir a mi Ex?</title>
     <title lang="xx">Forgetting Sarah Marshall</title>
-    <desc lang="es">Cuando la despampanante novia de Peter rompe con él, un amigo le recomienda tomar unas vacaciones en Hawái para su mala fortuna se encontrará con su ex.(g)</desc>
+    <desc lang="es">Cuando la despampanante novia de Peter rompe con él, un amigo le recomienda tomar unas vacaciones en Hawái para su mala fortuna se encontrará con su ex.</desc>
   </programme>
   <programme start="20211125150900 -0600" stop="20211125164600 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Locos por los votos</title>
@@ -1572,12 +1520,12 @@
   <programme start="20211126000000 -0600" stop="20211126002800 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Ballers</title>
     <title lang="xx">Ballers</title>
-    <desc lang="es">Una super estrella retirada del futbol americano está tratando de encontrar un punto de apoyo como gerente financiero para los jugadores actuales.(c)</desc>
+    <desc lang="es">Una super estrella retirada del futbol americano está tratando de encontrar un punto de apoyo como gerente financiero para los jugadores actuales.</desc>
   </programme>
   <programme start="20211126002800 -0600" stop="20211126005100 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Ballers</title>
     <title lang="xx">Ballers</title>
-    <desc lang="es">Una super estrella retirada del futbol americano está tratando de encontrar un punto de apoyo como gerente financiero para los jugadores actuales.(n)</desc>
+    <desc lang="es">Una super estrella retirada del futbol americano está tratando de encontrar un punto de apoyo como gerente financiero para los jugadores actuales.</desc>
   </programme>
   <programme start="20211126005100 -0600" stop="20211126024500 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Club de las madres rebeldes</title>
@@ -1591,7 +1539,7 @@
   <programme start="20211126070000 -0600" stop="20211126083300 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Locos por las Nueces 2</title>
     <title lang="xx">The Nut Job 2</title>
-    <desc lang="es">Cuando el alcalde decide destruir el Parque Liberty para construir un peligroso parque de diversiones en su lugar.  Surly y su pandilla intentarán impedirlo.(n)</desc>
+    <desc lang="es">Cuando el alcalde decide destruir el Parque Liberty para construir un peligroso parque de diversiones en su lugar.  Surly y su pandilla intentarán impedirlo.</desc>
   </programme>
   <programme start="20211126083300 -0600" stop="20211126103300 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Obsesión</title>
@@ -1599,19 +1547,19 @@
   <programme start="20211126103300 -0600" stop="20211126122400 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Resident Evil</title>
     <title lang="xx">Resident Evil</title>
-    <desc lang="es">Cuando un virus letal es liberado accidentalmente, un equipo de élite altamente entrenado tratara de pasar las defensas de una computadora para contenerlo.(n)</desc>
+    <desc lang="es">Cuando un virus letal es liberado accidentalmente, un equipo de élite altamente entrenado tratara de pasar las defensas de una computadora para contenerlo.</desc>
   </programme>
   <programme start="20211126122400 -0600" stop="20211126140000 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Priest El Vengador</title>
   </programme>
   <programme start="20211126140000 -0600" stop="20211126160500 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Oblivion – El Tiempo del Olvido –</title>
-    <desc lang="es">Tom Cruise. Un reparador de drones del planeta tierra desvastado luego de décadas de guerras con los extraterrestres descubre los restos de una nave espacial.(n)</desc>
+    <desc lang="es">Tom Cruise. Un reparador de drones del planeta tierra desvastado luego de décadas de guerras con los extraterrestres descubre los restos de una nave espacial.</desc>
   </programme>
   <programme start="20211126160500 -0600" stop="20211126180000 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Greta</title>
     <title lang="xx">Greta</title>
-    <desc lang="es">Cuando una dulce e ingenua joven encuentra un bolso en el metro decide devolverlo a su legitima propietaria sin saber que tiene un lado oculto.(n)</desc>
+    <desc lang="es">Cuando una dulce e ingenua joven encuentra un bolso en el metro decide devolverlo a su legitima propietaria sin saber que tiene un lado oculto.</desc>
   </programme>
   <programme start="20211126180000 -0600" stop="20211126200900 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Dos Armas Letales</title>
@@ -1619,11 +1567,11 @@
   <programme start="20211126200900 -0600" stop="20211126220000 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Resident Evil</title>
     <title lang="xx">Resident Evil</title>
-    <desc lang="es">Cuando un virus letal es liberado accidentalmente, un equipo de élite altamente entrenado tratara de pasar las defensas de una computadora para contenerlo.(n)</desc>
+    <desc lang="es">Cuando un virus letal es liberado accidentalmente, un equipo de élite altamente entrenado tratara de pasar las defensas de una computadora para contenerlo.</desc>
   </programme>
   <programme start="20211126220000 -0600" stop="20211127000400 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Oblivion – El Tiempo del Olvido –</title>
-    <desc lang="es">Tom Cruise. Un reparador de drones del planeta tierra desvastado luego de décadas de guerras con los extraterrestres descubre los restos de una nave espacial.(n)</desc>
+    <desc lang="es">Tom Cruise. Un reparador de drones del planeta tierra desvastado luego de décadas de guerras con los extraterrestres descubre los restos de una nave espacial.</desc>
   </programme>
   <programme start="20211122012400 -0600" stop="20211122021300 -0600" channel="Canal National Geographic (Centro)">
     <title lang="es">En primera persona</title>
@@ -1921,11 +1869,11 @@
   </programme>
   <programme start="20211124000000 -0600" stop="20211124010000 -0600" channel="Canal ESPN 2 (Colombia)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(c)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
   </programme>
   <programme start="20211124010000 -0600" stop="20211124020000 -0600" channel="Canal ESPN 2 (Colombia)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(c)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
   </programme>
   <programme start="20211124043000 -0600" stop="20211124060000 -0600" channel="Canal ESPN 2 (Colombia)">
     <title lang="es">ESPN F360</title>
@@ -1965,7 +1913,7 @@
   </programme>
   <programme start="20211124170000 -0600" stop="20211124190000 -0600" channel="Canal ESPN 2 (Colombia)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(g)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
   </programme>
   <programme start="20211124190000 -0600" stop="20211124193000 -0600" channel="Canal ESPN 2 (Colombia)">
     <title lang="es">NBA Action</title>
@@ -1981,11 +1929,11 @@
   </programme>
   <programme start="20211126003000 -0600" stop="20211126013000 -0600" channel="Canal ESPN 2 (Colombia)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
   </programme>
   <programme start="20211126013000 -0600" stop="20211126023000 -0600" channel="Canal ESPN 2 (Colombia)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
   </programme>
   <programme start="20211126023000 -0600" stop="20211126030000 -0600" channel="Canal ESPN 2 (Colombia)">
     <title lang="es">M.L.S. Magazine</title>
@@ -2031,7 +1979,7 @@
   </programme>
   <programme start="20211126165500 -0600" stop="20211126190000 -0600" channel="Canal ESPN 2 (Colombia)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
   </programme>
   <programme start="20211122002000 +0000" stop="20211122022500 +0000" channel="ESPN 2">
     <title lang="es">Fútbol Argentino - Lpf 2021</title>
@@ -2235,143 +2183,143 @@
   </programme>
   <programme start="20211125000000 +0000" stop="20211125002000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
   </programme>
   <programme start="20211125002000 +0000" stop="20211125022500 +0000" channel="ESPN 2">
     <title lang="es">Independiente VS Boca Juniors - LPF 2021</title>
-    <desc lang="es">La Liga Profesional de Fútbol Argentino, conocida como Liga Profesional de Fútbol o Liga Profesional o por la sigla LPF, es un órgano interno de la AFA, creado oficialmente en la asamblea extraordinaria del 19 de mayo de 2020.(n)</desc>
+    <desc lang="es">La Liga Profesional de Fútbol Argentino, conocida como Liga Profesional de Fútbol o Liga Profesional o por la sigla LPF, es un órgano interno de la AFA, creado oficialmente en la asamblea extraordinaria del 19 de mayo de 2020.</desc>
   </programme>
   <programme start="20211125022500 +0000" stop="20211125040000 +0000" channel="ESPN 2">
     <title lang="es">Espn F90</title>
-    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.(n)</desc>
+    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.</desc>
   </programme>
   <programme start="20211125040000 +0000" stop="20211125050000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
   </programme>
   <programme start="20211125050000 +0000" stop="20211125060000 +0000" channel="ESPN 2">
     <title lang="es">Espn F90</title>
-    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.(n)</desc>
+    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.</desc>
   </programme>
   <programme start="20211125060000 +0000" stop="20211125070000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
   </programme>
   <programme start="20211125070000 +0000" stop="20211125080000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
   </programme>
   <programme start="20211125080000 +0000" stop="20211125083000 +0000" channel="ESPN 2">
     <title lang="es">ESPN W</title>
-    <desc lang="es">ESPN trae para ti todo sobre el deporte femenino a nivel mundial.(n)</desc>
+    <desc lang="es">ESPN trae para ti todo sobre el deporte femenino a nivel mundial.</desc>
   </programme>
   <programme start="20211125083000 +0000" stop="20211125090000 +0000" channel="ESPN 2">
     <title lang="es">Espn Ciclismo</title>
-    <desc lang="es">Programa de ESPN dedicado al ciclismo.(n)</desc>
+    <desc lang="es">Programa de ESPN dedicado al ciclismo.</desc>
   </programme>
   <programme start="20211125090000 +0000" stop="20211125100000 +0000" channel="ESPN 2">
     <title lang="es">Uefa Champions League Highlights</title>
-    <desc lang="es">ESPN trae para ti toda la acción de la UEFA Champions League, la competencia de clubes más importante del mundo.(n)</desc>
+    <desc lang="es">ESPN trae para ti toda la acción de la UEFA Champions League, la competencia de clubes más importante del mundo.</desc>
   </programme>
   <programme start="20211125100000 +0000" stop="20211125110000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
   </programme>
   <programme start="20211125110000 +0000" stop="20211125150000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
   </programme>
   <programme start="20211125150000 +0000" stop="20211125160000 +0000" channel="ESPN 2">
     <title lang="es">Espn F90</title>
-    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.(n)</desc>
+    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.</desc>
   </programme>
   <programme start="20211125160000 +0000" stop="20211125173000 +0000" channel="ESPN 2">
     <title lang="es">Balón Dividido</title>
-    <desc lang="es">El análisis y la actualidad del fútbol de Colombia, a cargo de los especialistas de ESPN.(n)</desc>
+    <desc lang="es">El análisis y la actualidad del fútbol de Colombia, a cargo de los especialistas de ESPN.</desc>
   </programme>
   <programme start="20211125173000 +0000" stop="20211125194000 +0000" channel="ESPN 2">
     <title lang="es">Bayer Leverkusen VS Celtic - UEL 2021-22</title>
-    <desc lang="es">La Liga de Europa de la UEFA es una competición continental de clubes organizada por la Unión de Asociaciones Europeas de Fútbol (UEFA), considerada la segunda más prestigiosa de Europa, tras la Liga de Campeones y una de las tres competiciones continentales organizadas por la UEFA, junto a la Liga de Conferencia.(n)</desc>
+    <desc lang="es">La Liga de Europa de la UEFA es una competición continental de clubes organizada por la Unión de Asociaciones Europeas de Fútbol (UEFA), considerada la segunda más prestigiosa de Europa, tras la Liga de Campeones y una de las tres competiciones continentales organizadas por la UEFA, junto a la Liga de Conferencia.</desc>
   </programme>
   <programme start="20211125194000 +0000" stop="20211125215500 +0000" channel="ESPN 2">
     <title lang="es">Monaco VS Real Sociedad - UEL 2021-22</title>
-    <desc lang="es">La Liga de Europa de la UEFA es una competición continental de clubes organizada por la Unión de Asociaciones Europeas de Fútbol (UEFA), considerada la segunda más prestigiosa de Europa, tras la Liga de Campeones y una de las tres competiciones continentales organizadas por la UEFA, junto a la Liga de Conferencia.(n)</desc>
+    <desc lang="es">La Liga de Europa de la UEFA es una competición continental de clubes organizada por la Unión de Asociaciones Europeas de Fútbol (UEFA), considerada la segunda más prestigiosa de Europa, tras la Liga de Campeones y una de las tres competiciones continentales organizadas por la UEFA, junto a la Liga de Conferencia.</desc>
   </programme>
   <programme start="20211125215500 +0000" stop="20211125230000 +0000" channel="ESPN 2">
     <title lang="es">Espn F Show</title>
-    <desc lang="es">Infórmate sobre las noticias más importantes del mundo deportivo en el ámbito nacional e internacional, las últimas tendencias de las redes frente a la actualidad, y contará con jugosas entrevistas a invitados especiales.(n)</desc>
+    <desc lang="es">Infórmate sobre las noticias más importantes del mundo deportivo en el ámbito nacional e internacional, las últimas tendencias de las redes frente a la actualidad, y contará con jugosas entrevistas a invitados especiales.</desc>
   </programme>
   <programme start="20211125230000 +0000" stop="20211126000000 +0000" channel="ESPN 2">
     <title lang="es">Espn F360</title>
-    <desc lang="es">Por medio de una discusión entre los panelistas, se tratarán temas de análisis sobre la agenda diaria del fútbol internacional y todo el mundo deportivo.(n)</desc>
+    <desc lang="es">Por medio de una discusión entre los panelistas, se tratarán temas de análisis sobre la agenda diaria del fútbol internacional y todo el mundo deportivo.</desc>
   </programme>
   <programme start="20211126000000 +0000" stop="20211126002000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
   </programme>
   <programme start="20211126002000 +0000" stop="20211126022500 +0000" channel="ESPN 2">
     <title lang="es">River Plate VS Racing Club - LPF 2021</title>
-    <desc lang="es">La Liga Profesional de Fútbol Argentino, conocida como Liga Profesional de Fútbol o Liga Profesional o por la sigla LPF, es un órgano interno de la AFA, creado oficialmente en la asamblea extraordinaria del 19 de mayo de 2020.(n)</desc>
+    <desc lang="es">La Liga Profesional de Fútbol Argentino, conocida como Liga Profesional de Fútbol o Liga Profesional o por la sigla LPF, es un órgano interno de la AFA, creado oficialmente en la asamblea extraordinaria del 19 de mayo de 2020.</desc>
   </programme>
   <programme start="20211126022500 +0000" stop="20211126040000 +0000" channel="ESPN 2">
     <title lang="es">Espn F90</title>
-    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.(n)</desc>
+    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.</desc>
   </programme>
   <programme start="20211126040000 +0000" stop="20211126050000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
   </programme>
   <programme start="20211126050000 +0000" stop="20211126060000 +0000" channel="ESPN 2">
     <title lang="es">Espn F90</title>
-    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.(n)</desc>
+    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.</desc>
   </programme>
   <programme start="20211126060000 +0000" stop="20211126070000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
   </programme>
   <programme start="20211126070000 +0000" stop="20211126080000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
   </programme>
   <programme start="20211126080000 +0000" stop="20211126090000 +0000" channel="ESPN 2">
     <title lang="es">Simplemente Fútbol</title>
-    <desc lang="es">Programa deportivo conducida por el periodista y ex-futbolista Quique Wolff. Presenta entrevistas con los grandes protagonositas en al historia de futbol mundial, ademas de tu trayectoria.(n)</desc>
+    <desc lang="es">Programa deportivo conducida por el periodista y ex-futbolista Quique Wolff. Presenta entrevistas con los grandes protagonositas en al historia de futbol mundial, ademas de tu trayectoria.</desc>
   </programme>
   <programme start="20211126090000 +0000" stop="20211126100000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
   </programme>
   <programme start="20211126100000 +0000" stop="20211126110000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
   </programme>
   <programme start="20211126110000 +0000" stop="20211126150000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
   </programme>
   <programme start="20211126150000 +0000" stop="20211126160000 +0000" channel="ESPN 2">
     <title lang="es">Espn F90</title>
-    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.(n)</desc>
+    <desc lang="es">Un ´espacio abierto para el debate y la opinión´, dirigido a los amantes del fútbol nacional. Contará con temas de análisis y entrevistas sobre la actualidad deportiva.</desc>
   </programme>
   <programme start="20211126160000 +0000" stop="20211126180000 +0000" channel="ESPN 2">
     <title lang="es">Espn F90</title>
-    <desc lang="es">Lo mejor del deporte a nivel mundial.(n)</desc>
+    <desc lang="es">Lo mejor del deporte a nivel mundial.</desc>
   </programme>
   <programme start="20211126180000 +0000" stop="20211126193000 +0000" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.</desc>
   </programme>
   <programme start="20211126193000 +0000" stop="20211126210000 +0000" channel="ESPN 2">
     <title lang="es">Balón Dividido</title>
-    <desc lang="es">El análisis y la actualidad del fútbol de Colombia, a cargo de los especialistas de ESPN.(n)</desc>
+    <desc lang="es">El análisis y la actualidad del fútbol de Colombia, a cargo de los especialistas de ESPN.</desc>
   </programme>
   <programme start="20211126210000 +0000" stop="20211126223000 +0000" channel="ESPN 2">
     <title lang="es">Espn F Show</title>
-    <desc lang="es">Infórmate sobre las noticias más importantes del mundo deportivo en el ámbito nacional e internacional, las últimas tendencias de las redes frente a la actualidad, y contará con jugosas entrevistas a invitados especiales.(n)</desc>
+    <desc lang="es">Infórmate sobre las noticias más importantes del mundo deportivo en el ámbito nacional e internacional, las últimas tendencias de las redes frente a la actualidad, y contará con jugosas entrevistas a invitados especiales.</desc>
   </programme>
   <programme start="20211126223000 +0000" stop="20211127000000 +0000" channel="ESPN 2">
     <title lang="es">Espn F360</title>
-    <desc lang="es">Por medio de una discusión entre los panelistas, se tratarán temas de análisis sobre la agenda diaria del fútbol internacional y todo el mundo deportivo.(n)</desc>
+    <desc lang="es">Por medio de una discusión entre los panelistas, se tratarán temas de análisis sobre la agenda diaria del fútbol internacional y todo el mundo deportivo.</desc>
   </programme>
   <programme start="20211122003000 -0600" stop="20211122023000 -0600" channel="Canal Ecuavisa Internacional">
     <title lang="es">Encantadoras</title>
@@ -3009,23 +2957,23 @@
   </programme>
   <programme start="20211123030800 -0600" stop="20211123033000 -0600" channel="Canal Warner TV (Panregional)">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
   </programme>
   <programme start="20211123033000 -0600" stop="20211123035000 -0600" channel="Canal Warner TV (Panregional)">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
   </programme>
   <programme start="20211123035000 -0600" stop="20211123040900 -0600" channel="Canal Warner TV (Panregional)">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
   </programme>
   <programme start="20211123040900 -0600" stop="20211123042900 -0600" channel="Canal Warner TV (Panregional)">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
   </programme>
   <programme start="20211123042900 -0600" stop="20211123045100 -0600" channel="Canal Warner TV (Panregional)">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
   </programme>
   <programme start="20211123045100 -0600" stop="20211123060000 -0600" channel="Canal Warner TV (Panregional)">
     <title lang="es">Legends of tomorrow</title>
@@ -3035,7 +2983,7 @@
   </programme>
   <programme start="20211123070400 -0600" stop="20211123072700 -0600" channel="Canal Warner TV (Panregional)">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
   </programme>
   <programme start="20211123072700 -0600" stop="20211123075100 -0600" channel="Canal Warner TV (Panregional)">
     <title lang="es">Brooklyn nine-nine</title>
@@ -3057,7 +3005,7 @@
   </programme>
   <programme start="20211123125200 -0600" stop="20211123153800 -0600" channel="Canal Warner TV (Panregional)">
     <title lang="es">2012</title>
-    <desc lang="es">Un escritor frustrado trata de mantener con vida a su familia cuando una serie de catástrofes en todo el mundo amenazan con destruir la humanidad.(n)</desc>
+    <desc lang="es">Un escritor frustrado trata de mantener con vida a su familia cuando una serie de catástrofes en todo el mundo amenazan con destruir la humanidad.</desc>
   </programme>
   <programme start="20211123153800 -0600" stop="20211123160300 -0600" channel="Canal Warner TV (Panregional)">
     <title lang="es">Brooklyn nine-nine</title>

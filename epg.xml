@@ -114,6 +114,10 @@
     <display-name lang="fr">L'EQUIPE</display-name>
     <url>http://www.canalplus.com</url>
   </channel>
+  <channel id="Ecuador">
+    <display-name lang="en">Ecuador</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
   <programme start="20220124013000 -0600" stop="20220124030000 -0600" channel="Canal Ecuavisa (Ecuador)">
     <title lang="es">Así pasa</title>
   </programme>
@@ -1245,13 +1249,9 @@
     <desc lang="en">Jornada 22 de LaLiga 2021-2022. Sevilla recibe a Celta en el estadio Ramón Sánchez Pizjuán. Los nervionenses llevan 2 juegos sin victorias (1PE 1PP), mientras que los celtiñas vienen de ganar luego de 2 derrotas seguidas.(n)</desc>
     <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
   </programme>
-  <programme start="20220124130000 +0000" stop="20220124160000 +0000" channel="Win Sports +">
-    <title lang="en">Primer Toque</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/61e9baeb5481cb081df90623/schedule-image/primer-toque-s.png" />
-  </programme>
-  <programme start="20220124160000 +0000" stop="20220124180000 +0000" channel="Win Sports +">
-    <title lang="en">Medellín vs. Tolima</title>
-    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  <programme start="20220124163000 +0000" stop="20220124180000 +0000" channel="Win Sports +">
+    <title lang="en">Mucho + Fútbol</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/61e9bb075481cb081df90629/schedule-image/mucho-mas-futbol-s.png" />
   </programme>
   <programme start="20220124180000 +0000" stop="20220124190000 +0000" channel="Win Sports +">
     <title lang="en">Win+ Noticias</title>
@@ -1277,12 +1277,6 @@
     <title lang="en">Conexión</title>
     <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/61e9bc65815e1c33245cb4be/schedule-image/conexion-s.png" />
   </programme>
-  <programme start="20220124131500 +0000" stop="20220124150000 +0000" channel="Showtime Familyzone West">
-    <title lang="en">Meek's Cutoff</title>
-  </programme>
-  <programme start="20220124150000 +0000" stop="20220124164500 +0000" channel="Showtime Familyzone West">
-    <title lang="en">Cold Brook</title>
-  </programme>
   <programme start="20220124164500 +0000" stop="20220124181500 +0000" channel="Showtime Familyzone West">
     <title lang="en">2nd Chance for Christmas</title>
   </programme>
@@ -1297,13 +1291,6 @@
   </programme>
   <programme start="20220124230000 +0000" stop="20220125003000 +0000" channel="Showtime Familyzone West">
     <title lang="en">The Little Mermaid</title>
-  </programme>
-  <programme start="20220124124400 +0000" stop="20220124152000 +0000" channel="Starz HD East (Dolby Available)">
-    <title lang="en">Inglourious Basterds</title>
-  </programme>
-  <programme start="20220124152000 +0000" stop="20220124170000 +0000" channel="Starz HD East (Dolby Available)">
-    <title lang="en">The House Next Door</title>
-    <sub-title lang="en">Meet the Blacks 2</sub-title>
   </programme>
   <programme start="20220124170000 +0000" stop="20220124184800 +0000" channel="Starz HD East (Dolby Available)">
     <title lang="en">Greed</title>
@@ -1321,14 +1308,11 @@
   <programme start="20220124232400 +0000" stop="20220125020000 +0000" channel="Starz HD East (Dolby Available)">
     <title lang="en">Inglourious Basterds</title>
   </programme>
-  <programme start="20220124141200 +0000" stop="20220124160000 +0000" channel="Starz Edge HD East">
-    <title lang="en">Big</title>
-  </programme>
   <programme start="20220124160000 +0000" stop="20220124175300 +0000" channel="Starz Edge HD East">
     <title lang="en">A Family Man</title>
   </programme>
   <programme start="20220124175300 +0000" stop="20220124200000 +0000" channel="Starz Edge HD East">
-    <title lang="en">Bad Boys For Life</title>
+    <title lang="en">Bad Boys for Life (4K UHD)</title>
   </programme>
   <programme start="20220124200000 +0000" stop="20220124210600 +0000" channel="Starz Edge HD East">
     <title lang="en">Outlander</title>
@@ -1344,13 +1328,6 @@
   <programme start="20220124235500 +0000" stop="20220125020000 +0000" channel="Starz Edge HD East">
     <title lang="en">Heartbreakers</title>
   </programme>
-  <programme start="20220124130400 +0000" stop="20220124144600 +0000" channel="Starz Kids &amp; Family HD East">
-    <title lang="en">Elephant Kingdom</title>
-  </programme>
-  <programme start="20220124144600 +0000" stop="20220124160800 +0000" channel="Starz Kids &amp; Family HD East">
-    <title lang="en">Far from Home</title>
-    <sub-title lang="en">The Adventures of Yellow Dog</sub-title>
-  </programme>
   <programme start="20220124160800 +0000" stop="20220124173400 +0000" channel="Starz Kids &amp; Family HD East">
     <title lang="en">Brightheart</title>
     <sub-title lang="en">Let Your Light Shine</sub-title>
@@ -1363,7 +1340,7 @@
     <title lang="en">The Swan Princess Christmas</title>
   </programme>
   <programme start="20220124202800 +0000" stop="20220124215000 +0000" channel="Starz Kids &amp; Family HD East">
-    <title lang="en">Far from Home</title>
+    <title lang="en">Far From Home</title>
     <sub-title lang="en">The Adventures of Yellow Dog</sub-title>
   </programme>
   <programme start="20220124215000 +0000" stop="20220124233200 +0000" channel="Starz Kids &amp; Family HD East">
@@ -1372,13 +1349,6 @@
   <programme start="20220124233200 +0000" stop="20220125010000 +0000" channel="Starz Kids &amp; Family HD East">
     <title lang="en">Brightheart</title>
     <sub-title lang="en">Firefly Action Brigade</sub-title>
-  </programme>
-  <programme start="20220124131900 +0000" stop="20220124145600 +0000" channel="Starz inBlack HD East">
-    <title lang="en">The Craft</title>
-    <sub-title lang="en">Legacy</sub-title>
-  </programme>
-  <programme start="20220124145600 +0000" stop="20220124163000 +0000" channel="Starz inBlack HD East">
-    <title lang="en">Evil Dead</title>
   </programme>
   <programme start="20220124163000 +0000" stop="20220124182300 +0000" channel="Starz inBlack HD East">
     <title lang="en">Honey 2</title>
@@ -1392,12 +1362,6 @@
   </programme>
   <programme start="20220124225000 +0000" stop="20220125002400 +0000" channel="Starz inBlack HD East">
     <title lang="en">Evil Dead</title>
-  </programme>
-  <programme start="20220124133000 +0000" stop="20220124152000 +0000" channel="Starz Cinema HD East">
-    <title lang="en">Charming the Hearts of Men</title>
-  </programme>
-  <programme start="20220124152000 +0000" stop="20220124170100 +0000" channel="Starz Cinema HD East">
-    <title lang="en">Stay</title>
   </programme>
   <programme start="20220124170100 +0000" stop="20220124183100 +0000" channel="Starz Cinema HD East">
     <title lang="en">Manny &amp; Lo</title>
@@ -1414,12 +1378,6 @@
   <programme start="20220124232400 +0000" stop="20220125011800 +0000" channel="Starz Cinema HD East">
     <title lang="en">City of Lies</title>
   </programme>
-  <programme start="20220124135200 +0000" stop="20220124153300 +0000" channel="Starz Comedy HD East">
-    <title lang="en">Phat Girlz</title>
-  </programme>
-  <programme start="20220124153300 +0000" stop="20220124171200 +0000" channel="Starz Comedy HD East">
-    <title lang="en">Car Wash</title>
-  </programme>
   <programme start="20220124171200 +0000" stop="20220124184500 +0000" channel="Starz Comedy HD East">
     <title lang="en">Aliens Ate My Homework</title>
   </programme>
@@ -1427,16 +1385,13 @@
     <title lang="en">Someone Like You</title>
   </programme>
   <programme start="20220124202500 +0000" stop="20220124220600 +0000" channel="Starz Comedy HD East">
-    <title lang="en">Rv</title>
+    <title lang="en">RV</title>
   </programme>
   <programme start="20220124220600 +0000" stop="20220124234500 +0000" channel="Starz Comedy HD East">
     <title lang="en">Car Wash</title>
   </programme>
   <programme start="20220124234500 +0000" stop="20220125010000 +0000" channel="Starz Comedy HD East">
     <title lang="en">Bebe's Kids</title>
-  </programme>
-  <programme start="20220124134200 +0000" stop="20220124155700 +0000" channel="Encore HD East">
-    <title lang="en">In Her Shoes</title>
   </programme>
   <programme start="20220124155700 +0000" stop="20220124175800 +0000" channel="Encore HD East">
     <title lang="en">Indecent Proposal</title>
@@ -1448,20 +1403,13 @@
     <title lang="en">Wimbledon</title>
   </programme>
   <programme start="20220124212400 +0000" stop="20220124234600 +0000" channel="Encore HD East">
-    <title lang="en">Hulk</title>
+    <title lang="en">The Hulk</title>
   </programme>
   <programme start="20220124234600 +0000" stop="20220125020000 +0000" channel="Encore HD East">
     <title lang="en">In Her Shoes</title>
   </programme>
-  <programme start="20220124132000 +0000" stop="20220124145600 +0000" channel="Encore Action HD East">
-    <title lang="en">Hardwired</title>
-  </programme>
-  <programme start="20220124145600 +0000" stop="20220124164700 +0000" channel="Encore Action HD East">
-    <title lang="en">The Grandmaster</title>
-  </programme>
   <programme start="20220124164700 +0000" stop="20220124181700 +0000" channel="Encore Action HD East">
     <title lang="en">Spy Kids 4</title>
-    <sub-title lang="en">All The Time In The World</sub-title>
   </programme>
   <programme start="20220124181700 +0000" stop="20220124200000 +0000" channel="Encore Action HD East">
     <title lang="en">Tremors 4</title>

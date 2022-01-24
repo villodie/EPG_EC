@@ -8,10 +8,6 @@
     <display-name lang="es">Canal Ecuavisa (Ecuador)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Ecuador TV (ECTV)">
-    <display-name lang="en">Ecuador TV (ECTV)</display-name>
-    <url>http://www.directv.com</url>
-  </channel>
   <channel id="Canal Teleamazonas ">
     <display-name lang="es">Canal Teleamazonas </display-name>
     <url>http://www.gatotv.com</url>
@@ -113,6 +109,10 @@
     <display-name lang="en">Encore Action HD East</display-name>
     <icon src="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/starzSub/live/Starz_ENCORE_ACTION_East_blck._CB1557794728_.svg" />
     <url>http://www.amazon.com</url>
+  </channel>
+  <channel id="L'EQUIPE">
+    <display-name lang="fr">L'EQUIPE</display-name>
+    <url>http://www.canalplus.com</url>
   </channel>
   <programme start="20220124013000 -0600" stop="20220124030000 -0600" channel="Canal Ecuavisa (Ecuador)">
     <title lang="es">Así pasa</title>
@@ -1321,9 +1321,6 @@
   <programme start="20220124232400 +0000" stop="20220125020000 +0000" channel="Starz HD East (Dolby Available)">
     <title lang="en">Inglourious Basterds</title>
   </programme>
-  <programme start="20220124120500 +0000" stop="20220124141200 +0000" channel="Starz Edge HD East">
-    <title lang="en">Heartbreakers</title>
-  </programme>
   <programme start="20220124141200 +0000" stop="20220124160000 +0000" channel="Starz Edge HD East">
     <title lang="en">Big</title>
   </programme>
@@ -1479,5 +1476,72 @@
   </programme>
   <programme start="20220124232600 +0000" stop="20220125010000 +0000" channel="Encore Action HD East">
     <title lang="en">The Big Hit</title>
+  </programme>
+  <programme start="20220124053000 +0000" stop="20220124060000 +0000" channel="L'EQUIPE">
+    <title lang="fr">L'Equipe du soir</title>
+    <sub-title lang="fr">La prolongation</sub-title>
+  </programme>
+  <programme start="20220124060000 +0000" stop="20220124080600 +0000" channel="L'EQUIPE">
+    <title lang="fr">Best of Shopping</title>
+    <sub-title lang="fr">Emission du 24 janv. 2022</sub-title>
+    <desc lang="fr">L'émission Best of Shopping offre le meilleur du téléachat mondial.(n)</desc>
+  </programme>
+  <programme start="20220124080600 +0000" stop="20220124090000 +0000" channel="L'EQUIPE">
+    <title lang="fr">L'Equipe Moteur</title>
+    <sub-title lang="fr">Emission du 24 janv. 2022</sub-title>
+    <desc lang="fr">A suivre divers documentaires, reportages ou émissions concernant le monde de l'auto/moto et de tous les véhicules à moteur.(n)</desc>
+  </programme>
+  <programme start="20220124090000 +0000" stop="20220124100000 +0000" channel="L'EQUIPE">
+    <title lang="fr">L'Equipe Moteur</title>
+    <sub-title lang="fr">Emission du 24 janv. 2022</sub-title>
+    <desc lang="fr">A suivre divers documentaires, reportages ou émissions concernant le monde de l'auto/moto et de tous les véhicules à moteur.(n)</desc>
+  </programme>
+  <programme start="20220124100000 +0000" stop="20220124110000 +0000" channel="L'EQUIPE">
+    <title lang="fr">L'Equipe Moteur</title>
+    <sub-title lang="fr">Emission du 24 janv. 2022</sub-title>
+    <desc lang="fr">A suivre divers documentaires, reportages ou émissions concernant le monde de l'auto/moto et de tous les véhicules à moteur.(n)</desc>
+  </programme>
+  <programme start="20220124110000 +0000" stop="20220124120000 +0000" channel="L'EQUIPE">
+    <title lang="fr">L'Equipe Moteur</title>
+    <sub-title lang="fr">Emission du 24 janv. 2022</sub-title>
+    <desc lang="fr">A suivre divers documentaires, reportages ou émissions concernant le monde de l'auto/moto et de tous les véhicules à moteur.(n)</desc>
+  </programme>
+  <programme start="20220124120000 +0000" stop="20220124161500 +0000" channel="L'EQUIPE">
+    <title lang="fr">Sports de force</title>
+    <sub-title lang="fr">Sport</sub-title>
+  </programme>
+  <programme start="20220124161500 +0000" stop="20220124164500 +0000" channel="L'EQUIPE">
+    <title lang="fr">L'Equipe de Greg</title>
+    <sub-title lang="fr">1re partie</sub-title>
+  </programme>
+  <programme start="20220124164500 +0000" stop="20220124184500 +0000" channel="L'EQUIPE">
+    <title lang="fr">L'Equipe de Greg</title>
+    <sub-title lang="fr">Emission du 24 janv. 2022</sub-title>
+  </programme>
+  <programme start="20220124184500 +0000" stop="20220124200600 +0000" channel="L'EQUIPE">
+    <title lang="fr">L'Equipe du soir</title>
+    <sub-title lang="fr">1re partie</sub-title>
+  </programme>
+  <programme start="20220124200600 +0000" stop="20220124210600 +0000" channel="L'EQUIPE">
+    <title lang="fr">Les maîtres de l'auto Saison 3</title>
+    <sub-title lang="fr">Episode 5 : Reprise de flambeau</sub-title>
+    <desc lang="fr">Dan Short dirige le plus grand centre de restauration de véhicules des Etats-Unis. Avec son équipe, il rénove des voitures telles qu'une Chevrolet Corvette de 1963, une Ford Model A 1931 ou encore un Chewy Pick-up de 1949.(n)</desc>
+  </programme>
+  <programme start="20220124210600 +0000" stop="20220124215900 +0000" channel="L'EQUIPE">
+    <title lang="fr">Les maîtres de l'auto Saison 3</title>
+    <sub-title lang="fr">Pression maximale</sub-title>
+    <desc lang="fr">Dan Short dirige le plus grand centre de restauration de véhicules des Etats-Unis. Avec son équipe, il rénove des voitures telles qu'une Chevrolet Corvette de 1963, une Ford Model A 1931 ou encore un Chewy Pick-up de 1949.(n)</desc>
+  </programme>
+  <programme start="20220124215900 +0000" stop="20220124225900 +0000" channel="L'EQUIPE">
+    <title lang="fr">L'Equipe du soir</title>
+    <sub-title lang="fr">Emission du 24 janv. 2022</sub-title>
+  </programme>
+  <programme start="20220124225900 +0000" stop="20220124235900 +0000" channel="L'EQUIPE">
+    <title lang="fr">L'Equipe du soir</title>
+    <sub-title lang="fr">Emission du 24 janv. 2022</sub-title>
+  </programme>
+  <programme start="20220124235900 +0000" stop="20220125005900 +0000" channel="L'EQUIPE">
+    <title lang="fr">L'Equipe du soir</title>
+    <sub-title lang="fr">Emission du 24 janv. 2022</sub-title>
   </programme>
 </tv>

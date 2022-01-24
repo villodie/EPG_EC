@@ -114,9 +114,10 @@
     <display-name lang="fr">L'EQUIPE</display-name>
     <url>http://www.canalplus.com</url>
   </channel>
-  <channel id="Ecuador">
-    <display-name lang="en">Ecuador</display-name>
-    <url>http://www.tvguide.com</url>
+  <channel id="GOLPERU HD (GOLPERU HD)">
+    <display-name lang="es">GOLPERU HD (GOLPERU HD)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/55/7553956_D7D9A30FB187AF45.png" />
+    <url>http://www.movistar.com.pe</url>
   </channel>
   <programme start="20220124013000 -0600" stop="20220124030000 -0600" channel="Canal Ecuavisa (Ecuador)">
     <title lang="es">Así pasa</title>
@@ -1491,5 +1492,77 @@
   <programme start="20220124235900 +0000" stop="20220125005900 +0000" channel="L'EQUIPE">
     <title lang="fr">L'Equipe du soir</title>
     <sub-title lang="fr">Emission du 24 janv. 2022</sub-title>
+  </programme>
+  <programme start="20220124170000 +0000" stop="20220124180000 +0000" channel="GOLPERU HD (GOLPERU HD)">
+    <title lang="es">La tribuna</title>
+    <desc lang="es">Un panel de expertos lo mantiene al tanto de toda la actualidad de la Liga1 y los hechos que marcan tendencia en el fútbol nacional e internacional, a través de análisis, debates y entrevistas.(n)</desc>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Deportes</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/73/9737027_FDED00857554AE85.jpg" />
+    <country lang="es">PE</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220124180000 +0000" stop="20220124190000 +0000" channel="GOLPERU HD (GOLPERU HD)">
+    <title lang="es">Código Fútbol</title>
+    <desc lang="es">Un panel de expertos analiza y pone al debate los últimos acontecimientos de cada jornada y noticia del fútbol peruano e internacional.(n)</desc>
+    <category lang="es">Reportaje</category>
+    <category lang="es">Entrevista</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/73/9737026_2DC86F7D4EC0C346.jpg" />
+    <country lang="es">PE</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220124190000 +0000" stop="20220124210000 +0000" channel="GOLPERU HD (GOLPERU HD)">
+    <title lang="es">Liga1</title>
+    <sub-title lang="es">Cienciano vs. Alianza Lima - Fase 2, Fecha 17 (29-10-2021)</sub-title>
+    <desc lang="es">Cienciano (6to, 25 ptos.) va por un triunfo en calidad de visita que le permita avanzar en la competencia, pero Alianza Lima (1ro, 39 ptos.) busca tres puntos de visita para mantenerse a la cabeza de la competencia.(n)</desc>
+    <category lang="es">Fútbol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/95/9954171_4671A7BE1EE29B00.jpg" />
+    <country lang="es">PE</country>
+    <episode-num system="onscreen">S2021</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220124210000 +0000" stop="20220124213000 +0000" channel="GOLPERU HD (GOLPERU HD)">
+    <title lang="es">Charlas de cuarentena</title>
+    <sub-title lang="es">Andrés Mendoza</sub-title>
+    <desc lang="es">Disfruta de las mejores conversaciones de fútbol, recuerda los momentos que marcaron la historia y conoce las anécdotas ocurridas en la carrera del exfutbolista peruano, Andrés Mendoza.\n.(n)</desc>
+    <category lang="es">Entrevista</category>
+    <category lang="es">Fútbol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/73/9737024_ED99A65259F2624C.jpg" />
+    <country lang="es">PE</country>
+    <episode-num system="onscreen">S2021</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220124213000 +0000" stop="20220124220000 +0000" channel="GOLPERU HD (GOLPERU HD)">
+    <title lang="es">Once Ideal</title>
+    <sub-title lang="es">Liga 1</sub-title>
+    <desc lang="es">Programa que analiza las estadísticas de los rendimientos de los jugadores para debatir y armar el mejor equipo de la fecha de la Liga1.(n)</desc>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Deportes</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/74/9741107_E4D75746C60977A2.jpg" />
+    <country lang="es">PE</country>
+    <episode-num system="onscreen">S2021</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220124220000 +0000" stop="20220124223000 +0000" channel="GOLPERU HD (GOLPERU HD)">
+    <title lang="es">Compacto de fútbol</title>
+    <sub-title lang="es">Ayacucho FC vs. Cienciano - Fase 2, Fecha 16 (22-10-2021)</sub-title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre Ayacucho FC y Cienciano, por la fecha 16 de la Liga 2.(n)</desc>
+    <category lang="es">Fútbol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/99/9994199_E0E2A31670C1DE13.jpg" />
+    <country lang="es">PE</country>
+    <episode-num system="onscreen">S2021</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
   </programme>
 </tv>

@@ -1348,19 +1348,12 @@
   <programme start="20220125215800 +0000" stop="20220126000100 +0000" channel="Starz Edge HD East">
     <title lang="en">Mr. &amp; Mrs. Smith</title>
   </programme>
-  <programme start="20220125220400 +0000" stop="20220125232400 +0000" channel="Starz Kids &amp; Family HD East">
-    <title lang="en">The Swan Princess</title>
-    <sub-title lang="en">Princess Tomorrow, Pirate Today</sub-title>
-  </programme>
   <programme start="20220125232400 +0000" stop="20220126010000 +0000" channel="Starz Kids &amp; Family HD East">
     <title lang="en">Ed</title>
   </programme>
   <programme start="20220125231300 +0000" stop="20220126001200 +0000" channel="Starz inBlack HD East">
     <title lang="en">Power Book II</title>
     <sub-title lang="en">Drug Related</sub-title>
-  </programme>
-  <programme start="20220125213100 +0000" stop="20220125232700 +0000" channel="Starz Cinema HD East">
-    <title lang="en">Rachel Getting Married</title>
   </programme>
   <programme start="20220125232700 +0000" stop="20220126012900 +0000" channel="Starz Cinema HD East">
     <title lang="en">Captain Fantastic</title>
@@ -1373,10 +1366,6 @@
   </programme>
   <programme start="20220125235300 +0000" stop="20220126020000 +0000" channel="Encore HD East">
     <title lang="en">Revenge</title>
-  </programme>
-  <programme start="20220125214100 +0000" stop="20220125231800 +0000" channel="Encore Action HD East">
-    <title lang="en">Silent Hill</title>
-    <sub-title lang="en">Revelation</sub-title>
   </programme>
   <programme start="20220125231800 +0000" stop="20220126010000 +0000" channel="Encore Action HD East">
     <title lang="en">Tremors 2</title>

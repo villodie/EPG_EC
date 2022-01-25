@@ -110,9 +110,10 @@
     <icon src="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/starzSub/live/Starz_ENCORE_ACTION_East_blck._CB1557794728_.svg" />
     <url>http://www.amazon.com</url>
   </channel>
-  <channel id="L'EQUIPE">
-    <display-name lang="fr">L'EQUIPE</display-name>
-    <url>http://www.canalplus.com</url>
+  <channel id="L’Equipe">
+    <display-name lang="fr">L’Equipe</display-name>
+    <icon src="https://www.programme.tv/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F060edf53b072af43.2Epng/40x40/quality/80/l-equipe.png" />
+    <url>http://www.programme.tv</url>
   </channel>
   <channel id="GOLPERU HD (GOLPERU HD)">
     <display-name lang="es">GOLPERU HD (GOLPERU HD)</display-name>
@@ -1354,9 +1355,6 @@
   <programme start="20220125232400 +0000" stop="20220126010000 +0000" channel="Starz Kids &amp; Family HD East">
     <title lang="en">Ed</title>
   </programme>
-  <programme start="20220125211400 +0000" stop="20220125231300 +0000" channel="Starz inBlack HD East">
-    <title lang="en">The Original Kings of Comedy</title>
-  </programme>
   <programme start="20220125231300 +0000" stop="20220126001200 +0000" channel="Starz inBlack HD East">
     <title lang="en">Power Book II</title>
     <sub-title lang="en">Drug Related</sub-title>
@@ -1366,9 +1364,6 @@
   </programme>
   <programme start="20220125232700 +0000" stop="20220126012900 +0000" channel="Starz Cinema HD East">
     <title lang="en">Captain Fantastic</title>
-  </programme>
-  <programme start="20220125213500 +0000" stop="20220125231300 +0000" channel="Starz Comedy HD East">
-    <title lang="en">Blind date</title>
   </programme>
   <programme start="20220125231300 +0000" stop="20220126010000 +0000" channel="Starz Comedy HD East">
     <title lang="en">Tower Heist</title>
@@ -1387,65 +1382,127 @@
     <title lang="en">Tremors 2</title>
     <sub-title lang="en">Aftershocks</sub-title>
   </programme>
-  <programme start="20220125060000 +0000" stop="20220125080600 +0000" channel="L'EQUIPE">
+  <programme start="20220126005900 +0100" stop="20220126015900 +0100" channel="L’Equipe">
+    <title lang="fr">L'Equipe du soir</title>
+    <category lang="fr">Multisports</category>
+    <icon src="https://www.programme.tv/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2F5e711573b000c211.2Ejpg/630x355/quality/80/l-equipe-du-soir.jpg" />
+  </programme>
+  <programme start="20220126015900 +0100" stop="20220126025900 +0100" channel="L’Equipe">
+    <title lang="fr">L'Equipe du soir</title>
+    <category lang="fr">Multisports</category>
+    <icon src="https://www.programme.tv/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2F5e711573b000c211.2Ejpg/630x355/quality/80/l-equipe-du-soir.jpg" />
+  </programme>
+  <programme start="20220126025900 +0100" stop="20220126035900 +0100" channel="L’Equipe">
+    <title lang="fr">L'Equipe du soir</title>
+    <category lang="fr">Multisports</category>
+    <icon src="https://www.programme.tv/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2F5e711573b000c211.2Ejpg/630x355/quality/80/l-equipe-du-soir.jpg" />
+  </programme>
+  <programme start="20220126035900 +0100" stop="20220126045900 +0100" channel="L’Equipe">
+    <title lang="fr">L'Equipe du soir</title>
+    <category lang="fr">Multisports</category>
+    <icon src="https://www.programme.tv/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2F5e711573b000c211.2Ejpg/630x355/quality/80/l-equipe-du-soir.jpg" />
+  </programme>
+  <programme start="20220126045900 +0100" stop="20220126055900 +0100" channel="L’Equipe">
+    <title lang="fr">L'Equipe du soir</title>
+    <category lang="fr">Multisports</category>
+    <icon src="https://www.programme.tv/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2F5e711573b000c211.2Ejpg/630x355/quality/80/l-equipe-du-soir.jpg" />
+  </programme>
+  <programme start="20220126055900 +0100" stop="20220126070000 +0100" channel="L’Equipe">
+    <title lang="fr">L'Equipe du soir</title>
+    <category lang="fr">Multisports</category>
+    <icon src="https://www.programme.tv/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2F5e711573b000c211.2Ejpg/630x355/quality/80/l-equipe-du-soir.jpg" />
+  </programme>
+  <programme start="20220126070000 +0100" stop="20220126090600 +0100" channel="L’Equipe">
     <title lang="fr">Best of Shopping</title>
-    <sub-title lang="fr">Emission du 25 janv. 2022</sub-title>
     <desc lang="fr">L'émission Best of Shopping offre le meilleur du téléachat mondial.(n)</desc>
+    <category lang="fr">Magazine de télé-achat</category>
+    <icon src="https://www.programme.tv/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2F91ee16f12d2cf11e.2Ejpg/630x355/quality/80/best-of-shopping.jpg" />
   </programme>
-  <programme start="20220125080600 +0000" stop="20220125090000 +0000" channel="L'EQUIPE">
-    <title lang="fr">L'Equipe Moteur</title>
-    <sub-title lang="fr">Emission du 25 janv. 2022</sub-title>
+  <programme start="20220126090600 +0100" stop="20220126100000 +0100" channel="L’Equipe">
+    <title lang="fr">L'Equipe Moteur : Top Gear</title>
     <desc lang="fr">A suivre divers documentaires, reportages ou émissions concernant le monde de l'auto/moto et de tous les véhicules à moteur.(n)</desc>
+    <category lang="fr">Magazine de l'automobile</category>
+    <icon src="https://www.programme.tv/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2Fe36ed8ea60de3d29.2Ejpg/630x355/quality/80/l-equipe-moteur.jpg" />
   </programme>
-  <programme start="20220125090000 +0000" stop="20220125100000 +0000" channel="L'EQUIPE">
-    <title lang="fr">L'Equipe Moteur</title>
-    <sub-title lang="fr">Emission du 25 janv. 2022</sub-title>
+  <programme start="20220126100000 +0100" stop="20220126110000 +0100" channel="L’Equipe">
+    <title lang="fr">L'Equipe Moteur : Top Gear</title>
     <desc lang="fr">A suivre divers documentaires, reportages ou émissions concernant le monde de l'auto/moto et de tous les véhicules à moteur.(n)</desc>
+    <category lang="fr">Magazine de l'automobile</category>
+    <icon src="https://www.programme.tv/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2Fe36ed8ea60de3d29.2Ejpg/630x355/quality/80/l-equipe-moteur.jpg" />
   </programme>
-  <programme start="20220125100000 +0000" stop="20220125110000 +0000" channel="L'EQUIPE">
-    <title lang="fr">L'Equipe Moteur</title>
-    <sub-title lang="fr">Emission du 25 janv. 2022</sub-title>
+  <programme start="20220126110000 +0100" stop="20220126120000 +0100" channel="L’Equipe">
+    <title lang="fr">L'Equipe Moteur : Top Gear</title>
     <desc lang="fr">A suivre divers documentaires, reportages ou émissions concernant le monde de l'auto/moto et de tous les véhicules à moteur.(n)</desc>
+    <category lang="fr">Magazine de l'automobile</category>
+    <icon src="https://www.programme.tv/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2Fe36ed8ea60de3d29.2Ejpg/630x355/quality/80/l-equipe-moteur.jpg" />
   </programme>
-  <programme start="20220125110000 +0000" stop="20220125120000 +0000" channel="L'EQUIPE">
-    <title lang="fr">L'Equipe Moteur</title>
-    <sub-title lang="fr">Emission du 25 janv. 2022</sub-title>
+  <programme start="20220126120000 +0100" stop="20220126130000 +0100" channel="L’Equipe">
+    <title lang="fr">L'Equipe Moteur : Top Gear</title>
     <desc lang="fr">A suivre divers documentaires, reportages ou émissions concernant le monde de l'auto/moto et de tous les véhicules à moteur.(n)</desc>
+    <category lang="fr">Magazine de l'automobile</category>
+    <icon src="https://www.programme.tv/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2Fe36ed8ea60de3d29.2Ejpg/630x355/quality/80/l-equipe-moteur.jpg" />
   </programme>
-  <programme start="20220125120000 +0000" stop="20220125161500 +0000" channel="L'EQUIPE">
+  <programme start="20220126130000 +0100" stop="20220126171500 +0100" channel="L’Equipe">
     <title lang="fr">Sports de force</title>
-    <sub-title lang="fr">Sport</sub-title>
+    <category lang="fr">Sport de force</category>
+    <icon src="https://www.programme.tv/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2F91ccf1d2ba39a2a2.2Ejpg/630x355/quality/80/sports-de-force.jpg" />
   </programme>
-  <programme start="20220125161500 +0000" stop="20220125164500 +0000" channel="L'EQUIPE">
+  <programme start="20220126171500 +0100" stop="20220126174500 +0100" channel="L’Equipe">
     <title lang="fr">L'Equipe de Greg</title>
     <sub-title lang="fr">1re partie</sub-title>
+    <category lang="fr">Multisports</category>
+    <icon src="https://www.programme.tv/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2F8fb233d6787aa24f.2Ejpg/630x355/quality/80/l-equipe-de-greg.jpg" />
   </programme>
-  <programme start="20220125164500 +0000" stop="20220125184500 +0000" channel="L'EQUIPE">
+  <programme start="20220126174500 +0100" stop="20220126194500 +0100" channel="L’Equipe">
     <title lang="fr">L'Equipe de Greg</title>
-    <sub-title lang="fr">Emission du 25 janv. 2022</sub-title>
+    <category lang="fr">Multisports</category>
+    <icon src="https://www.programme.tv/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2F8fb233d6787aa24f.2Ejpg/630x355/quality/80/l-equipe-de-greg.jpg" />
   </programme>
-  <programme start="20220125184500 +0000" stop="20220125195000 +0000" channel="L'EQUIPE">
+  <programme start="20220126194500 +0100" stop="20220126210600 +0100" channel="L’Equipe">
     <title lang="fr">L'Equipe du soir</title>
     <sub-title lang="fr">1re partie</sub-title>
+    <desc lang="fr">Sous la houlette d'Olivier Ménard, consultants, sportifs de haut niveau et journalistes débattent autour d'un thème lié à l'actualité sportive : l'équipe de France de football, la Ligue 1, la Ligue des champions, le journal des transferts, la coupe de France de football... Les téléspectateurs peuvent participer aux échanges par le biais des réseaux sociaux.(n)</desc>
+    <category lang="fr">Multisports</category>
+    <icon src="https://www.programme.tv/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2F5e711573b000c211.2Ejpg/630x355/quality/80/l-equipe-du-soir.jpg" />
   </programme>
-  <programme start="20220125195000 +0000" stop="20220125200000 +0000" channel="L'EQUIPE">
-    <title lang="fr">Basket-ball : avant-match</title>
-    <sub-title lang="fr">Emission du 25 janv. 2022</sub-title>
+  <programme start="20220126210600 +0100" stop="20220126225900 +0100" channel="L’Equipe">
+    <title lang="fr">Fast &amp; Furious</title>
+    <desc lang="fr">La nuit, les rues de Los Angeles deviennent le royaume de Dominic Toretto et de ses amis, passionnés de rodéo urbain. Au volant de leurs bolides trafiqués, ils se livrent à de folles courses en plein centre-ville. Mais Brian O'Conner, un jeune agent du FBI, soupçonne Dominic Toretto de pratiquer aussi un autre genre de sport : le braquage de poids lourds contenant des marchandises électroniques.(n)</desc>
+    <credits>
+      <director>Rob Cohen</director>
+      <actor role="Dominic Toretto">Vin Diesel</actor>
+      <actor role="Brian O'Conner">Paul Walker</actor>
+      <actor role="Leticia Ortiz">Michelle Rodriguez</actor>
+      <actor role="Mia Toretto">Jordana Brewster</actor>
+      <actor role="Jesse">Chad Lindberg</actor>
+      <actor role="Leon">Johnny Strong</actor>
+      <actor role="Vince">Matt Schulze</actor>
+      <actor role="le sergent Tanner">Ted Levine</actor>
+      <actor role="l'agent Bilkins">Thom Barry</actor>
+      <actor role="Letty">Michelle Rodriguez</actor>
+      <actor role="Edwin">Ja Rule</actor>
+      <actor role="Harry">Vyto Ruginis</actor>
+      <writer>Ken Li</writer>
+      <writer>Erik Bergquist</writer>
+      <writer>Gary Scott Thompson</writer>
+      <writer>David Ayer</writer>
+      <composer>Faith Evans</composer>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Film d'action</category>
+    <icon src="https://www.programme.tv/imgre/fit/https.3A.2F.2Fcf-images.2Eeu-west-1.2Eprod.2Eboltdns.2Enet.2Fv1.2Fstatic.2F800000640001.2Fbb4ce67b-3f7e-4f7b-9f89-e555720b25f5.2F0f4c73cf-857f-4c14-91c8-f056c4c22989.2F480x360.2Fmatch.2Fimage.2Ejpg/640x360/crop-from/top/quality/80/fast-and-furious-27-avril.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <country lang="fr">Allemagne</country>
+    <rating system="FR">
+      <value>PG-10</value>
+    </rating>
+    <star-rating system="FR">
+      <value>2/4</value>
+    </star-rating>
   </programme>
-  <programme start="20220125200000 +0000" stop="20220125215900 +0000" channel="L'EQUIPE">
-    <title lang="fr">ASVEL Lyon-Villeurbanne / Bayern Munich</title>
-    <sub-title lang="fr">Euroligue masculine - 18e Journée</sub-title>
-  </programme>
-  <programme start="20220125215900 +0000" stop="20220125225900 +0000" channel="L'EQUIPE">
+  <programme start="20220126225900 +0100" stop="20220126235900 +0100" channel="L’Equipe">
     <title lang="fr">L'Equipe du soir</title>
-    <sub-title lang="fr">Emission du 25 janv. 2022</sub-title>
-  </programme>
-  <programme start="20220125225900 +0000" stop="20220125235900 +0000" channel="L'EQUIPE">
-    <title lang="fr">L'Equipe du soir</title>
-    <sub-title lang="fr">Emission du 25 janv. 2022</sub-title>
-  </programme>
-  <programme start="20220125235900 +0000" stop="20220126005900 +0000" channel="L'EQUIPE">
-    <title lang="fr">L'Equipe du soir</title>
-    <sub-title lang="fr">Emission du 25 janv. 2022</sub-title>
+    <category lang="fr">Multisports</category>
+    <icon src="https://www.programme.tv/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2F5e711573b000c211.2Ejpg/630x355/quality/80/l-equipe-du-soir.jpg" />
   </programme>
 </tv>

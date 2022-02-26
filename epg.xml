@@ -110,174 +110,186 @@
     <icon src="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/starzSub/live/Starz_ENCORE_ACTION_East_blck._CB1557794728_.svg" />
     <url>http://www.amazon.com</url>
   </channel>
-  <channel id="L'Equipe">
-    <display-name lang="fr">L'Equipe</display-name>
-    <url>http://www.programme-tv.net</url>
+  <channel id="L Equipe">
+    <display-name lang="fr">L Equipe</display-name>
+    <icon src="http://www.programme-television.org/logo_channels/35x35/chaine_1401.png" />
+    <url>http://www.programme-television.org</url>
   </channel>
   <channel id="GOLPERU HD (GOLPERU HD)">
     <display-name lang="es">GOLPERU HD (GOLPERU HD)</display-name>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/55/7553956_D7D9A30FB187AF45.png" />
     <url>http://www.movistar.com.pe</url>
   </channel>
-  <programme start="20220224013000 -0600" stop="20220224023000 -0600" channel="Canal Ecuavisa (Ecuador)">
+  <programme start="20220226013000 -0600" stop="20220226023000 -0600" channel="Canal Ecuavisa (Ecuador)">
     <title lang="es">Tres familias</title>
   </programme>
-  <programme start="20220224023000 -0600" stop="20220224040000 -0600" channel="Canal Ecuavisa (Ecuador)">
+  <programme start="20220226023000 -0600" stop="20220226040000 -0600" channel="Canal Ecuavisa (Ecuador)">
     <title lang="es">El Combo Amarillo</title>
   </programme>
-  <programme start="20220224040000 -0600" stop="20220224050000 -0600" channel="Canal Ecuavisa (Ecuador)">
+  <programme start="20220226040000 -0600" stop="20220226050000 -0600" channel="Canal Ecuavisa (Ecuador)">
     <title lang="es">Nuevo sol</title>
   </programme>
-  <programme start="20220224050000 -0600" stop="20220224055500 -0600" channel="Canal Ecuavisa (Ecuador)">
-    <title lang="es">Telenovela</title>
+  <programme start="20220226050000 -0600" stop="20220226060000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Así pasa</title>
   </programme>
-  <programme start="20220224055500 -0600" stop="20220224065500 -0600" channel="Canal Ecuavisa (Ecuador)">
-    <title lang="es">Televistazo</title>
-  </programme>
-  <programme start="20220224065500 -0600" stop="20220224073000 -0600" channel="Canal Ecuavisa (Ecuador)">
-    <title lang="es">Contacto directo</title>
-  </programme>
-  <programme start="20220224073000 -0600" stop="20220224090000 -0600" channel="Canal Ecuavisa (Ecuador)">
-    <title lang="es">Televistazo</title>
-  </programme>
-  <programme start="20220224090000 -0600" stop="20220224103000 -0600" channel="Canal Ecuavisa (Ecuador)">
-    <title lang="es">Hermanas</title>
-  </programme>
-  <programme start="20220224103000 -0600" stop="20220224130000 -0600" channel="Canal Ecuavisa (Ecuador)">
-    <title lang="es">En Contacto</title>
-  </programme>
-  <programme start="20220224130000 -0600" stop="20220224140000 -0600" channel="Canal Ecuavisa (Ecuador)">
-    <title lang="es">Televistazo</title>
-  </programme>
-  <programme start="20220224140000 -0600" stop="20220224150000 -0600" channel="Canal Ecuavisa (Ecuador)">
-    <title lang="es">Perro amor</title>
-  </programme>
-  <programme start="20220224150000 -0600" stop="20220224160000 -0600" channel="Canal Ecuavisa (Ecuador)">
-    <title lang="es">Beyhadh</title>
-  </programme>
-  <programme start="20220224160000 -0600" stop="20220224170000 -0600" channel="Canal Ecuavisa (Ecuador)">
-    <title lang="es">Amor Sincero</title>
-  </programme>
-  <programme start="20220224170000 -0600" stop="20220224180000 -0600" channel="Canal Ecuavisa (Ecuador)">
-    <title lang="es">Pura Sangre</title>
-  </programme>
-  <programme start="20220224180000 -0600" stop="20220224190000 -0600" channel="Canal Ecuavisa (Ecuador)">
-    <title lang="es">La heredera</title>
-  </programme>
-  <programme start="20220224190000 -0600" stop="20220224200000 -0600" channel="Canal Ecuavisa (Ecuador)">
-    <title lang="es">Televistazo</title>
-  </programme>
-  <programme start="20220224200000 -0600" stop="20220224220000 -0600" channel="Canal Ecuavisa (Ecuador)">
-    <title lang="es">Amor eterno</title>
-  </programme>
-  <programme start="20220224220000 -0600" stop="20220224230000 -0600" channel="Canal Ecuavisa (Ecuador)">
-    <title lang="es">Huérfanos de su tierra</title>
-  </programme>
-  <programme start="20220224230000 -0600" stop="20220225000000 -0600" channel="Canal Ecuavisa (Ecuador)">
+  <programme start="20220226060000 -0600" stop="20220226070000 -0600" channel="Canal Ecuavisa (Ecuador)">
     <title lang="es">Tres familias</title>
   </programme>
-  <programme start="20220224001500 -0600" stop="20220224011500 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">C.S.I. Miami</title>
-    <title lang="xx">CSI: Miami</title>
-    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.(n)</desc>
+  <programme start="20220226070000 -0600" stop="20220226080000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20220226080000 -0600" stop="20220226090000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20220226090000 -0600" stop="20220226100000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Pan Nuestro</title>
+  </programme>
+  <programme start="20220226100000 -0600" stop="20220226103000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20220226103000 -0600" stop="20220226110000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Ripley's</title>
+  </programme>
+  <programme start="20220226110000 -0600" stop="20220226120000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Wonder Woman</title>
+  </programme>
+  <programme start="20220226120000 -0600" stop="20220226130000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Supergirl</title>
+    <title lang="xx">Supergirl</title>
+    <desc lang="es">Kara después de haber escapado de Krypton, ha llegado a la tierra mucho después de su primo Superman ahora debe proteger a la tierra de los alienígenas.(n)</desc>
     <credits>
-      <actor>David Caruso</actor>
-      <actor>Emily Procter</actor>
-      <actor>Adam Rodriguez</actor>
-      <actor>Khandi Alexander</actor>
-      <actor>Rory Cochrane</actor>
-      <actor>Kim Delaney</actor>
-      <actor>Sofia Milos</actor>
-      <actor>Jonathan Togo</actor>
-      <producer>Marc Dube</producer>
-      <composer>Kevin Kiner</composer>
-      <composer>Jeff Cardoni</composer>
+      <actor>Melissa Benoist</actor>
+      <actor>Mehcad Brooks</actor>
+      <actor>Chyler Leigh</actor>
+      <actor>Jeremy Jordan</actor>
+      <actor>David Harewood</actor>
+      <actor>Calista Flockhart</actor>
+      <actor>Chris Wood</actor>
+      <actor>Floriana Lima</actor>
+      <producer>Michael Grassi</producer>
+      <producer>Ted Sullivan</producer>
+      <composer>Blake Neely</composer>
     </credits>
-    <date>2002</date>
+    <date>2015</date>
     <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_miami.jpg" />
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/supergirl.jpg" />
+  </programme>
+  <programme start="20220226130000 -0600" stop="20220226150000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Smallville</title>
+  </programme>
+  <programme start="20220226150000 -0600" stop="20220226160000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">The Flash</title>
+    <desc lang="es">Barry Allen es un científico que sufre un terrible accidente que para su bien lo convierte en el hombre más rápido del mundo.(n)</desc>
+    <credits>
+      <actor>Grant Gustin</actor>
+      <actor>Jesse L. Martin</actor>
+      <actor>Rick Cosnett</actor>
+      <actor>Danielle Panabaker</actor>
+      <actor>Candice Patton</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_flash.jpg" />
+  </programme>
+  <programme start="20220226160000 -0600" stop="20220226164500 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Arrow</title>
+    <title lang="xx">Arrow</title>
+    <desc lang="es">Después de estar solo en una remota isla durante cinco años, el multimillonario Oliver Queen regresa a casa con una agenda misteriosa y nuevas habilidades.(n)</desc>
+    <credits>
+      <actor>Stephen Amell</actor>
+      <actor>Katie Cassidy</actor>
+      <actor>Colin Donnell</actor>
+      <actor>David Ramsey</actor>
+      <actor>Willa Holland</actor>
+      <actor>Susanna Thompson</actor>
+      <actor>Paul Blackthorne</actor>
+      <actor>Emily Bett Rickards</actor>
+      <producer>J. P. Finn</producer>
+      <producer>Wendy Mericle</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/arrow.jpg" />
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220224011500 -0600" stop="20220224020000 -0600" channel="Canal Teleamazonas ">
+  <programme start="20220226164500 -0600" stop="20220226190000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Un ratoncito duro de cazar</title>
+  </programme>
+  <programme start="20220226190000 -0600" stop="20220226193000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20220226193000 -0600" stop="20220226213000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Medio Muerto</title>
+  </programme>
+  <programme start="20220226213000 -0600" stop="20220226233000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Medio Muerto 2</title>
+  </programme>
+  <programme start="20220226233000 -0600" stop="20220227013000 -0600" channel="Canal Ecuavisa (Ecuador)">
+    <title lang="es">Prueba de amor</title>
+  </programme>
+  <programme start="20220226001500 -0600" stop="20220226011500 -0600" channel="Canal Teleamazonas ">
+    <title lang="es">Rosewood</title>
+  </programme>
+  <programme start="20220226011500 -0600" stop="20220226020000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Vivos</title>
   </programme>
-  <programme start="20220224020000 -0600" stop="20220224023000 -0600" channel="Canal Teleamazonas ">
+  <programme start="20220226020000 -0600" stop="20220226023000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Programación no disponible</title>
   </programme>
-  <programme start="20220224023000 -0600" stop="20220224024500 -0600" channel="Canal Teleamazonas ">
+  <programme start="20220226023000 -0600" stop="20220226024500 -0600" channel="Canal Teleamazonas ">
     <title lang="es">24 horas</title>
   </programme>
-  <programme start="20220224024500 -0600" stop="20220224033000 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">Divino niño</title>
-  </programme>
-  <programme start="20220224033000 -0600" stop="20220224040000 -0600" channel="Canal Teleamazonas ">
+  <programme start="20220226024500 -0600" stop="20220226031500 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Educa</title>
   </programme>
-  <programme start="20220224040000 -0600" stop="20220224050000 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">Princesa valiente</title>
+  <programme start="20220226031500 -0600" stop="20220226033000 -0600" channel="Canal Teleamazonas ">
+    <title lang="es">Mitos y Verdades</title>
   </programme>
-  <programme start="20220224050000 -0600" stop="20220224055500 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">Pedro el Escamoso</title>
+  <programme start="20220226033000 -0600" stop="20220226043000 -0600" channel="Canal Teleamazonas ">
+    <title lang="es">PluriTV</title>
   </programme>
-  <programme start="20220224055500 -0600" stop="20220224070000 -0600" channel="Canal Teleamazonas ">
+  <programme start="20220226043000 -0600" stop="20220226050000 -0600" channel="Canal Teleamazonas ">
+    <title lang="es">PluriTV</title>
+  </programme>
+  <programme start="20220226050000 -0600" stop="20220226060000 -0600" channel="Canal Teleamazonas ">
+    <title lang="es">Tres Patines</title>
+  </programme>
+  <programme start="20220226060000 -0600" stop="20220226070000 -0600" channel="Canal Teleamazonas ">
+    <title lang="es">Día a día</title>
+  </programme>
+  <programme start="20220226070000 -0600" stop="20220226073000 -0600" channel="Canal Teleamazonas ">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20220226073000 -0600" stop="20220226080000 -0600" channel="Canal Teleamazonas ">
+    <title lang="es">Mitos y verdades</title>
+  </programme>
+  <programme start="20220226080000 -0600" stop="20220226100000 -0600" channel="Canal Teleamazonas ">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20220226100000 -0600" stop="20220226103000 -0600" channel="Canal Teleamazonas ">
+    <title lang="es">Soy yo</title>
+  </programme>
+  <programme start="20220226103000 -0600" stop="20220226110000 -0600" channel="Canal Teleamazonas ">
+    <title lang="es">iCarly</title>
+  </programme>
+  <programme start="20220226110000 -0600" stop="20220226120000 -0600" channel="Canal Teleamazonas ">
+    <title lang="es">Knight Squad</title>
+  </programme>
+  <programme start="20220226120000 -0600" stop="20220226130000 -0600" channel="Canal Teleamazonas ">
+    <title lang="es">Smack Down</title>
+  </programme>
+  <programme start="20220226130000 -0600" stop="20220226140000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20220224070000 -0600" stop="20220224073000 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">24 horas nacional</title>
+  <programme start="20220226140000 -0600" stop="20220226170000 -0600" channel="Canal Teleamazonas ">
+    <title lang="es">Súper Nick</title>
   </programme>
-  <programme start="20220224073000 -0600" stop="20220224080000 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">Entrevistas en 24 horas</title>
-  </programme>
-  <programme start="20220224080000 -0600" stop="20220224093000 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20220224093000 -0600" stop="20220224113000 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">Madre</title>
-  </programme>
-  <programme start="20220224113000 -0600" stop="20220224123000 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">Boys Over Flowers</title>
-  </programme>
-  <programme start="20220224123000 -0600" stop="20220224130000 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">Ace of cakes</title>
-  </programme>
-  <programme start="20220224130000 -0600" stop="20220224135500 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20220224135500 -0600" stop="20220224143000 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">Comunidad</title>
-  </programme>
-  <programme start="20220224143000 -0600" stop="20220224144200 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">En Corto</title>
-  </programme>
-  <programme start="20220224144200 -0600" stop="20220224150000 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">Deporte Total</title>
-  </programme>
-  <programme start="20220224150000 -0600" stop="20220224160000 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">Bob Esponja</title>
-  </programme>
-  <programme start="20220224160000 -0600" stop="20220224163000 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">Los Pingüinos de Madagascar</title>
-    <title lang="xx">The Penguins of Madagascar</title>
-    <desc lang="es">Cuatro pingüinos que viven en el zoológico de Central Park en Nueva York deben usar sus habilidades de comando de primer nivel para resolver misiones.(n)</desc>
-    <date>2008</date>
-    <category lang="es">Animación</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_pinguinos_de_madagascar.jpg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220224163000 -0600" stop="20220224170000 -0600" channel="Canal Teleamazonas ">
+  <programme start="20220226170000 -0600" stop="20220226173000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Doraemon</title>
   </programme>
-  <programme start="20220224170000 -0600" stop="20220224180000 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">Futurama</title>
-  </programme>
-  <programme start="20220224180000 -0600" stop="20220224190000 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">Nuevo rico, nuevo pobre</title>
-  </programme>
-  <programme start="20220224190000 -0600" stop="20220224200000 -0600" channel="Canal Teleamazonas ">
+  <programme start="20220226173000 -0600" stop="20220226180000 -0600" channel="Canal Teleamazonas ">
     <title lang="es">Los Simpson</title>
     <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.(n)</desc>
     <date>1989</date>
@@ -286,1433 +298,1588 @@
     <category lang="es">Serie</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
   </programme>
-  <programme start="20220224200000 -0600" stop="20220224210000 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">24 Horas</title>
+  <programme start="20220226180000 -0600" stop="20220226190000 -0600" channel="Canal Teleamazonas ">
+    <title lang="es">Fresh Off the Boat</title>
   </programme>
-  <programme start="20220224210000 -0600" stop="20220224220000 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">La nieta elegida</title>
+  <programme start="20220226190000 -0600" stop="20220226200000 -0600" channel="Canal Teleamazonas ">
+    <title lang="es">Glee</title>
   </programme>
-  <programme start="20220224220000 -0600" stop="20220224224500 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">Almas Heridas</title>
+  <programme start="20220226200000 -0600" stop="20220226220000 -0600" channel="Canal Teleamazonas ">
+    <title lang="es">Princesa valiente</title>
   </programme>
-  <programme start="20220224224500 -0600" stop="20220224230000 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">La nieta elegida</title>
+  <programme start="20220226220000 -0600" stop="20220226230000 -0600" channel="Canal Teleamazonas ">
+    <title lang="es">América Vive</title>
   </programme>
-  <programme start="20220224230000 -0600" stop="20220224231000 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">La ley secreta</title>
+  <programme start="20220226230000 -0600" stop="20220226230500 -0600" channel="Canal Teleamazonas ">
+    <title lang="es">Película</title>
   </programme>
-  <programme start="20220224231000 -0600" stop="20220225001500 -0600" channel="Canal Teleamazonas ">
-    <title lang="es">Perseguidos</title>
-    <desc lang="es">Un capo perseguido por la justicia ha sido traicionado, ahora las autoridades por fin logran seguirle el rastro y desean capturarlo vivo o muerto.(n)</desc>
-    <credits>
-      <actor>Mauricio Islas</actor>
-      <actor>Irán Castillo</actor>
-      <actor>Marisol del Olmo</actor>
-      <actor>Sara Maldonado</actor>
-      <actor>Miguel Rodarte</actor>
-      <actor>Gerardo Taracena</actor>
-      <actor>Roberto Mateos</actor>
-      <actor>Alejandro de la Madrid</actor>
-      <producer>Perla Martínez Legorreta</producer>
-      <producer>Aurelio Valcárcel Carrol</producer>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/perseguidos.jpg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
+  <programme start="20220226230500 -0600" stop="20220227011500 -0600" channel="Canal Teleamazonas ">
+    <title lang="es">Película</title>
   </programme>
-  <programme start="20220224010000 -0600" stop="20220224023000 -0600" channel="Canal TC Televisión">
+  <programme start="20220226010000 -0600" stop="20220226023000 -0600" channel="Canal TC Televisión">
     <title lang="es">Cuatro cuartos</title>
   </programme>
-  <programme start="20220224023000 -0600" stop="20220224040000 -0600" channel="Canal TC Televisión">
+  <programme start="20220226023000 -0600" stop="20220226040000 -0600" channel="Canal TC Televisión">
     <title lang="es">De boca en boca</title>
   </programme>
-  <programme start="20220224040000 -0600" stop="20220224050000 -0600" channel="Canal TC Televisión">
-    <title lang="es">EDUCA</title>
+  <programme start="20220226040000 -0600" stop="20220226043000 -0600" channel="Canal TC Televisión">
+    <title lang="es">Alerta Roja</title>
   </programme>
-  <programme start="20220224050000 -0600" stop="20220224051500 -0600" channel="Canal TC Televisión">
+  <programme start="20220226043000 -0600" stop="20220226050000 -0600" channel="Canal TC Televisión">
+    <title lang="es">Alerta Roja</title>
+  </programme>
+  <programme start="20220226050000 -0600" stop="20220226051500 -0600" channel="Canal TC Televisión">
     <title lang="es">José de los Santos</title>
   </programme>
-  <programme start="20220224051500 -0600" stop="20220224054000 -0600" channel="Canal TC Televisión">
-    <title lang="es">Alerta Roja</title>
+  <programme start="20220226051500 -0600" stop="20220226060000 -0600" channel="Canal TC Televisión">
+    <title lang="es">A confirmar</title>
   </programme>
-  <programme start="20220224054000 -0600" stop="20220224070000 -0600" channel="Canal TC Televisión">
-    <title lang="es">DespiérTC</title>
+  <programme start="20220226060000 -0600" stop="20220226063000 -0600" channel="Canal TC Televisión">
+    <title lang="es">Hechicera</title>
   </programme>
-  <programme start="20220224070000 -0600" stop="20220224083000 -0600" channel="Canal TC Televisión">
-    <title lang="es">El noticiero I</title>
+  <programme start="20220226063000 -0600" stop="20220226070000 -0600" channel="Canal TC Televisión">
+    <title lang="es">Mi Bella Genio</title>
   </programme>
-  <programme start="20220224083000 -0600" stop="20220224100000 -0600" channel="Canal TC Televisión">
-    <title lang="es">Entre ellas</title>
+  <programme start="20220226070000 -0600" stop="20220226073000 -0600" channel="Canal TC Televisión">
+    <title lang="es">Hechicera</title>
   </programme>
-  <programme start="20220224100000 -0600" stop="20220224113000 -0600" channel="Canal TC Televisión">
-    <title lang="es">De Casa en Casa</title>
+  <programme start="20220226073000 -0600" stop="20220226080000 -0600" channel="Canal TC Televisión">
+    <title lang="es">Mi Bella Genio</title>
   </programme>
-  <programme start="20220224113000 -0600" stop="20220224123000 -0600" channel="Canal TC Televisión">
-    <title lang="es">Rostro de justicia</title>
+  <programme start="20220226080000 -0600" stop="20220226083000 -0600" channel="Canal TC Televisión">
+    <title lang="es">Hechizada</title>
   </programme>
-  <programme start="20220224123000 -0600" stop="20220224140000 -0600" channel="Canal TC Televisión">
-    <title lang="es">El noticiero II</title>
+  <programme start="20220226083000 -0600" stop="20220226090000 -0600" channel="Canal TC Televisión">
+    <title lang="es">Tiko Tiko</title>
   </programme>
-  <programme start="20220224140000 -0600" stop="20220224150000 -0600" channel="Canal TC Televisión">
-    <title lang="es">Rendón y La Bombón</title>
+  <programme start="20220226090000 -0600" stop="20220226110000 -0600" channel="Canal TC Televisión">
+    <title lang="es">Carita de Ángel</title>
   </programme>
-  <programme start="20220224150000 -0600" stop="20220224160000 -0600" channel="Canal TC Televisión">
-    <title lang="es">Dos hermanas</title>
+  <programme start="20220226110000 -0600" stop="20220226113000 -0600" channel="Canal TC Televisión">
+    <title lang="es">Los Padrinos Mágicos</title>
+    <title lang="xx">The Fairly OddParents</title>
+    <desc lang="es">Un niño tiene dos padrinos mágicos que pueden hacer realidad todos sus deseos, pero debe tener cuidado con lo que pide porque a veces pueden ser peligrosos.(n)</desc>
+    <credits>
+      <producer>Ray DeLaurentis</producer>
+      <producer>Randy Saba</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_padrinos_magicos.jpg" />
+    <country lang="es">Canadá</country>
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220224160000 -0600" stop="20220224173000 -0600" channel="Canal TC Televisión">
-    <title lang="es">De boca en boca</title>
+  <programme start="20220226113000 -0600" stop="20220226114500 -0600" channel="Canal TC Televisión">
+    <title lang="es">Transformers Cyberverse</title>
   </programme>
-  <programme start="20220224173000 -0600" stop="20220224190000 -0600" channel="Canal TC Televisión">
-    <title lang="es">Soy el mejor</title>
+  <programme start="20220226114500 -0600" stop="20220226120000 -0600" channel="Canal TC Televisión">
+    <title lang="es">Transformers Cyberverse</title>
   </programme>
-  <programme start="20220224190000 -0600" stop="20220224203000 -0600" channel="Canal TC Televisión">
-    <title lang="es">El Noticiero III</title>
+  <programme start="20220226120000 -0600" stop="20220226130000 -0600" channel="Canal TC Televisión">
+    <title lang="es">La mujer biónica</title>
   </programme>
-  <programme start="20220224203000 -0600" stop="20220224213000 -0600" channel="Canal TC Televisión">
-    <title lang="es">La inocencia de Tania</title>
+  <programme start="20220226130000 -0600" stop="20220226140000 -0600" channel="Canal TC Televisión">
+    <title lang="es">Impacto semanal</title>
   </programme>
-  <programme start="20220224213000 -0600" stop="20220224220000 -0600" channel="Canal TC Televisión">
-    <title lang="es">Amor de familia</title>
+  <programme start="20220226140000 -0600" stop="20220226160000 -0600" channel="Canal TC Televisión">
+    <title lang="es">Gumus</title>
   </programme>
-  <programme start="20220224220000 -0600" stop="20220224230000 -0600" channel="Canal TC Televisión">
-    <title lang="es">Vera... a su manera</title>
+  <programme start="20220226160000 -0600" stop="20220226180000 -0600" channel="Canal TC Televisión">
+    <title lang="es">A confirmar</title>
   </programme>
-  <programme start="20220224230000 -0600" stop="20220224233000 -0600" channel="Canal TC Televisión">
-    <title lang="es">Alerta Roja</title>
+  <programme start="20220226180000 -0600" stop="20220226183000 -0600" channel="Canal TC Televisión">
+    <title lang="es">Hechizada</title>
   </programme>
-  <programme start="20220224233000 -0600" stop="20220225000000 -0600" channel="Canal TC Televisión">
-    <title lang="es">Caso cerrado Edición estelar</title>
+  <programme start="20220226183000 -0600" stop="20220226193000 -0600" channel="Canal TC Televisión">
+    <title lang="es">Punto Final</title>
   </programme>
-  <programme start="20220224040000 -0600" stop="20220224050000 -0600" channel="Canal Gamavisión">
+  <programme start="20220226193000 -0600" stop="20220226203000 -0600" channel="Canal TC Televisión">
+    <title lang="es">Impacto semanal</title>
+  </programme>
+  <programme start="20220226203000 -0600" stop="20220226223000 -0600" channel="Canal TC Televisión">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220226223000 -0600" stop="20220226233000 -0600" channel="Canal TC Televisión">
+    <title lang="es">Antuca me enamora</title>
+  </programme>
+  <programme start="20220226233000 -0600" stop="20220227003000 -0600" channel="Canal TC Televisión">
+    <title lang="es">La Sra. Fazilet y sus Hijas</title>
+  </programme>
+  <programme start="20220226040000 -0600" stop="20220226050000 -0600" channel="Canal Gamavisión">
     <title lang="es">Programación</title>
   </programme>
-  <programme start="20220224050000 -0600" stop="20220224060000 -0600" channel="Canal Gamavisión">
+  <programme start="20220226050000 -0600" stop="20220226060000 -0600" channel="Canal Gamavisión">
     <title lang="es">Outlet TV</title>
   </programme>
-  <programme start="20220224060000 -0600" stop="20220224070000 -0600" channel="Canal Gamavisión">
-    <title lang="es">Gamanoticias matinal</title>
+  <programme start="20220226060000 -0600" stop="20220226063000 -0600" channel="Canal Gamavisión">
+    <title lang="es">El ojo clínico</title>
   </programme>
-  <programme start="20220224070000 -0600" stop="20220224073000 -0600" channel="Canal Gamavisión">
-    <title lang="es">Pensadores positivos</title>
-  </programme>
-  <programme start="20220224073000 -0600" stop="20220224083000 -0600" channel="Canal Gamavisión">
+  <programme start="20220226063000 -0600" stop="20220226070000 -0600" channel="Canal Gamavisión">
     <title lang="es">Outlet TV</title>
   </programme>
-  <programme start="20220224083000 -0600" stop="20220224090000 -0600" channel="Canal Gamavisión">
+  <programme start="20220226070000 -0600" stop="20220226073000 -0600" channel="Canal Gamavisión">
     <title lang="es">Outlet TV</title>
   </programme>
-  <programme start="20220224090000 -0600" stop="20220224093000 -0600" channel="Canal Gamavisión">
+  <programme start="20220226073000 -0600" stop="20220226080000 -0600" channel="Canal Gamavisión">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20220226080000 -0600" stop="20220226083000 -0600" channel="Canal Gamavisión">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20220226083000 -0600" stop="20220226090000 -0600" channel="Canal Gamavisión">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20220226090000 -0600" stop="20220226093000 -0600" channel="Canal Gamavisión">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20220226093000 -0600" stop="20220226100000 -0600" channel="Canal Gamavisión">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20220226100000 -0600" stop="20220226103000 -0600" channel="Canal Gamavisión">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20220226103000 -0600" stop="20220226110000 -0600" channel="Canal Gamavisión">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20220226110000 -0600" stop="20220226113000 -0600" channel="Canal Gamavisión">
     <title lang="es">LABMAC</title>
   </programme>
-  <programme start="20220224093000 -0600" stop="20220224103000 -0600" channel="Canal Gamavisión">
+  <programme start="20220226113000 -0600" stop="20220226120000 -0600" channel="Canal Gamavisión">
+    <title lang="es">Centella</title>
+  </programme>
+  <programme start="20220226120000 -0600" stop="20220226123000 -0600" channel="Canal Gamavisión">
+    <title lang="es">Detective Conan</title>
+  </programme>
+  <programme start="20220226123000 -0600" stop="20220226130000 -0600" channel="Canal Gamavisión">
     <title lang="es">Outlet TV</title>
   </programme>
-  <programme start="20220224103000 -0600" stop="20220224110000 -0600" channel="Canal Gamavisión">
+  <programme start="20220226130000 -0600" stop="20220226133000 -0600" channel="Canal Gamavisión">
     <title lang="es">Outlet TV</title>
   </programme>
-  <programme start="20220224110000 -0600" stop="20220224113000 -0600" channel="Canal Gamavisión">
+  <programme start="20220226133000 -0600" stop="20220226140000 -0600" channel="Canal Gamavisión">
     <title lang="es">Candy Candy</title>
   </programme>
-  <programme start="20220224113000 -0600" stop="20220224123000 -0600" channel="Canal Gamavisión">
-    <title lang="es">El bigote del sabor</title>
-  </programme>
-  <programme start="20220224123000 -0600" stop="20220224133000 -0600" channel="Canal Gamavisión">
+  <programme start="20220226140000 -0600" stop="20220226143000 -0600" channel="Canal Gamavisión">
     <title lang="es">Candy Candy</title>
   </programme>
-  <programme start="20220224133000 -0600" stop="20220224140000 -0600" channel="Canal Gamavisión">
+  <programme start="20220226143000 -0600" stop="20220226150000 -0600" channel="Canal Gamavisión">
+    <title lang="es">El vengador</title>
+  </programme>
+  <programme start="20220226150000 -0600" stop="20220226153000 -0600" channel="Canal Gamavisión">
+    <title lang="es">El gladiador</title>
+  </programme>
+  <programme start="20220226153000 -0600" stop="20220226160000 -0600" channel="Canal Gamavisión">
+    <title lang="es">El Galáctico</title>
+  </programme>
+  <programme start="20220226160000 -0600" stop="20220226163000 -0600" channel="Canal Gamavisión">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20220226163000 -0600" stop="20220226170000 -0600" channel="Canal Gamavisión">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20220226170000 -0600" stop="20220226173000 -0600" channel="Canal Gamavisión">
     <title lang="es">Encanto de Japón</title>
   </programme>
-  <programme start="20220224140000 -0600" stop="20220224143000 -0600" channel="Canal Gamavisión">
-    <title lang="es">Programa médico</title>
+  <programme start="20220226173000 -0600" stop="20220226180000 -0600" channel="Canal Gamavisión">
+    <title lang="es">Encanto de Japón</title>
   </programme>
-  <programme start="20220224143000 -0600" stop="20220224153000 -0600" channel="Canal Gamavisión">
-    <title lang="es">Programa deportivo</title>
+  <programme start="20220226180000 -0600" stop="20220226190000 -0600" channel="Canal Gamavisión">
+    <title lang="es">Freestyle World</title>
   </programme>
-  <programme start="20220224153000 -0600" stop="20220224160000 -0600" channel="Canal Gamavisión">
-    <title lang="es">Animado</title>
-  </programme>
-  <programme start="20220224160000 -0600" stop="20220224170000 -0600" channel="Canal Gamavisión">
+  <programme start="20220226190000 -0600" stop="20220226200000 -0600" channel="Canal Gamavisión">
     <title lang="es">Tik Music</title>
   </programme>
-  <programme start="20220224170000 -0600" stop="20220224173000 -0600" channel="Canal Gamavisión">
-    <title lang="es">Dueña y Señora</title>
-  </programme>
-  <programme start="20220224173000 -0600" stop="20220224180000 -0600" channel="Canal Gamavisión">
-    <title lang="es">Tabú</title>
-  </programme>
-  <programme start="20220224180000 -0600" stop="20220224190000 -0600" channel="Canal Gamavisión">
+  <programme start="20220226200000 -0600" stop="20220226210000 -0600" channel="Canal Gamavisión">
     <title lang="es">El bigote del sabor</title>
   </programme>
-  <programme start="20220224190000 -0600" stop="20220224200000 -0600" channel="Canal Gamavisión">
-    <title lang="es">Gamanoticias estelar</title>
+  <programme start="20220226210000 -0600" stop="20220226213000 -0600" channel="Canal Gamavisión">
+    <title lang="es">Miniseries</title>
   </programme>
-  <programme start="20220224200000 -0600" stop="20220224210000 -0600" channel="Canal Gamavisión">
-    <title lang="es">Secretarias</title>
+  <programme start="20220226213000 -0600" stop="20220226220000 -0600" channel="Canal Gamavisión">
+    <title lang="es">Zona salud</title>
   </programme>
-  <programme start="20220224210000 -0600" stop="20220224230000 -0600" channel="Canal Gamavisión">
-    <title lang="es">Quienes mandan aquí</title>
+  <programme start="20220226220000 -0600" stop="20220226230000 -0600" channel="Canal Gamavisión">
+    <title lang="es">Archivos del destino</title>
   </programme>
-  <programme start="20220224230000 -0600" stop="20220224233000 -0600" channel="Canal Gamavisión">
+  <programme start="20220226230000 -0600" stop="20220226233000 -0600" channel="Canal Gamavisión">
     <title lang="es">LABMAC</title>
   </programme>
-  <programme start="20220224233000 -0600" stop="20220225000000 -0600" channel="Canal Gamavisión">
+  <programme start="20220226233000 -0600" stop="20220227000000 -0600" channel="Canal Gamavisión">
     <title lang="es">Outlet TV</title>
   </programme>
-  <programme start="20220224001500 -0600" stop="20220224010000 -0600" channel="Canal RTS">
+  <programme start="20220226001500 -0600" stop="20220226010000 -0600" channel="Canal RTS">
     <title lang="es">Amar es primavera</title>
   </programme>
-  <programme start="20220224010000 -0600" stop="20220224040000 -0600" channel="Canal RTS">
+  <programme start="20220226010000 -0600" stop="20220226040000 -0600" channel="Canal RTS">
     <title lang="es">Novedades TV</title>
   </programme>
-  <programme start="20220224040000 -0600" stop="20220224050000 -0600" channel="Canal RTS">
+  <programme start="20220226040000 -0600" stop="20220226050000 -0600" channel="Canal RTS">
     <title lang="es">Educa televisión para aprender</title>
   </programme>
-  <programme start="20220224050000 -0600" stop="20220224060000 -0600" channel="Canal RTS">
+  <programme start="20220226050000 -0600" stop="20220226060000 -0600" channel="Canal RTS">
     <title lang="es">La noticia</title>
   </programme>
-  <programme start="20220224060000 -0600" stop="20220224070000 -0600" channel="Canal RTS">
-    <title lang="es">El despertar de La Noticia</title>
+  <programme start="20220226060000 -0600" stop="20220226070000 -0600" channel="Canal RTS">
+    <title lang="es">Ranty Ranty</title>
   </programme>
-  <programme start="20220224070000 -0600" stop="20220224080000 -0600" channel="Canal RTS">
-    <title lang="es">La noticia</title>
+  <programme start="20220226070000 -0600" stop="20220226080000 -0600" channel="Canal RTS">
+    <title lang="es">Beyblade Burst turbo</title>
   </programme>
-  <programme start="20220224080000 -0600" stop="20220224093000 -0600" channel="Canal RTS">
-    <title lang="es">La noticia en la comunidad</title>
+  <programme start="20220226080000 -0600" stop="20220226083000 -0600" channel="Canal RTS">
+    <title lang="es">Una familia de diez</title>
   </programme>
-  <programme start="20220224093000 -0600" stop="20220224110000 -0600" channel="Canal RTS">
-    <title lang="es">Noticias de la mañana</title>
+  <programme start="20220226083000 -0600" stop="20220226090000 -0600" channel="Canal RTS">
+    <title lang="es">Promo TV</title>
   </programme>
-  <programme start="20220224110000 -0600" stop="20220224120000 -0600" channel="Canal RTS">
-    <title lang="es">Mujer... Casos de la vida real</title>
+  <programme start="20220226090000 -0600" stop="20220226093000 -0600" channel="Canal RTS">
+    <title lang="es">XH Derbez</title>
   </programme>
-  <programme start="20220224120000 -0600" stop="20220224130000 -0600" channel="Canal RTS">
-    <title lang="es">La Familia de Mi Esposo</title>
+  <programme start="20220226093000 -0600" stop="20220226100000 -0600" channel="Canal RTS">
+    <title lang="es">La hora pico</title>
   </programme>
-  <programme start="20220224130000 -0600" stop="20220224140000 -0600" channel="Canal RTS">
-    <title lang="es">La Rosa de Guadalupe</title>
+  <programme start="20220226100000 -0600" stop="20220226113000 -0600" channel="Canal RTS">
+    <title lang="es">Reto cuatro elementos</title>
   </programme>
-  <programme start="20220224140000 -0600" stop="20220224150000 -0600" channel="Canal RTS">
-    <title lang="es">Laura</title>
+  <programme start="20220226113000 -0600" stop="20220226120000 -0600" channel="Canal RTS">
+    <title lang="es">UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20220224150000 -0600" stop="20220224160000 -0600" channel="Canal RTS">
-    <title lang="es">Diseñando tu Amor</title>
+  <programme start="20220226120000 -0600" stop="20220226130000 -0600" channel="Canal RTS">
+    <title lang="es">Rookie Blue Policías Novatos</title>
   </programme>
-  <programme start="20220224160000 -0600" stop="20220224170000 -0600" channel="Canal RTS">
+  <programme start="20220226130000 -0600" stop="20220226140000 -0600" channel="Canal RTS">
+    <title lang="es">Guerrero Ninja Americano</title>
+  </programme>
+  <programme start="20220226140000 -0600" stop="20220226150000 -0600" channel="Canal RTS">
+    <title lang="es">Scorpion</title>
+  </programme>
+  <programme start="20220226150000 -0600" stop="20220226160000 -0600" channel="Canal RTS">
+    <title lang="es">NCIS: Nueva Orleans</title>
+    <title lang="xx">NCIS: New Orleans</title>
+    <desc lang="es">NCIS: New Orleans es el equipo que se encarga de las investigaciones criminales relacionados con personal militar en esta ciudad conocida por su música.(n)</desc>
+    <credits>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Zoe McLellan</actor>
+      <actor>Rob Kerkovich</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Daryl "Chill" Mitchell</actor>
+      <actor>Shalita Grant</actor>
+      <actor>Vanessa Ferlito</actor>
+      <producer>David Appelbaum</producer>
+      <producer>Joshua Rexon</producer>
+      <composer>John Lee Hooker</composer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ncis_new_orleans.jpg" />
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20220226160000 -0600" stop="20220226170000 -0600" channel="Canal RTS">
+    <title lang="es">Macgyver</title>
+  </programme>
+  <programme start="20220226170000 -0600" stop="20220226180000 -0600" channel="Canal RTS">
+    <title lang="es">NCIS: Los Ángeles</title>
+    <title lang="xx">NCIS: Los Angeles</title>
+    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país.(n)</desc>
+    <credits>
+      <actor>Chris O'Donnell</actor>
+      <actor>Peter Cambor</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Adam Jamal Craig</actor>
+      <actor>LL Cool J</actor>
+      <actor>Linda Hunt</actor>
+      <actor>Barrett Foa</actor>
+      <actor>Eric Christian Olsen</actor>
+      <composer>James S. Levine</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ncis_los_angeles.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220226180000 -0600" stop="20220226200000 -0600" channel="Canal RTS">
+    <title lang="es">Marimar</title>
+  </programme>
+  <programme start="20220226200000 -0600" stop="20220226210000 -0600" channel="Canal RTS">
     <title lang="es">Como dice el dicho</title>
   </programme>
-  <programme start="20220224170000 -0600" stop="20220224180000 -0600" channel="Canal RTS">
-    <title lang="es">Amar es primavera</title>
-  </programme>
-  <programme start="20220224180000 -0600" stop="20220224190000 -0600" channel="Canal RTS">
-    <title lang="es">Las mil y una noches</title>
-  </programme>
-  <programme start="20220224190000 -0600" stop="20220224200000 -0600" channel="Canal RTS">
+  <programme start="20220226210000 -0600" stop="20220226220000 -0600" channel="Canal RTS">
     <title lang="es">La Rosa de Guadalupe</title>
   </programme>
-  <programme start="20220224200000 -0600" stop="20220224210000 -0600" channel="Canal RTS">
-    <title lang="es">Elif</title>
+  <programme start="20220226220000 -0600" stop="20220226230000 -0600" channel="Canal RTS">
+    <title lang="es">Fear the Walking Dead</title>
+    <title lang="xx">Fear the Walking Dead</title>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad.(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodríguez</actor>
+      <actor>Mercedes Mason</actor>
+      <actor>Lorenzo James Henrie</actor>
+      <producer>Bill Johnson</producer>
+      <producer>Avram Butch Kaplan</producer>
+      <composer>Atticus Ross</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
+    <rating>
+      <value>TV-MA</value>
+    </rating>
   </programme>
-  <programme start="20220224210000 -0600" stop="20220224220000 -0600" channel="Canal RTS">
-    <title lang="es">Hercai</title>
+  <programme start="20220226230000 -0600" stop="20220227000000 -0600" channel="Canal RTS">
+    <title lang="es">El transportador</title>
   </programme>
-  <programme start="20220224220000 -0600" stop="20220224230000 -0600" channel="Canal RTS">
-    <title lang="es">La noticia</title>
+  <programme start="20220226010000 -0600" stop="20220226020000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol Ecuador</title>
   </programme>
-  <programme start="20220224230000 -0600" stop="20220224231500 -0600" channel="Canal RTS">
-    <title lang="es">Copa</title>
+  <programme start="20220226020000 -0600" stop="20220226040000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Dvo Cuenca vs. Liga de Quito</title>
   </programme>
-  <programme start="20220224010000 -0600" stop="20220224013000 -0600" channel="Canal GolTV Latinoamérica">
+  <programme start="20220226040000 -0600" stop="20220226050000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20220226050000 -0600" stop="20220226053000 -0600" channel="Canal GolTV Latinoamérica">
     <title lang="es">GOGOGOAL</title>
   </programme>
-  <programme start="20220224013000 -0600" stop="20220224020000 -0600" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Tu Fútbol Uruguay</title>
-  </programme>
-  <programme start="20220224020000 -0600" stop="20220224040000 -0600" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Técnico Universitario vs. 9 de Octubre</title>
-  </programme>
-  <programme start="20220224040000 -0600" stop="20220224043000 -0600" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Fechas Pasadas</title>
-  </programme>
-  <programme start="20220224043000 -0600" stop="20220224053000 -0600" channel="Canal GolTV Latinoamérica">
+  <programme start="20220226053000 -0600" stop="20220226063000 -0600" channel="Canal GolTV Latinoamérica">
     <title lang="es">Portugol</title>
   </programme>
-  <programme start="20220224053000 -0600" stop="20220224073000 -0600" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Danubio vs. Rentistas</title>
+  <programme start="20220226063000 -0600" stop="20220226083000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Ajax vs. Vitesse</title>
   </programme>
-  <programme start="20220224073000 -0600" stop="20220224080000 -0600" channel="Canal GolTV Latinoamérica">
+  <programme start="20220226083000 -0600" stop="20220226090000 -0600" channel="Canal GolTV Latinoamérica">
     <title lang="es">The Football Review</title>
   </programme>
-  <programme start="20220224080000 -0600" stop="20220224100000 -0600" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Moreirense vs. Porto</title>
-  </programme>
-  <programme start="20220224100000 -0600" stop="20220224103000 -0600" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Tu Fútbol Uruguay</title>
-  </programme>
-  <programme start="20220224103000 -0600" stop="20220224110000 -0600" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Fechas Pasadas</title>
-  </programme>
-  <programme start="20220224110000 -0600" stop="20220224120000 -0600" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Portugol</title>
-  </programme>
-  <programme start="20220224120000 -0600" stop="20220224130000 -0600" channel="Canal GolTV Latinoamérica">
+  <programme start="20220226090000 -0600" stop="20220226100000 -0600" channel="Canal GolTV Latinoamérica">
     <title lang="es">El Show del Fútbol</title>
   </programme>
-  <programme start="20220224130000 -0600" stop="20220224140000 -0600" channel="Canal GolTV Latinoamérica">
+  <programme start="20220226100000 -0600" stop="20220226110000 -0600" channel="Canal GolTV Latinoamérica">
     <title lang="es">GolNoticias</title>
   </programme>
-  <programme start="20220224140000 -0600" stop="20220224143000 -0600" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Tu Fútbol - Perú</title>
+  <programme start="20220226110000 -0600" stop="20220226130000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Spartak Moscú vs. CSKA Moscú En Vivo</title>
   </programme>
-  <programme start="20220224143000 -0600" stop="20220224153000 -0600" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Fanáticos</title>
+  <programme start="20220226130000 -0600" stop="20220226150000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Marítimo vs. Sporting En Vivo</title>
   </programme>
-  <programme start="20220224153000 -0600" stop="20220224173000 -0600" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Albion vs. Peñarol</title>
+  <programme start="20220226150000 -0600" stop="20220226170000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Liverpool vs. Danubio En Vivo</title>
   </programme>
-  <programme start="20220224173000 -0600" stop="20220224180000 -0600" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Tu Fútbol Uruguay</title>
-  </programme>
-  <programme start="20220224180000 -0600" stop="20220224183000 -0600" channel="Canal GolTV Latinoamérica">
-    <title lang="es">The Football Review</title>
-  </programme>
-  <programme start="20220224183000 -0600" stop="20220224190000 -0600" channel="Canal GolTV Latinoamérica">
-    <title lang="es">GOGOGOAL</title>
-  </programme>
-  <programme start="20220224190000 -0600" stop="20220224200000 -0600" channel="Canal GolTV Latinoamérica">
-    <title lang="es">GolTV Noticias</title>
-  </programme>
-  <programme start="20220224200000 -0600" stop="20220224220000 -0600" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Boavista vs. Benfica</title>
-  </programme>
-  <programme start="20220224220000 -0600" stop="20220224223000 -0600" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Tu Fútbol - Perú</title>
-  </programme>
-  <programme start="20220224223000 -0600" stop="20220224233000 -0600" channel="Canal GolTV Latinoamérica">
-    <title lang="es">Fanáticos</title>
-  </programme>
-  <programme start="20220224233000 -0600" stop="20220225000000 -0600" channel="Canal GolTV Latinoamérica">
+  <programme start="20220226170000 -0600" stop="20220226173000 -0600" channel="Canal GolTV Latinoamérica">
     <title lang="es">Fechas Pasadas</title>
   </programme>
-  <programme start="20220224000500 -0600" stop="20220224015900 -0600" channel="Canal Cinemax (México)">
-    <title lang="es">The Purge Anarchy</title>
+  <programme start="20220226173000 -0600" stop="20220226193000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Universidad Catolica vs. Guayaquil City En Vivo</title>
   </programme>
-  <programme start="20220224015900 -0600" stop="20220224034900 -0600" channel="Canal Cinemax (México)">
-    <title lang="es">The Fog</title>
+  <programme start="20220226193000 -0600" stop="20220226200000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Tu Fútbol Uruguay</title>
   </programme>
-  <programme start="20220224034900 -0600" stop="20220224062900 -0600" channel="Canal Cinemax (México)">
-    <title lang="es">Todos los hombres del</title>
+  <programme start="20220226200000 -0600" stop="20220226220000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Barcelona Vs. Técnico Universitario En Vivo</title>
   </programme>
-  <programme start="20220224062900 -0600" stop="20220224070000 -0600" channel="Canal Cinemax (México)">
-    <title lang="es">Lo que ocurrió el 11 de sept</title>
+  <programme start="20220226220000 -0600" stop="20220227000000 -0600" channel="Canal GolTV Latinoamérica">
+    <title lang="es">Ayacucho vs. San Martin Repetición</title>
   </programme>
-  <programme start="20220224070000 -0600" stop="20220224084200 -0600" channel="Canal Cinemax (México)">
-    <title lang="es">Mi querida cofradía</title>
-  </programme>
-  <programme start="20220224084200 -0600" stop="20220224103500 -0600" channel="Canal Cinemax (México)">
-    <title lang="es">Medianoche En París</title>
-  </programme>
-  <programme start="20220224103500 -0600" stop="20220224122500 -0600" channel="Canal Cinemax (México)">
-    <title lang="es">Antes de partir</title>
-  </programme>
-  <programme start="20220224122500 -0600" stop="20220224141900 -0600" channel="Canal Cinemax (México)">
-    <title lang="es">Se busca pareja</title>
-  </programme>
-  <programme start="20220224141900 -0600" stop="20220224162000 -0600" channel="Canal Cinemax (México)">
-    <title lang="es">No Escape</title>
-  </programme>
-  <programme start="20220224162000 -0600" stop="20220224180300 -0600" channel="Canal Cinemax (México)">
-    <title lang="es">Our House</title>
-  </programme>
-  <programme start="20220224180300 -0600" stop="20220224200600 -0600" channel="Canal Cinemax (México)">
-    <title lang="es">Amor a distancia</title>
-  </programme>
-  <programme start="20220224200600 -0600" stop="20220224220000 -0600" channel="Canal Cinemax (México)">
-    <title lang="es">Tammy</title>
-  </programme>
-  <programme start="20220224220000 -0600" stop="20220224234800 -0600" channel="Canal Cinemax (México)">
-    <title lang="es">Antes de partir</title>
-  </programme>
-  <programme start="20220224234800 -0600" stop="20220225014600 -0600" channel="Canal Cinemax (México)">
-    <title lang="es">No Escape</title>
-  </programme>
-  <programme start="20220224005700 -0600" stop="20220224015500 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Las tumbas secretas del Himalaya</title>
-  </programme>
-  <programme start="20220224015500 -0600" stop="20220224023700 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Gordon Ramsay sabores extremos</title>
-  </programme>
-  <programme start="20220224023700 -0600" stop="20220224032000 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Solo contra el mundo Hazen Audel</title>
-  </programme>
-  <programme start="20220224032000 -0600" stop="20220224040000 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Lawless Island</title>
-  </programme>
-  <programme start="20220224040000 -0600" stop="20220224044200 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Alerta Aeropuerto</title>
-  </programme>
-  <programme start="20220224044200 -0600" stop="20220224052500 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Alerta Aeropuerto</title>
-  </programme>
-  <programme start="20220224052500 -0600" stop="20220224054500 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Megaindustria de alimentos</title>
-  </programme>
-  <programme start="20220224054500 -0600" stop="20220224060500 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Megaindustria de alimentos</title>
-  </programme>
-  <programme start="20220224060500 -0600" stop="20220224062500 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Megaindustria de alimentos</title>
-  </programme>
-  <programme start="20220224062500 -0600" stop="20220224070000 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">La ciencia de lo absurdo</title>
-  </programme>
-  <programme start="20220224070000 -0600" stop="20220224073000 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20220224073000 -0600" stop="20220224080000 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20220224080000 -0600" stop="20220224083000 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20220224083000 -0600" stop="20220224090000 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20220224090000 -0600" stop="20220224093000 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20220224093000 -0600" stop="20220224100000 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20220224100000 -0600" stop="20220224103000 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20220224103000 -0600" stop="20220224110200 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20220224110200 -0600" stop="20220224113200 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Megaindustria de alimentos</title>
-  </programme>
-  <programme start="20220224113200 -0600" stop="20220224120200 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Megaindustria de alimentos</title>
-  </programme>
-  <programme start="20220224120200 -0600" stop="20220224123200 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Megaindustria de alimentos</title>
-  </programme>
-  <programme start="20220224123200 -0600" stop="20220224132700 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Construyendo gigantes</title>
-  </programme>
-  <programme start="20220224132700 -0600" stop="20220224142500 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Tormentas Implacables</title>
-  </programme>
-  <programme start="20220224142500 -0600" stop="20220224152200 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Patrullas de Alaska</title>
-  </programme>
-  <programme start="20220224152200 -0600" stop="20220224161700 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Imperio Salvaje</title>
-  </programme>
-  <programme start="20220224161700 -0600" stop="20220224171200 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Los Depredadores más peligrosos de África</title>
-  </programme>
-  <programme start="20220224171200 -0600" stop="20220224180700 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Preso en el extranjero crimen y castigo</title>
-  </programme>
-  <programme start="20220224180700 -0600" stop="20220224190500 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Los faraones negros imperio dorado</title>
-  </programme>
-  <programme start="20220224190500 -0600" stop="20220224200200 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Alerta Aeropuerto</title>
-  </programme>
-  <programme start="20220224200200 -0600" stop="20220224210000 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Alerta Aeropuerto</title>
-  </programme>
-  <programme start="20220224210000 -0600" stop="20220224215700 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Gordon Ramsay sabores extremos</title>
-  </programme>
-  <programme start="20220224215700 -0600" stop="20220224225200 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">¿Qué Comemos</title>
-  </programme>
-  <programme start="20220224225200 -0600" stop="20220224232200 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Megaindustria de alimentos Estados Unidos</title>
-  </programme>
-  <programme start="20220224232200 -0600" stop="20220224235200 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">Megaindustria de alimentos Estados Unidos</title>
-  </programme>
-  <programme start="20220224235200 -0600" stop="20220225005000 -0600" channel="Canal National Geographic (Centro)">
-    <title lang="es">El último faraón</title>
-  </programme>
-  <programme start="20220224010000 -0600" stop="20220224020000 -0600" channel="Canal ESPN 2 (Colombia)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220224020000 -0600" stop="20220224030000 -0600" channel="Canal ESPN 2 (Colombia)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220224030000 -0600" stop="20220224043000 -0600" channel="Canal ESPN 2 (Colombia)">
-    <title lang="es">ESPN F Show</title>
-  </programme>
-  <programme start="20220224043000 -0600" stop="20220224060000 -0600" channel="Canal ESPN 2 (Colombia)">
-    <title lang="es">ESPN F360</title>
-  </programme>
-  <programme start="20220224060000 -0600" stop="20220224070000 -0600" channel="Canal ESPN 2 (Colombia)">
-    <title lang="es">ESPN tenis</title>
-  </programme>
-  <programme start="20220224070000 -0600" stop="20220224080000 -0600" channel="Canal ESPN 2 (Colombia)">
-    <title lang="es">PGA Tour Highlights - The Genesis Invitational</title>
-  </programme>
-  <programme start="20220224080000 -0600" stop="20220224090000 -0600" channel="Canal ESPN 2 (Colombia)">
-    <title lang="es">Goles de la Eredivisie</title>
-  </programme>
-  <programme start="20220224090000 -0600" stop="20220224110000 -0600" channel="Canal ESPN 2 (Colombia)">
-    <title lang="es">Atlético Madrid vs. Manchester United en la Etapa 1 de los Octavos de final</title>
-  </programme>
-  <programme start="20220224110000 -0600" stop="20220224113000 -0600" channel="Canal ESPN 2 (Colombia)">
-    <title lang="es">UEFA Champions League Highlights</title>
-  </programme>
-  <programme start="20220224113000 -0600" stop="20220224123000 -0600" channel="Canal ESPN 2 (Colombia)">
-    <title lang="es">UEFA Europa &amp; Conference League Magazine</title>
-  </programme>
-  <programme start="20220224123000 -0600" stop="20220224144500 -0600" channel="Canal ESPN 2 (Colombia)">
-    <title lang="es">UEFA Europa league</title>
-  </programme>
-  <programme start="20220224144500 -0600" stop="20220224170000 -0600" channel="Canal ESPN 2 (Colombia)">
-    <title lang="es">UEFA Europa league</title>
-  </programme>
-  <programme start="20220224170000 -0600" stop="20220224200000 -0600" channel="Canal ESPN 2 (Colombia)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220224200000 -0600" stop="20220224210000 -0600" channel="Canal ESPN 2 (Colombia)">
-    <title lang="es">Simplemente Futbol</title>
-  </programme>
-  <programme start="20220224210000 -0600" stop="20220224220000 -0600" channel="Canal ESPN 2 (Colombia)">
-    <title lang="es">Goles de la UEFA Europa &amp; Conference League</title>
-  </programme>
-  <programme start="20220224220000 -0600" stop="20220225000000 -0600" channel="Canal ESPN 2 (Colombia)">
-    <title lang="es">UEFA Europa league</title>
-  </programme>
-  <programme start="20220224001500 +0000" stop="20220224023000 +0000" channel="ESPN 2">
-    <title lang="es">Barcelona (ECU) VS Universitario (PER) - CL 2022</title>
-    <desc lang="es">Conmebol Libertadores 2022. La Copa Libertadores de América denominada oficialmente Copa Conmebol Libertadores, es un torneo anual internacional oficial de fútbol organizado por la Confederación Sudamericana de Fútbol, creado en 1960 bajo la denominación de Copa de Campeones de América y es uno de los más prestigiosos torneos en el mundo y la más prestigiosa competición a nivel de clubes de fútbol en Sudamérica y del continente.La Copa Libertadores de América denominada oficialmente Copa Conmebol Libertadores, es un torneo anual internacional oficial de fútbol organizado por la Confederación Sudamericana de Fútbol, creado en 1960 bajo la denominación de Copa de Campeones de América y es uno de los más prestigiosos torneos en el mundo y la más prestigiosa competición a nivel de clubes de fútbol en Sudamérica y del continente.(n)</desc>
-    <category lang="es">Deporte</category>
-    <rating system="CO">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220224023000 +0000" stop="20220224040000 +0000" channel="ESPN 2">
-    <title lang="es">Espn F90</title>
-    <desc lang="es">El análisis más profundo y caliente. Un espacio abierto para el debate y la opinión, que acompaña las noches de los amantes del fútbol nacional en las pantallas de ESPN, con reconocidos y respetados comentaristas colombianos. Se caracteriza por contar con el mejor análisis y las entrevistas más rigurosas de la actualidad deportiva. Vive este espacio informativo de martes a viernes durante dos horas.(n)</desc>
-    <category lang="es">Deporte</category>
-    <rating system="CO">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220224040000 +0000" stop="20220224050000 +0000" channel="ESPN 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
-    <category lang="es">Deporte</category>
-    <rating system="CO">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220224050000 +0000" stop="20220224060000 +0000" channel="ESPN 2">
-    <title lang="es">Espn F90</title>
-    <desc lang="es">El análisis más profundo y caliente. Un espacio abierto para el debate y la opinión, que acompaña las noches de los amantes del fútbol nacional en las pantallas de ESPN, con reconocidos y respetados comentaristas colombianos. Se caracteriza por contar con el mejor análisis y las entrevistas más rigurosas de la actualidad deportiva. Vive este espacio informativo de martes a viernes durante dos horas.(n)</desc>
-    <category lang="es">Deporte</category>
-    <rating system="CO">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220224060000 +0000" stop="20220224070000 +0000" channel="ESPN 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
-    <category lang="es">Deporte</category>
-    <rating system="CO">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220224070000 +0000" stop="20220224080000 +0000" channel="ESPN 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
-    <category lang="es">Deporte</category>
-    <rating system="CO">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220224080000 +0000" stop="20220224083000 +0000" channel="ESPN 2">
-    <title lang="es">Espn Ciclismo</title>
-    <desc lang="es">Programa de ESPN dedicado al ciclismo.(n)</desc>
-    <category lang="es">Deporte</category>
-    <rating system="CO">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220224083000 +0000" stop="20220224090000 +0000" channel="ESPN 2">
-    <title lang="es">Uefa Champions League Highlights</title>
-    <desc lang="es">ESPN trae para ti toda la acción de la UEFA Champions League, la competencia de clubes más importante del mundo.(n)</desc>
-    <category lang="es">Deporte</category>
-    <rating system="CO">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220224090000 +0000" stop="20220224100000 +0000" channel="ESPN 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
-    <category lang="es">Deporte</category>
-    <rating system="CO">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220224100000 +0000" stop="20220224110000 +0000" channel="ESPN 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
-    <category lang="es">Deporte</category>
-    <rating system="CO">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220224110000 +0000" stop="20220224150000 +0000" channel="ESPN 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
-    <category lang="es">Deporte</category>
-    <rating system="CO">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220224150000 +0000" stop="20220224160000 +0000" channel="ESPN 2">
-    <title lang="es">Espn F90</title>
-    <desc lang="es">El análisis más profundo y caliente. Un espacio abierto para el debate y la opinión, que acompaña las noches de los amantes del fútbol nacional en las pantallas de ESPN, con reconocidos y respetados comentaristas colombianos. Se caracteriza por contar con el mejor análisis y las entrevistas más rigurosas de la actualidad deportiva. Vive este espacio informativo de martes a viernes durante dos horas.(n)</desc>
-    <category lang="es">Deporte</category>
-    <rating system="CO">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220224160000 +0000" stop="20220224173000 +0000" channel="ESPN 2">
-    <title lang="es">Balón Dividido</title>
-    <desc lang="es">El análisis y la actualidad del fútbol de Colombia, a cargo de los especialistas de ESPN.(n)</desc>
-    <category lang="es">Deporte</category>
-    <rating system="CO">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220224173000 +0000" stop="20220224194500 +0000" channel="ESPN 2">
-    <title lang="es">Dinamo Zagreb VS Sevilla - UEL 2021-22</title>
-    <desc lang="es">Uefa Europa League 2021-2022. La Liga de Europa de la UEFA es una competición continental de clubes organizada por la Unión de Asociaciones Europeas de Fútbol (UEFA), considerada la segunda más prestigiosa de Europa, tras la Liga de Campeones y una de las tres competiciones continentales organizadas por la UEFA, junto a la Liga de Conferencia.(n)</desc>
-    <category lang="es">Deporte</category>
-    <rating system="CO">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220224194500 +0000" stop="20220224220000 +0000" channel="ESPN 2">
-    <title lang="es">Napoli VS Barcelona - UEL 2021-22</title>
-    <desc lang="es">Uefa Europa League 2021-2022. La Liga de Europa de la UEFA es una competición continental de clubes organizada por la Unión de Asociaciones Europeas de Fútbol (UEFA), considerada la segunda más prestigiosa de Europa, tras la Liga de Campeones y una de las tres competiciones continentales organizadas por la UEFA, junto a la Liga de Conferencia.(n)</desc>
-    <category lang="es">Deporte</category>
-    <rating system="CO">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220224220000 +0000" stop="20220224230000 +0000" channel="ESPN 2">
-    <title lang="es">Espn F Show</title>
-    <desc lang="es">Infórmate sobre las noticias más importantes del mundo deportivo en el ámbito nacional e internacional, las últimas tendencias de las redes frente a la actualidad, y contará con jugosas entrevistas a invitados especiales.(n)</desc>
-    <category lang="es">Deporte</category>
-    <rating system="CO">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220224230000 +0000" stop="20220225000000 +0000" channel="ESPN 2">
-    <title lang="es">Espn F360</title>
-    <desc lang="es">Por medio de una discusión entre los panelistas, se tratarán temas de análisis sobre la agenda diaria del fútbol internacional y todo el mundo deportivo.(n)</desc>
-    <category lang="es">Deporte</category>
-    <rating system="CO">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220224000900 -0600" stop="20220224005500 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">Legacies</title>
-    <title lang="xx">Legacies</title>
-    <desc lang="es">Hope Mikaelson es una joven de 17 años que entra a la escuela The Salvatore para jóvenes y dotados, donde alcanzará la madurez de una manera poco común.(n)</desc>
+  <programme start="20220226014800 -0600" stop="20220226032300 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">The Autopsy of Jane Doe</title>
+    <title lang="xx">The Autopsy of Jane Doe</title>
+    <desc lang="es">Un equipo de forenses, padre e hijo, reciben un cadáver, pero cuando están por hacerle la autopsia, cosas inexplicables empiezan a ocurrir cerca de ellos.(n)</desc>
     <credits>
-      <actor>Danielle Rose Russell</actor>
-      <actor>Matt Davis</actor>
-      <actor>Kaylee Bryant</actor>
-      <actor>Jenny Boyd</actor>
-      <actor>Aria Shahghasemi</actor>
-      <actor>Quincy Fouse</actor>
+      <actor>Brian Cox</actor>
+      <actor>Emile Hirsch</actor>
+      <actor>Ophelia Lovibond</actor>
+      <actor>Michael McElhatton</actor>
+      <actor>Olwen Catherine Kelly</actor>
+      <producer>Fred Berger</producer>
+      <producer>Eric Garcia</producer>
+      <composer>Danny Bensi</composer>
+      <composer>Saunder Jurriaans</composer>
     </credits>
-    <date>2018</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/legacies.jpg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220224005500 -0600" stop="20220224012000 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">Dragon Ball Super</title>
-  </programme>
-  <programme start="20220224012000 -0600" stop="20220224014400 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">Dragon Ball Super</title>
-  </programme>
-  <programme start="20220224014400 -0600" stop="20220224023300 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">Rescue me</title>
-  </programme>
-  <programme start="20220224023300 -0600" stop="20220224025300 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220224025300 -0600" stop="20220224031200 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220224031200 -0600" stop="20220224033100 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220224033100 -0600" stop="20220224035100 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220224035100 -0600" stop="20220224041000 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220224041000 -0600" stop="20220224043000 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220224043000 -0600" stop="20220224060000 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">Warner Series Block</title>
-  </programme>
-  <programme start="20220224060000 -0600" stop="20220224073700 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">Warner Series Block</title>
-  </programme>
-  <programme start="20220224073700 -0600" stop="20220224075700 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220224075700 -0600" stop="20220224081800 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220224081800 -0600" stop="20220224083900 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">Brooklyn nine-nine</title>
-  </programme>
-  <programme start="20220224083900 -0600" stop="20220224090300 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">Brooklyn nine-nine</title>
-  </programme>
-  <programme start="20220224090300 -0600" stop="20220224092900 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">Dragon Ball Super</title>
-  </programme>
-  <programme start="20220224092900 -0600" stop="20220224095400 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">Dragon Ball Super</title>
-  </programme>
-  <programme start="20220224095400 -0600" stop="20220224112400 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">Stand by Me</title>
-  </programme>
-  <programme start="20220224112400 -0600" stop="20220224130000 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">Hancock</title>
-    <desc lang="es">La vida de un superhéroe de la ciudad Los Ángeles está por cambiar cuando salva la vida de un hombre cuya esposa esconde un secreto sobre su misterioso pasado.(n)</desc>
-    <credits>
-      <actor>Will Smith</actor>
-      <actor>Charlize Theron</actor>
-      <actor>Jason Bateman</actor>
-      <actor>Eddie Marsan</actor>
-      <producer>Akiva Goldsman</producer>
-      <producer>James Lassiter</producer>
-      <composer>John Powell</composer>
-    </credits>
-    <date>2008</date>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hancock.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220224130000 -0600" stop="20220224134700 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">Dc's legends of tomorrow</title>
-  </programme>
-  <programme start="20220224134700 -0600" stop="20220224143100 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">Dragon Ball Z Movie #1 Dead Zone</title>
-  </programme>
-  <programme start="20220224143100 -0600" stop="20220224162100 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">xXx 2 Estado de emergencia</title>
-  </programme>
-  <programme start="20220224162100 -0600" stop="20220224164200 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">Brooklyn nine-nine</title>
-  </programme>
-  <programme start="20220224164200 -0600" stop="20220224170500 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">Brooklyn nine-nine</title>
-  </programme>
-  <programme start="20220224170500 -0600" stop="20220224173200 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">Dragon Ball Super</title>
-  </programme>
-  <programme start="20220224173200 -0600" stop="20220224175800 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">Dragon Ball Super</title>
-  </programme>
-  <programme start="20220224175800 -0600" stop="20220224195100 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">Gatubela</title>
-  </programme>
-  <programme start="20220224195100 -0600" stop="20220224220000 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">Jurassic World: Mundo Jurásico</title>
-  </programme>
-  <programme start="20220224220000 -0600" stop="20220225000800 -0600" channel="Canal Warner TV (Panregional)">
-    <title lang="es">Sicario: Day of the Soldado</title>
-    <title lang="xx">Sicario 2: Soldado</title>
-    <desc lang="es">El agente Matt debe detener a los carteles de droga que comienzan a traficar terroristas en la frontera, para detenerlos vuelve a necesitar de Alejandro.(n)</desc>
-    <credits>
-      <actor>Benicio del Toro</actor>
-      <actor>Josh Brolin</actor>
-      <actor>Isabela Moner</actor>
-      <actor>Jeffrey Donovan</actor>
-      <actor>Manuel Garcia-Rulfo</actor>
-      <actor>Catherine Keener</actor>
-      <producer>Basil Iwanyk</producer>
-      <producer>Erica Lee</producer>
-      <composer>Hildur Guðnadóttir</composer>
-    </credits>
-    <date>2018</date>
+    <date>2016</date>
     <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/sicario_2_soldado.jpg" />
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_morgue_2016.jpg" />
     <rating>
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220224010000 +0000" stop="20220224020000 +0000" channel="EC DIRECTV Sports Ecuador">
-    <title lang="en">De ciclismo se habla así</title>
-    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+  <programme start="20220226032300 -0600" stop="20220226062900 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Los miserables</title>
   </programme>
-  <programme start="20220224020000 +0000" stop="20220224023000 +0000" channel="EC DIRECTV Sports Ecuador">
-    <title lang="en">Hilos : Juan Martín Del Potro - Juan Martín Del Potro</title>
-    <desc lang="en">Programa especial sobre el perfil del tenista argentino Juan Martín Del Potro, también conocido como la Torre de Tandil. Repaso de su trayectoria deportiva en la que supo conquistar, entre otros títulos, el US Open 2009 y la Copa Davis 2016.(n)</desc>
+  <programme start="20220226062900 -0600" stop="20220226070000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Lo que ocurrió el 11 de sept</title>
   </programme>
-  <programme start="20220224023000 +0000" stop="20220224033000 +0000" channel="EC DIRECTV Sports Ecuador">
-    <title lang="en">Debate Fútbol Ecuador</title>
-    <desc lang="en">Un programa donde se debaten los temas más importantes del fútbol ecuatoriano, de una manera ágil y profesional. Con los mejores periodistas deportivos del país.(n)</desc>
-    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/15285757/p15285757_b_v5_v17_cmd2.jpg" />
-    <premiere />
+  <programme start="20220226070000 -0600" stop="20220226093900 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">El niño y el fugitivo</title>
   </programme>
-  <programme start="20220224033000 +0000" stop="20220224040000 +0000" channel="EC DIRECTV Sports Ecuador">
-    <title lang="en">Conexión DIRECTV Ecuador</title>
-    <desc lang="en">Informativo Deportivo con la visión crítica, ágil y oportuna de periodistas experimentados, nobeles y capacitados. Todo lo que hay que saber sobre el deporte nacional e internacional y los deportistas ecuatorianos que sobresalen en el exterior.(n)</desc>
-    <premiere />
+  <programme start="20220226093900 -0600" stop="20220226111500 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Shrek 2</title>
+    <desc lang="es">Fiona y Shrek son invitados por los padres de la princesa a una cena para celebrar la boda de su hija, sin saber que los prometidos son ogros.(n)</desc>
+    <credits>
+      <actor>Mike Myers</actor>
+      <actor>Eddie Murphy</actor>
+      <actor>Cameron Diaz</actor>
+      <actor>Julie Andrews</actor>
+      <actor>Antonio Banderas</actor>
+      <actor>John Cleese</actor>
+      <actor>Rupert Everett</actor>
+      <actor>Jennifer Saunders</actor>
+      <producer>Aron Warner</producer>
+      <producer>John H. Williams</producer>
+      <composer>Harry Gregson-Williams</composer>
+    </credits>
+    <date>2004</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/shrek_2.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
   </programme>
-  <programme start="20220224040000 +0000" stop="20220224043000 +0000" channel="EC DIRECTV Sports Ecuador">
-    <title lang="en">Todo en 30 - Elche vs. Rayo Vallecano</title>
-    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DIRECTV Sports.(n)</desc>
+  <programme start="20220226111500 -0600" stop="20220226132300 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">La batalla de Riddick</title>
   </programme>
-  <programme start="20220224043000 +0000" stop="20220224060000 +0000" channel="EC DIRECTV Sports Ecuador">
+  <programme start="20220226132300 -0600" stop="20220226153300 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Jack El Cazagigantes</title>
+    <desc lang="es">(Jack the Giant Slayer) Un joven granjero se ve involucrado en la tarea de viajar al reino de los gigantes con la esperanza de rescatar a una princesa.(n)</desc>
+    <credits>
+      <actor>Nicholas Hoult</actor>
+      <actor>Eleanor Tomlinson</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Ian McShane</actor>
+      <producer>Neal H. Moritz</producer>
+      <producer>David Dobkin</producer>
+      <composer>John Ottman</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/jack_el_cazagigantes.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220226153300 -0600" stop="20220226174400 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Love Happens</title>
+  </programme>
+  <programme start="20220226174400 -0600" stop="20220226202000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">A Él No Le Gustas Tanto</title>
+  </programme>
+  <programme start="20220226202000 -0600" stop="20220226220000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Shrek 2</title>
+    <desc lang="es">Fiona y Shrek son invitados por los padres de la princesa a una cena para celebrar la boda de su hija, sin saber que los prometidos son ogros.(n)</desc>
+    <credits>
+      <actor>Mike Myers</actor>
+      <actor>Eddie Murphy</actor>
+      <actor>Cameron Diaz</actor>
+      <actor>Julie Andrews</actor>
+      <actor>Antonio Banderas</actor>
+      <actor>John Cleese</actor>
+      <actor>Rupert Everett</actor>
+      <actor>Jennifer Saunders</actor>
+      <producer>Aron Warner</producer>
+      <producer>John H. Williams</producer>
+      <composer>Harry Gregson-Williams</composer>
+    </credits>
+    <date>2004</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/shrek_2.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220226220000 -0600" stop="20220227000600 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Jack El Cazagigantes</title>
+    <desc lang="es">(Jack the Giant Slayer) Un joven granjero se ve involucrado en la tarea de viajar al reino de los gigantes con la esperanza de rescatar a una princesa.(n)</desc>
+    <credits>
+      <actor>Nicholas Hoult</actor>
+      <actor>Eleanor Tomlinson</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Ian McShane</actor>
+      <producer>Neal H. Moritz</producer>
+      <producer>David Dobkin</producer>
+      <composer>John Ottman</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/jack_el_cazagigantes.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220226005000 -0600" stop="20220226015000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Lo mejor de Secretos ocultos de las momias</title>
+  </programme>
+  <programme start="20220226015000 -0600" stop="20220226024000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Gordon Ramsay sabores extremos</title>
+  </programme>
+  <programme start="20220226024000 -0600" stop="20220226032500 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Solo contra el mundo Hazen Audel</title>
+  </programme>
+  <programme start="20220226032500 -0600" stop="20220226041000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Lawless Island</title>
+  </programme>
+  <programme start="20220226041000 -0600" stop="20220226045500 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20220226045500 -0600" stop="20220226053500 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20220226053500 -0600" stop="20220226060000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220226060000 -0600" stop="20220226062000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220226062000 -0600" stop="20220226063000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220226063000 -0600" stop="20220226070000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20220226070000 -0600" stop="20220226073000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220226073000 -0600" stop="20220226080000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220226080000 -0600" stop="20220226083000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220226083000 -0600" stop="20220226090000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220226090000 -0600" stop="20220226093000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220226093000 -0600" stop="20220226100000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220226100000 -0600" stop="20220226103000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220226103000 -0600" stop="20220226110000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220226110000 -0600" stop="20220226113000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220226113000 -0600" stop="20220226115500 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220226115500 -0600" stop="20220226122000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Megaindustria de alimentos Estados Unidos</title>
+  </programme>
+  <programme start="20220226122000 -0600" stop="20220226125000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Megaindustria de alimentos Estados Unidos</title>
+  </programme>
+  <programme start="20220226125000 -0600" stop="20220226131500 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220226131500 -0600" stop="20220226141000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Hogar para perros</title>
+  </programme>
+  <programme start="20220226141000 -0600" stop="20220226150500 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Yukon Vet</title>
+  </programme>
+  <programme start="20220226150500 -0600" stop="20220226160000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Gatitos en Problemas</title>
+  </programme>
+  <programme start="20220226160000 -0600" stop="20220226170000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Escuela para Perros</title>
+  </programme>
+  <programme start="20220226170000 -0600" stop="20220226180000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Cesar Millan mejores humanos, mejores perros</title>
+  </programme>
+  <programme start="20220226180000 -0600" stop="20220226190000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">China desde el cielo</title>
+  </programme>
+  <programme start="20220226190000 -0600" stop="20220226200000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Tesoros Perdidos de Egipto</title>
+  </programme>
+  <programme start="20220226200000 -0600" stop="20220226210000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Ciudades perdidas con Albert Lin</title>
+  </programme>
+  <programme start="20220226210000 -0600" stop="20220226212500 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Eco-Eye soluciones sustentables</title>
+  </programme>
+  <programme start="20220226212500 -0600" stop="20220226220000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Eco-Eye soluciones sustentables</title>
+  </programme>
+  <programme start="20220226220000 -0600" stop="20220226230000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Lo Mejor de Planeta Hostil</title>
+  </programme>
+  <programme start="20220226230000 -0600" stop="20220226235000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Photo Ark</title>
+  </programme>
+  <programme start="20220226235000 -0600" stop="20220227005000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20220226003000 -0600" stop="20220226013000 -0600" channel="Canal ESPN 2 (Colombia)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20220226013000 -0600" stop="20220226023000 -0600" channel="Canal ESPN 2 (Colombia)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20220226023000 -0600" stop="20220226030000 -0600" channel="Canal ESPN 2 (Colombia)">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20220226030000 -0600" stop="20220226043000 -0600" channel="Canal ESPN 2 (Colombia)">
+    <title lang="es">ESPN F Show</title>
+  </programme>
+  <programme start="20220226043000 -0600" stop="20220226060000 -0600" channel="Canal ESPN 2 (Colombia)">
+    <title lang="es">ESPN F360</title>
+  </programme>
+  <programme start="20220226060000 -0600" stop="20220226070000 -0600" channel="Canal ESPN 2 (Colombia)">
+    <title lang="es">Fútbol italiano Serie A</title>
+  </programme>
+  <programme start="20220226070000 -0600" stop="20220226080000 -0600" channel="Canal ESPN 2 (Colombia)">
+    <title lang="es">Goles de Europa</title>
+  </programme>
+  <programme start="20220226080000 -0600" stop="20220226083000 -0600" channel="Canal ESPN 2 (Colombia)">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20220226083000 -0600" stop="20220226093000 -0600" channel="Canal ESPN 2 (Colombia)">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20220226093000 -0600" stop="20220226112500 -0600" channel="Canal ESPN 2 (Colombia)">
+    <title lang="es">Boxeo</title>
+  </programme>
+  <programme start="20220226112500 -0600" stop="20220226115500 -0600" channel="Canal ESPN 2 (Colombia)">
+    <title lang="es">SportsCenter+</title>
+  </programme>
+  <programme start="20220226115500 -0600" stop="20220226125000 -0600" channel="Canal ESPN 2 (Colombia)">
+    <title lang="es">Simplemente Futbol</title>
+  </programme>
+  <programme start="20220226125000 -0600" stop="20220226135000 -0600" channel="Canal ESPN 2 (Colombia)">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20220226135000 -0600" stop="20220226145000 -0600" channel="Canal ESPN 2 (Colombia)">
+    <title lang="es">2022 Saudi Cup</title>
+  </programme>
+  <programme start="20220226145000 -0600" stop="20220226165500 -0600" channel="Canal ESPN 2 (Colombia)">
+    <title lang="es">LaLiga</title>
+  </programme>
+  <programme start="20220226165500 -0600" stop="20220226190000 -0600" channel="Canal ESPN 2 (Colombia)">
+    <title lang="es">Leeds United vs. Tottenham</title>
+  </programme>
+  <programme start="20220226190000 -0600" stop="20220226210000 -0600" channel="Canal ESPN 2 (Colombia)">
+    <title lang="es">Everton vs. Manchester City</title>
+  </programme>
+  <programme start="20220226210000 -0600" stop="20220226220000 -0600" channel="Canal ESPN 2 (Colombia)">
+    <title lang="es">Paris Saint-Germain vs. Saint-etienne</title>
+  </programme>
+  <programme start="20220226220000 -0600" stop="20220227003000 -0600" channel="Canal ESPN 2 (Colombia)">
+    <title lang="es">Boxeo</title>
+  </programme>
+  <programme start="20220226000000 +0000" stop="20220226020000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <category lang="es">Deporte</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220226020000 +0000" stop="20220226040000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F90</title>
+    <desc lang="es">El análisis más profundo y caliente. Un espacio abierto para el debate y la opinión, que acompaña las noches de los amantes del fútbol nacional en las pantallas de ESPN, con reconocidos y respetados comentaristas colombianos. Se caracteriza por contar con el mejor análisis y las entrevistas más rigurosas de la actualidad deportiva. Vive este espacio informativo de martes a viernes durante dos horas.(n)</desc>
+    <category lang="es">Deporte</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220226040000 +0000" stop="20220226050000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <category lang="es">Deporte</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220226050000 +0000" stop="20220226060000 +0000" channel="ESPN 2">
+    <title lang="es">Espn F90</title>
+    <desc lang="es">El análisis más profundo y caliente. Un espacio abierto para el debate y la opinión, que acompaña las noches de los amantes del fútbol nacional en las pantallas de ESPN, con reconocidos y respetados comentaristas colombianos. Se caracteriza por contar con el mejor análisis y las entrevistas más rigurosas de la actualidad deportiva. Vive este espacio informativo de martes a viernes durante dos horas.(n)</desc>
+    <category lang="es">Deporte</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220226060000 +0000" stop="20220226070000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <category lang="es">Deporte</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220226070000 +0000" stop="20220226080000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <category lang="es">Deporte</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220226080000 +0000" stop="20220226085500 +0000" channel="ESPN 2">
+    <title lang="es">Espn F90</title>
+    <desc lang="es">El análisis más profundo y caliente. Un espacio abierto para el debate y la opinión, que acompaña las noches de los amantes del fútbol nacional en las pantallas de ESPN, con reconocidos y respetados comentaristas colombianos. Se caracteriza por contar con el mejor análisis y las entrevistas más rigurosas de la actualidad deportiva. Vive este espacio informativo de martes a viernes durante dos horas.(n)</desc>
+    <category lang="es">Deporte</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220226085500 +0000" stop="20220226092500 +0000" channel="ESPN 2">
+    <title lang="es">ESPN W</title>
+    <desc lang="es">ESPN trae para ti todo sobre el deporte femenino a nivel mundial.(n)</desc>
+    <category lang="es">Deporte</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220226092500 +0000" stop="20220226102200 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <category lang="es">Deporte</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220226102200 +0000" stop="20220226112000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <category lang="es">Deporte</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220226112000 +0000" stop="20220226122000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <category lang="es">Deporte</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220226122000 +0000" stop="20220226142500 +0000" channel="ESPN 2">
+    <title lang="es">Leeds United VS Tottenham Hotspur - Premier 2021-22</title>
+    <desc lang="es">Premier League 2021-2022. La Premier League (en español, Liga Principal), también conocida en Inglaterra como The Premiership, es la máxima categoría del sistema de ligas de fútbol de Inglaterra.(n)</desc>
+    <category lang="es">Deporte</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220226142500 +0000" stop="20220226145000 +0000" channel="ESPN 2">
+    <title lang="es">Sportscenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <category lang="es">Deporte</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220226145000 +0000" stop="20220226165500 +0000" channel="ESPN 2">
+    <title lang="es">Manchester United VS Watford - Premier 2021-22</title>
+    <desc lang="es">Premier League 2021-2022. La Premier League (en español, Liga Principal), también conocida en Inglaterra como The Premiership, es la máxima categoría del sistema de ligas de fútbol de Inglaterra.(n)</desc>
+    <category lang="es">Deporte</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220226165500 +0000" stop="20220226172000 +0000" channel="ESPN 2">
+    <title lang="es">Sportscenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <category lang="es">Deporte</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220226172000 +0000" stop="20220226192500 +0000" channel="ESPN 2">
+    <title lang="es">Everton VS Manchester City - Premier 2021-22</title>
+    <desc lang="es">Premier League 2021-2022. La Premier League (en español, Liga Principal), también conocida en Inglaterra como The Premiership, es la máxima categoría del sistema de ligas de fútbol de Inglaterra.(n)</desc>
+    <category lang="es">Deporte</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220226192500 +0000" stop="20220226195000 +0000" channel="ESPN 2">
+    <title lang="es">Sportscenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <category lang="es">Deporte</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220226195000 +0000" stop="20220226215500 +0000" channel="ESPN 2">
+    <title lang="es">PSG VS Saint - Étienne - L1F</title>
+    <desc lang="es">Psg Vs Saint - L1f. La Ligue 1 es la primera división del sistema de ligas del fútbol francés organizada por la Ligue de Football Professionnel. Está formada por veinte clubes que operan en un sistema de ascensos y descensos con la Ligue 2, la segunda división francesa.(n)</desc>
+    <category lang="es">Deporte</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220226215500 +0000" stop="20220227002000 +0000" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">No te pierdas el mejor noticiero de deportes del mundo: los videos, los conductores, los horarios, un formulario para contactarnos y mucho más.(n)</desc>
+    <category lang="es">Deporte</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220226003200 -0600" stop="20220226024200 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Batman &amp; Robin</title>
+  </programme>
+  <programme start="20220226024200 -0600" stop="20220226030600 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Super</title>
+  </programme>
+  <programme start="20220226030600 -0600" stop="20220226033100 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Super</title>
+  </programme>
+  <programme start="20220226033100 -0600" stop="20220226041800 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Rescue me</title>
+  </programme>
+  <programme start="20220226041800 -0600" stop="20220226044200 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Sara Gilbert</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2007</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220226044200 -0600" stop="20220226050500 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Sara Gilbert</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2007</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220226050500 -0600" stop="20220226060000 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Flash</title>
+  </programme>
+  <programme start="20220226060000 -0600" stop="20220226073800 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Warner Series Block</title>
+  </programme>
+  <programme start="20220226073800 -0600" stop="20220226080200 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Brooklyn nine-nine</title>
+  </programme>
+  <programme start="20220226080200 -0600" stop="20220226082700 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Brooklyn nine-nine</title>
+  </programme>
+  <programme start="20220226082700 -0600" stop="20220226085300 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Super</title>
+  </programme>
+  <programme start="20220226085300 -0600" stop="20220226091900 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Super</title>
+  </programme>
+  <programme start="20220226091900 -0600" stop="20220226094300 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Super</title>
+  </programme>
+  <programme start="20220226094300 -0600" stop="20220226100700 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Super</title>
+  </programme>
+  <programme start="20220226100700 -0600" stop="20220226103300 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Dragon Ball Super</title>
+  </programme>
+  <programme start="20220226103300 -0600" stop="20220226112100 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Wipeout</title>
+  </programme>
+  <programme start="20220226112100 -0600" stop="20220226132500 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">El Avispón Verde (2011)</title>
+    <desc lang="es">Luego de que Britt Reid heredara el legado de su padre decide que él y Kato se enfrenten al crimen con lo que le dejó su padre.(n)</desc>
+    <credits>
+      <actor>Seth Rogen</actor>
+      <actor>Cameron Diaz</actor>
+      <actor>Jay Chou</actor>
+      <producer>Neal H. Moritz</producer>
+      <composer>James Newton Howard</composer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/the_green_hornet_en_3d.jpg" />
+  </programme>
+  <programme start="20220226132500 -0600" stop="20220226150300 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Todo un parto</title>
+  </programme>
+  <programme start="20220226150300 -0600" stop="20220226165100 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Son como niños 2</title>
+  </programme>
+  <programme start="20220226165100 -0600" stop="20220226191800 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Harry Potter y el Prisionero de Azkaban</title>
+    <desc lang="es">Harry y sus amigos regresan a Hogwarts donde se ven obligados a lidiar con la verdad sobre el fugitivo Sirius Black y su relación con Harry y sus padres.(n)</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+      <actor>Robbie Coltrane</actor>
+      <actor>Michael Gambon</actor>
+      <actor>Richard Griffiths</actor>
+      <actor>Gary Oldman</actor>
+      <actor>Alan Rickman</actor>
+      <producer>David Heyman</producer>
+      <producer>Chris Columbus</producer>
+      <composer>John Williams</composer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/harry_potter_y_el_prisionero_de_azkaban.jpg" />
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220226191800 -0600" stop="20220226220000 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Harry Potter y el cáliz de fuego</title>
+  </programme>
+  <programme start="20220226220000 -0600" stop="20220227002400 -0600" channel="Canal Warner TV (Panregional)">
+    <title lang="es">Harry Potter y la Orden del Fénix</title>
+    <desc lang="es">El ministerio de magia trata de ocultar el regreso de Voldemort, mientras tanto Harry Potter y sus amigos se preparan en secreto para enfrentarlo.(n)</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Robbie Coltrane</actor>
+      <actor>Warwick Davis</actor>
+      <actor>Ralph Fiennes</actor>
+      <actor>Michael Gambon</actor>
+      <producer>David Heyman</producer>
+      <producer>David Barron</producer>
+      <composer>Nicholas Hooper</composer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/harry_potter_y_la_orden_del_fenix.jpg" />
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220226040000 +0000" stop="20220226043000 +0000" channel="EC DIRECTV Sports Ecuador">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
+  <programme start="20220226043000 +0000" stop="20220226060000 +0000" channel="EC DIRECTV Sports Ecuador">
     <title lang="en">Fútbol Total</title>
     <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
     <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/15284867/p15284867_b_v5_v1_cmd2.jpg" />
   </programme>
-  <programme start="20220224060000 +0000" stop="20220224070000 +0000" channel="EC DIRECTV Sports Ecuador">
+  <programme start="20220226060000 +0000" stop="20220226070000 +0000" channel="EC DIRECTV Sports Ecuador">
     <title lang="en">Conexión DIRECTV</title>
     <desc lang="en">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
   </programme>
-  <programme start="20220224070000 +0000" stop="20220224090000 +0000" channel="EC DIRECTV Sports Ecuador">
-    <title lang="en">Elche vs. Rayo Vallecano : Fútbol Español La Liga - Elche vs. Rayo Vallecano</title>
-    <desc lang="en">Jornada 25 de LaLiga 2021-2022. Elche recibe a Rayo Vallecano en el estadio Martínez Valero. Los franjiverdes vienen de perder luego de 2 partidos (1PG 1PE), mientras que el Rayito acumula 3 derrotas consecutivas.(n)</desc>
+  <programme start="20220226070000 +0000" stop="20220226090000 +0000" channel="EC DIRECTV Sports Ecuador">
+    <title lang="en">Osasuna vs. Atlético de Madrid : Fútbol Español La Liga - Osasuna vs. Atlético de Madrid</title>
+    <desc lang="en">Jornada 25 de LaLiga 2021-2022. Osasuna recibe a Atlético de Madrid en el estadio El Sadar. Los rojillos llevan 3 juegos sin perder (2PG 1PE), mientras que los colchoneros perdieron 4 de sus últimos 6 partidos (2PG).(n)</desc>
     <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
   </programme>
-  <programme start="20220224090000 +0000" stop="20220224110000 +0000" channel="EC DIRECTV Sports Ecuador">
-    <title lang="en">Valencia vs. Barcelona : Fútbol Español La Liga - Valencia vs. Barcelona</title>
-    <desc lang="en">Jornada 25 de LaLiga 2021-2022. Valencia recibe a Barcelona. Desde el estadio Mestalla.(n)</desc>
-    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+  <programme start="20220226090000 +0000" stop="20220226110000 +0000" channel="EC DIRECTV Sports Ecuador">
+    <title lang="en">Athletic Club vs. Valencia : Fútbol Español Copa del Rey - Athletic Club vs. Valencia</title>
+    <desc lang="en">Ida de semifinales. Athletic Club y Valencia abren la serie a doble partido desde San Mamés, en el País Vasco.(n)</desc>
   </programme>
-  <programme start="20220224110000 +0000" stop="20220224120000 +0000" channel="EC DIRECTV Sports Ecuador">
+  <programme start="20220226110000 +0000" stop="20220226120000 +0000" channel="EC DIRECTV Sports Ecuador">
     <title lang="en">Conexión DIRECTV</title>
     <desc lang="en">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
   </programme>
-  <programme start="20220224120000 +0000" stop="20220224130000 +0000" channel="EC DIRECTV Sports Ecuador">
-    <title lang="en">Real Madrid TV</title>
-    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto.(n)</desc>
+  <programme start="20220226120000 +0000" stop="20220226123000 +0000" channel="EC DIRECTV Sports Ecuador">
+    <title lang="en">LaLiga Show</title>
+    <desc lang="en">Un repaso a los partidos de LaLiga, la máxima división del fútbol español.(n)</desc>
   </programme>
-  <programme start="20220224130000 +0000" stop="20220224140000 +0000" channel="EC DIRECTV Sports Ecuador">
-    <title lang="en">De ciclismo se habla así</title>
-    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+  <programme start="20220226123000 +0000" stop="20220226130000 +0000" channel="EC DIRECTV Sports Ecuador">
+    <title lang="en">La previa de La Liga</title>
+    <desc lang="en">Análisis previo a una nueva jornada de la apasionante Liga española de fútbol.(n)</desc>
+  </programme>
+  <programme start="20220226130000 +0000" stop="20220226150000 +0000" channel="EC DIRECTV Sports Ecuador">
+    <title lang="en">Levante vs. Elche : Fútbol Español La Liga - Levante vs. Elche</title>
+    <desc lang="en">Jornada 26 de LaLiga 2021-2022. Levante recibe a Elche en el estadio Ciudad de Valencia. Los granotas llevan 2 partidos sin perder (1PG 1PE), mientras que los franjiverdes ganaron 2 de sus últimos 3 juegos (1PP).(n)</desc>
+  </programme>
+  <programme start="20220226150000 +0000" stop="20220226151000 +0000" channel="EC DIRECTV Sports Ecuador">
+    <title lang="en">La previa del partido</title>
+    <desc lang="en">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220224140000 +0000" stop="20220224143000 +0000" channel="EC DIRECTV Sports Ecuador">
-    <title lang="en">Todo en 30</title>
-    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  <programme start="20220226151000 +0000" stop="20220226171500 +0000" channel="EC DIRECTV Sports Ecuador">
+    <title lang="en">Getafe vs. Alavés : Fútbol Español La Liga - Getafe vs. Alavés</title>
+    <desc lang="en">Jornada 26 de LaLiga 2021-2022. Getafe recibe a Alavés en el estadio Coliseum Alfonso Pérez. Los azulones llevan 2 partidos sin ganar (1PE 1PP), mientras que los babazorros cayeron en 4 de sus últimos 5 encuentros (1PG).(n)</desc>
+    <premiere />
   </programme>
-  <programme start="20220224143000 +0000" stop="20220224153000 +0000" channel="EC DIRECTV Sports Ecuador">
-    <title lang="en">Debate Fútbol Ecuador</title>
-    <desc lang="en">Un programa donde se debaten los temas más importantes del fútbol ecuatoriano, de una manera ágil y profesional. Con los mejores periodistas deportivos del país.(n)</desc>
-    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/15285757/p15285757_b_v5_v3_cmd2.jpg" />
+  <programme start="20220226171500 +0000" stop="20220226172500 +0000" channel="EC DIRECTV Sports Ecuador">
+    <title lang="en">La previa del partido</title>
+    <desc lang="en">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <premiere />
   </programme>
-  <programme start="20220224153000 +0000" stop="20220224160000 +0000" channel="EC DIRECTV Sports Ecuador">
-    <title lang="en">Conexión DIRECTV Ecuador</title>
-    <desc lang="en">Seriado de reportajes investigativos que ahonda en la actualidad del deporte y su comportamiento de cara a los acontecimientos nacionales e internacionales.(n)</desc>
+  <programme start="20220226172500 +0000" stop="20220226193000 +0000" channel="EC DIRECTV Sports Ecuador">
+    <title lang="en">Rayo Vallecano vs. Real Madrid : Fútbol Español La Liga - Rayo Vallecano vs. Real Madrid</title>
+    <desc lang="en">Jornada 26 de LaLiga 2021-2022. Rayo Vallecano ante Real Madrid en el Campo de Fútbol de Vallecas. El Rayito lleva 4 derrotas consecutivas, mientras que el Merengue viene de ganar luego de 2 partidos (1PE 1PP).(n)</desc>
+    <premiere />
   </programme>
-  <programme start="20220224160000 +0000" stop="20220224163000 +0000" channel="EC DIRECTV Sports Ecuador">
-    <title lang="en">Hilos : Juan Martín Del Potro - Juan Martín Del Potro</title>
-    <desc lang="en">Programa especial sobre el perfil del tenista argentino Juan Martín Del Potro, también conocido como la Torre de Tandil. Repaso de su trayectoria deportiva en la que supo conquistar, entre otros títulos, el US Open 2009 y la Copa Davis 2016.(n)</desc>
+  <programme start="20220226193000 +0000" stop="20220226200000 +0000" channel="EC DIRECTV Sports Ecuador">
+    <title lang="en">Vamos a la Caye : Diego Martínez - Diego Martínez</title>
+    <desc lang="en">El programa de entrevistas más descontracturado y particular, con los testimonios más originales. Las principales figuras del mundo del deporte repasan su carrera, relatan las mejores anécdotas y cuentan historias, hasta entonces, inéditas.(n)</desc>
   </programme>
-  <programme start="20220224163000 +0000" stop="20220224170000 +0000" channel="EC DIRECTV Sports Ecuador">
-    <title lang="en">DIRECTV Sports Gaming</title>
-    <desc lang="en">Información, entrevistas y novedades del mundo gamer.(n)</desc>
+  <programme start="20220226200000 +0000" stop="20220226220000 +0000" channel="EC DIRECTV Sports Ecuador">
+    <title lang="en">Rayo Vallecano vs. Real Madrid : Fútbol Español La Liga - Rayo Vallecano vs. Real Madrid</title>
+    <desc lang="en">Jornada 26 de LaLiga 2021-2022. Rayo Vallecano ante Real Madrid en el Campo de Fútbol de Vallecas. El Rayito lleva 4 derrotas consecutivas, mientras que el Merengue viene de ganar luego de 2 partidos (1PE 1PP).(n)</desc>
   </programme>
-  <programme start="20220224170000 +0000" stop="20220224180000 +0000" channel="EC DIRECTV Sports Ecuador">
+  <programme start="20220226220000 +0000" stop="20220226230000 +0000" channel="EC DIRECTV Sports Ecuador">
     <title lang="en">Conexión DIRECTV</title>
     <desc lang="en">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220224180000 +0000" stop="20220224190000 +0000" channel="EC DIRECTV Sports Ecuador">
-    <title lang="en">El juego</title>
-    <desc lang="en">Fernando Petrocelli y un grupo de destacados periodistas, representantes de cada país, integran este ciclo que tiene como misión informar sobre las ligas locales y mostrar lo más destacado de todos los eventos CONMEBOL.(n)</desc>
-    <premiere />
+  <programme start="20220226230000 +0000" stop="20220226233000 +0000" channel="EC DIRECTV Sports Ecuador">
+    <title lang="en">Hilos : Luis Suárez - Luis Suárez</title>
+    <desc lang="en">Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial, mediante una narración innovadora que combinará los conceptos y aportes de las redes sociales con el formato televisivo.(n)</desc>
   </programme>
-  <programme start="20220224190000 +0000" stop="20220224210000 +0000" channel="EC DIRECTV Sports Ecuador">
-    <title lang="en">Athletico Paranaense vs. Palmeiras : Fútbol Recopa Sudamericana - Athletico Paranaense vs. Palmeiras</title>
-    <desc lang="en">Partido de ida de la Recopa Sudamericana 2022. Athletico Paranaense enfrenta a Palmeiras en el estadio Arena da Baixada, en Curitiba. El Verdão acumula 8 partidos sin perder ante el Furacão (6PG 2PE). La última derrota fue por 3-0 en 2017.(n)</desc>
+  <programme start="20220226233000 +0000" stop="20220227000000 +0000" channel="EC DIRECTV Sports Ecuador">
+    <title lang="en">The FIFA World Cup Qatar 2022 monthly magazine</title>
+    <desc lang="en">Una mirada a la cultura y tradiciones de Qatar y el desarrollo de los estadios que se preparan para albergar la Copa Mundial de la FIFA 2022. Además, el camino a la clasificación de las selecciones que buscan un lugar en la mayor cita mundial.(n)</desc>
   </programme>
-  <programme start="20220224210000 +0000" stop="20220224220000 +0000" channel="EC DIRECTV Sports Ecuador">
-    <title lang="en">Real Madrid TV</title>
-    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto.(n)</desc>
-  </programme>
-  <programme start="20220224220000 +0000" stop="20220224233000 +0000" channel="EC DIRECTV Sports Ecuador">
-    <title lang="en">Fútbol Total</title>
-    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20220224233000 +0000" stop="20220225000000 +0000" channel="EC DIRECTV Sports Ecuador">
-    <title lang="en">Todo en 30</title>
-    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
-  </programme>
-  <programme start="20220224010000 +0000" stop="20220224030000 +0000" channel="EC DIRECTV Sports 2">
-    <title lang="en">Valencia vs. Barcelona : Fútbol Español La Liga - Valencia vs. Barcelona</title>
-    <desc lang="en">Jornada 25 de LaLiga 2021-2022. Valencia recibe a Barcelona. Desde el estadio Mestalla.(n)</desc>
-    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
-  </programme>
-  <programme start="20220224030000 +0000" stop="20220224050000 +0000" channel="EC DIRECTV Sports 2">
-    <title lang="en">El chiringuito de jugones</title>
-    <desc lang="en">Programa deportivo en el que se trata toda la información y las noticias más importantes acerca de los equipos de fútbol español. Ocho tertulianos aportarán su punto de vista sobre los temas a tratar.(n)</desc>
-  </programme>
-  <programme start="20220224050000 +0000" stop="20220224053000 +0000" channel="EC DIRECTV Sports 2">
+  <programme start="20220226050000 +0000" stop="20220226053000 +0000" channel="EC DIRECTV Sports 2">
     <title lang="en">Diario NBA</title>
     <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta.(n)</desc>
   </programme>
-  <programme start="20220224053000 +0000" stop="20220224060000 +0000" channel="EC DIRECTV Sports 2">
+  <programme start="20220226053000 +0000" stop="20220226060000 +0000" channel="EC DIRECTV Sports 2">
     <title lang="en">NBA Action</title>
     <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.(n)</desc>
   </programme>
-  <programme start="20220224060000 +0000" stop="20220224090000 +0000" channel="EC DIRECTV Sports 2">
-    <title lang="en">Barca TV - LaLiga 2021-2022: Valencia vs. Barcelona</title>
-    <desc lang="en">Resumen de la Jornada 25. Valencia recibe a Barcelona en el estadio Mestalla.(n)</desc>
+  <programme start="20220226060000 +0000" stop="20220226090000 +0000" channel="EC DIRECTV Sports 2">
+    <title lang="en">Barca TV - Europa League 2021-2022: Napoli vs. Barcelona</title>
+    <desc lang="en">Toda la acción del partido de vuelta del playoff. Desde el estadio Diego Armando Maradona.(n)</desc>
   </programme>
-  <programme start="20220224090000 +0000" stop="20220224100000 +0000" channel="EC DIRECTV Sports 2">
+  <programme start="20220226090000 +0000" stop="20220226100000 +0000" channel="EC DIRECTV Sports 2">
     <title lang="en">Real Madrid TV</title>
     <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto.(n)</desc>
   </programme>
-  <programme start="20220224100000 +0000" stop="20220224103000 +0000" channel="EC DIRECTV Sports 2">
-    <title lang="en">FIBA Basketball</title>
-    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto.(n)</desc>
-  </programme>
-  <programme start="20220224103000 +0000" stop="20220224110000 +0000" channel="EC DIRECTV Sports 2">
+  <programme start="20220226100000 +0000" stop="20220226103000 +0000" channel="EC DIRECTV Sports 2">
     <title lang="en">Diario NBA</title>
     <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta.(n)</desc>
   </programme>
-  <programme start="20220224110000 +0000" stop="20220224130000 +0000" channel="EC DIRECTV Sports 2">
+  <programme start="20220226103000 +0000" stop="20220226110000 +0000" channel="EC DIRECTV Sports 2">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.(n)</desc>
+  </programme>
+  <programme start="20220226110000 +0000" stop="20220226130000 +0000" channel="EC DIRECTV Sports 2">
     <title lang="en">Ciclismo : UAE Tour, etapa 2 - UAE Tour, etapa 2</title>
     <desc lang="en">Segunda etapa. Hudayriyat Island - Abu Dhabi Breakwater (173 kilómetros).(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220224130000 +0000" stop="20220224150000 +0000" channel="EC DIRECTV Sports 2">
-    <title lang="en">El chiringuito de jugones</title>
-  </programme>
-  <programme start="20220224150000 +0000" stop="20220224153000 +0000" channel="EC DIRECTV Sports 2">
-    <title lang="en">FIBA Basketball</title>
-    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto.(n)</desc>
-  </programme>
-  <programme start="20220224153000 +0000" stop="20220224160000 +0000" channel="EC DIRECTV Sports 2">
+  <programme start="20220226130000 +0000" stop="20220226133000 +0000" channel="EC DIRECTV Sports 2">
     <title lang="en">Diario NBA</title>
     <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta.(n)</desc>
   </programme>
-  <programme start="20220224160000 +0000" stop="20220224180000 +0000" channel="EC DIRECTV Sports 2">
-    <title lang="en">Athletico Paranaense vs. Palmeiras : Fútbol Recopa Sudamericana - Athletico Paranaense vs. Palmeiras</title>
-    <desc lang="en">Partido de ida de la Recopa Sudamericana 2022. Athletico Paranaense enfrenta a Palmeiras en el estadio Arena da Baixada, en Curitiba. El Verdão acumula 8 partidos sin perder ante el Furacão (6PG 2PE). La última derrota fue por 3-0 en 2017.(n)</desc>
-  </programme>
-  <programme start="20220224180000 +0000" stop="20220224183000 +0000" channel="EC DIRECTV Sports 2">
-    <title lang="en">Hilos : Magic Johnson - Magic Johnson</title>
-    <desc lang="en">Jugador de Los Angeles Lakers desde 1979 a 1991, Magic Johnson es una leyenda de la NBA. Ganador de cinco anillos de oro, y considerado el mejor base de la historia, el oriundo de Michigan debió alejarse de las canchas por una dura enfermedad.(n)</desc>
-  </programme>
-  <programme start="20220224183000 +0000" stop="20220224190000 +0000" channel="EC DIRECTV Sports 2">
-    <title lang="en">FIBA Basketball</title>
-    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto.(n)</desc>
-  </programme>
-  <programme start="20220224190000 +0000" stop="20220224193000 +0000" channel="EC DIRECTV Sports 2">
-    <title lang="en">Diario NBA</title>
-    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta.(n)</desc>
-  </programme>
-  <programme start="20220224193000 +0000" stop="20220224213000 +0000" channel="EC DIRECTV Sports 2">
-    <title lang="en">Olympiacos vs. Olimpia Milano : Baloncesto Euroliga - Olympiacos vs. Olimpia Milano</title>
-    <desc lang="en">Jornada 27 de la Euroliga. Olympiacos enfrenta a AX Armani Exchange Olimpia Milano en el Estadio de la Paz y la Amistad.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20220224213000 +0000" stop="20220224220000 +0000" channel="EC DIRECTV Sports 2">
-    <title lang="en">FIBA Basketball</title>
-    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto.(n)</desc>
-  </programme>
-  <programme start="20220224220000 +0000" stop="20220224223000 +0000" channel="EC DIRECTV Sports 2">
-    <title lang="en">Diario NBA</title>
-    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta.(n)</desc>
-  </programme>
-  <programme start="20220224223000 +0000" stop="20220224230000 +0000" channel="EC DIRECTV Sports 2">
+  <programme start="20220226133000 +0000" stop="20220226140000 +0000" channel="EC DIRECTV Sports 2">
     <title lang="en">NBA Action</title>
     <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.(n)</desc>
   </programme>
-  <programme start="20220224230000 +0000" stop="20220224233000 +0000" channel="EC DIRECTV Sports 2">
+  <programme start="20220226140000 +0000" stop="20220226160000 +0000" channel="EC DIRECTV Sports 2">
+    <title lang="en">Chile vs. Colombia : FIBA Eliminatorias Copa Mundial 2023 - Chile vs. Colombia</title>
+    <desc lang="en">Jornada 1 del Grupo B, clasificatorio para la Copa del Mundo. Chile enfrenta a Colombia. Desde el coliseo Antonio Azurmendi.(n)</desc>
+  </programme>
+  <programme start="20220226160000 +0000" stop="20220226163000 +0000" channel="EC DIRECTV Sports 2">
     <title lang="en">FIBA Basketball</title>
     <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto.(n)</desc>
   </programme>
-  <programme start="20220224233000 +0000" stop="20220224235000 +0000" channel="EC DIRECTV Sports 2">
-    <title lang="en">Diario NBA</title>
-    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta.(n)</desc>
+  <programme start="20220226163000 +0000" stop="20220226183000 +0000" channel="EC DIRECTV Sports 2">
+    <title lang="en">Argentina vs. Venezuela : FIBA Eliminatorias Copa Mundial 2023 - Argentina vs. Venezuela</title>
+    <desc lang="en">Jornada 3 del Grupo A. Argentina recibe a Venezuela en el estadio Obras Sanitarias. Ambos conjuntos vienen de ganar sus anteriores 2 partidos.(n)</desc>
   </programme>
-  <programme start="20220224235000 +0000" stop="20220225020000 +0000" channel="EC DIRECTV Sports 2">
-    <title lang="en">Estados Unidos vs. Puerto Rico : FIBA Eliminatorias Copa Mundial 2023 - Estados Unidos vs. Puerto Rico</title>
-    <desc lang="en">Partido clasificatorio para la Copa del Mundo. Estados Unidos enfrenta a Puerto Rico. Desde Entertainment &amp; Sports Arena.(n)</desc>
+  <programme start="20220226183000 +0000" stop="20220226203000 +0000" channel="EC DIRECTV Sports 2">
+    <title lang="en">Brasil vs. Uruguay : FIBA Eliminatorias Copa Mundial 2023 - Brasil vs. Uruguay</title>
+    <desc lang="en">Acción del Grupo B. Brasil enfrenta a Uruguay en el Polideportivo Pedro Morilla Fuentes.(n)</desc>
+  </programme>
+  <programme start="20220226203000 +0000" stop="20220226210000 +0000" channel="EC DIRECTV Sports 2">
+    <title lang="en">FIBA Basketball</title>
+    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto.(n)</desc>
+  </programme>
+  <programme start="20220226210000 +0000" stop="20220226230000 +0000" channel="EC DIRECTV Sports 2">
+    <title lang="en">Paraguay vs. Venezuela : FIBA Eliminatorias Copa Mundial 2023 - Paraguay vs. Venezuela</title>
+    <desc lang="en">Jornada 4 del Grupo A. Paraguay enfrenta a Venezuela. Desde el estadio Obras Sanitarias, en Buenos Aires.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220224023000 +0000" stop="20220224030000 +0000" channel="EC DIRECTV Sports Plus">
-    <title lang="en">LaLiga Chronicles</title>
-    <desc lang="en">Las acciones y momentos más destacados de los partidos de fútbol de La Liga en España.(n)</desc>
+  <programme start="20220226230000 +0000" stop="20220226233000 +0000" channel="EC DIRECTV Sports 2">
+    <title lang="en">FIBA Basketball</title>
+    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto.(n)</desc>
   </programme>
-  <programme start="20220224030000 +0000" stop="20220224050000 +0000" channel="EC DIRECTV Sports Plus">
-    <title lang="en">Athletico Paranaense vs. Palmeiras : Fútbol Recopa Sudamericana - Athletico Paranaense vs. Palmeiras</title>
-    <desc lang="en">Partido de ida de la Recopa Sudamericana 2022. Athletico Paranaense enfrenta a Palmeiras en el estadio Arena da Baixada, en Curitiba. El Verdão acumula 8 partidos sin perder ante el Furacão (6PG 2PE). La última derrota fue por 3-0 en 2017.(n)</desc>
+  <programme start="20220226233000 +0000" stop="20220227000000 +0000" channel="EC DIRECTV Sports 2">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.(n)</desc>
   </programme>
-  <programme start="20220224050000 +0000" stop="20220224053000 +0000" channel="EC DIRECTV Sports Plus">
-    <title lang="en">LaLiga Fans</title>
-    <desc lang="en">Un programa dedicado a los aficionados muy especiales que siguen a los equipos que compiten en LaLiga.(n)</desc>
+  <programme start="20220226050000 +0000" stop="20220226053000 +0000" channel="EC DIRECTV Sports Plus">
+    <title lang="en">La previa de La Liga</title>
+    <desc lang="en">Análisis previo a una nueva jornada de la apasionante Liga española de fútbol.(n)</desc>
   </programme>
-  <programme start="20220224053000 +0000" stop="20220224060000 +0000" channel="EC DIRECTV Sports Plus">
-    <title lang="en">LaLiga Chronicles</title>
-    <desc lang="en">Las acciones y momentos más destacados de los partidos de fútbol de La Liga en España.(n)</desc>
+  <programme start="20220226053000 +0000" stop="20220226060000 +0000" channel="EC DIRECTV Sports Plus">
+    <title lang="en">LaLiga Show</title>
+    <desc lang="en">Un repaso a los partidos de LaLiga, la máxima división del fútbol español.(n)</desc>
   </programme>
-  <programme start="20220224060000 +0000" stop="20220224070000 +0000" channel="EC DIRECTV Sports Plus">
-    <title lang="en">LaLiga Talking Football - Real Sociedad</title>
-    <desc lang="en">Entrevistas con personalidades destacadas de LaLiga.(n)</desc>
-  </programme>
-  <programme start="20220224070000 +0000" stop="20220224090000 +0000" channel="EC DIRECTV Sports Plus">
-    <title lang="en">Cartagena vs. Valladolid : Fútbol Español Segunda División - Cartagena vs. Valladolid</title>
-    <desc lang="en">Jornada 28 en la Segunda División. Cartagena recibe a Valladolid en el estadio municipal Cartagonova. Los castellanos, cuartos con 49 puntos, visitan al conjunto murciano, octavo con 39 puntos.(n)</desc>
-  </programme>
-  <programme start="20220224090000 +0000" stop="20220224110000 +0000" channel="EC DIRECTV Sports Plus">
-    <title lang="en">Burgos vs. Real Oviedo : Fútbol Español Segunda División - Burgos vs. Real Oviedo</title>
-    <desc lang="en">Jornada 28 en la Segunda División. Burgos recibe a Oviedo en el estadio municipal El Plantío. Los asturianos, undécimos con 38 puntos, visitan al equipo castellano, noveno con 38 puntos.(n)</desc>
-  </programme>
-  <programme start="20220224110000 +0000" stop="20220224150000 +0000" channel="EC DIRECTV Sports Plus">
+  <programme start="20220226060000 +0000" stop="20220226070000 +0000" channel="EC DIRECTV Sports Plus">
     <title lang="en">Real Madrid TV</title>
     <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto.(n)</desc>
   </programme>
-  <programme start="20220224150000 +0000" stop="20220224170000 +0000" channel="EC DIRECTV Sports Plus">
-    <title lang="en">Elche vs. Rayo Vallecano : Fútbol Español La Liga - Elche vs. Rayo Vallecano</title>
-    <desc lang="en">Jornada 25 de LaLiga 2021-2022. Elche recibe a Rayo Vallecano en el estadio Martínez Valero. Los franjiverdes vienen de perder luego de 2 partidos (1PG 1PE), mientras que el Rayito acumula 3 derrotas consecutivas.(n)</desc>
-    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+  <programme start="20220226070000 +0000" stop="20220226090000 +0000" channel="EC DIRECTV Sports Plus">
+    <title lang="en">Almería vs. Mirandés : Fútbol Español Segunda División - Almería vs. Mirandés</title>
+    <desc lang="en">Jornada 28 en la Segunda División. Almería recibe a Mirandés en el Estadio de los Juegos Mediterráneos. Los castellanos, decimoséptimos con 30 puntos, visitan el difícil estadio de los andaluces, segundos con 52 puntos.(n)</desc>
   </programme>
-  <programme start="20220224170000 +0000" stop="20220224173000 +0000" channel="EC DIRECTV Sports Plus">
-    <title lang="en">La Liga World</title>
-    <desc lang="en">Magazine con entrevistas exclusivas con los mejores jugadores de la división y las antiguas leyendas de LaLiga.(n)</desc>
-  </programme>
-  <programme start="20220224173000 +0000" stop="20220224180000 +0000" channel="EC DIRECTV Sports Plus">
-    <title lang="en">LaLiga Chronicles</title>
-    <desc lang="en">Las acciones y momentos más destacados de los partidos de fútbol de La Liga en España.(n)</desc>
-  </programme>
-  <programme start="20220224180000 +0000" stop="20220224183000 +0000" channel="EC DIRECTV Sports Plus">
-    <title lang="en">DIRECTV Sports Gaming</title>
-    <desc lang="en">Diego Korol junto a Kevo, Dalcru y Carolo. Te traen la mejor información, entrevistas y todas las novedades del mundo gamer.(n)</desc>
-  </programme>
-  <programme start="20220224183000 +0000" stop="20220224193000 +0000" channel="EC DIRECTV Sports Plus">
-    <title lang="en">Conexión DIRECTV</title>
-    <desc lang="en">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
-  </programme>
-  <programme start="20220224193000 +0000" stop="20220224203000 +0000" channel="EC DIRECTV Sports Plus">
-    <title lang="en">El juego</title>
-    <desc lang="en">Fernando Petrocelli y un grupo de destacados periodistas, representantes de cada país, integran este ciclo que tiene como misión informar sobre las ligas locales y mostrar lo más destacado de todos los eventos CONMEBOL.(n)</desc>
-  </programme>
-  <programme start="20220224203000 +0000" stop="20220224213000 +0000" channel="EC DIRECTV Sports Plus">
-    <title lang="en">LaLiga Talking Football - Real Sociedad</title>
-    <desc lang="en">Entrevistas con personalidades destacadas de LaLiga.(n)</desc>
-  </programme>
-  <programme start="20220224213000 +0000" stop="20220224233000 +0000" channel="EC DIRECTV Sports Plus">
+  <programme start="20220226090000 +0000" stop="20220226110000 +0000" channel="EC DIRECTV Sports Plus">
     <title lang="en">Athletico Paranaense vs. Palmeiras : Fútbol Recopa Sudamericana - Athletico Paranaense vs. Palmeiras</title>
     <desc lang="en">Partido de ida de la Recopa Sudamericana 2022. Athletico Paranaense enfrenta a Palmeiras en el estadio Arena da Baixada, en Curitiba. El Verdão acumula 8 partidos sin perder ante el Furacão (6PG 2PE). La última derrota fue por 3-0 en 2017.(n)</desc>
   </programme>
-  <programme start="20220224233000 +0000" stop="20220225003000 +0000" channel="EC DIRECTV Sports Plus">
-    <title lang="en">Lo mejor de La Liga</title>
-    <desc lang="en">Cobertura de La Liga de España, con comentarios, las mejores jugadas, goles, puntuaciones e información de los próximos partidos.(n)</desc>
+  <programme start="20220226110000 +0000" stop="20220226113000 +0000" channel="EC DIRECTV Sports Plus">
+    <title lang="en">LaLiga Fans</title>
+    <desc lang="en">Un programa dedicado a los aficionados muy especiales que siguen a los equipos que compiten en LaLiga.(n)</desc>
   </programme>
-  <programme start="20220224210000 +0000" stop="20220224222000 +0000" channel="Win Sports +">
-    <title lang="en">Saque Largo</title>
-    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6212df68e75bd7083999df63/schedule-image/saque-largo-s.png" />
+  <programme start="20220226113000 +0000" stop="20220226133000 +0000" channel="EC DIRECTV Sports Plus">
+    <title lang="en">Rayo Vallecano vs. Betis : Fútbol Español Copa del Rey - Rayo Vallecano vs. Betis</title>
+    <desc lang="en">Acción de la ida de semifinales. Rayo Vallecano y Betis abren la serie a doble partido desde Vallecas, en Madrid.(n)</desc>
   </programme>
-  <programme start="20220224222000 +0000" stop="20220225004500 +0000" channel="Win Sports +">
-    <title lang="en">Copa BetPlay - Bogotá vs. Quindío</title>
+  <programme start="20220226133000 +0000" stop="20220226140000 +0000" channel="EC DIRECTV Sports Plus">
+    <title lang="en">LaLiga Nations</title>
+    <desc lang="en">La importancia y el valor de diferentes nacionalidades que han sido relevantes en la historia de LaLiga: Argentina, Reino Unido o Brasil son algunos ejemplos repasados en este programa.(n)</desc>
+  </programme>
+  <programme start="20220226140000 +0000" stop="20220226145500 +0000" channel="EC DIRECTV Sports Plus">
+    <title lang="en">Real Madrid TV</title>
+    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto.(n)</desc>
+  </programme>
+  <programme start="20220226145500 +0000" stop="20220226170000 +0000" channel="EC DIRECTV Sports Plus">
+    <title lang="en">Mirandés vs. Tenerife : Fútbol Español Segunda División - Mirandés vs. Tenerife</title>
+    <desc lang="en">Jornada 29 en la Segunda División. Mirandés recibe a Tenerife en el estadio municipal de Anduva. Los canarios, terceros con 52 puntos, visitan a los castellanos, decimoctavos con 30 puntos y que suman 3 derrotas consecutivas.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20220226170000 +0000" stop="20220226191500 +0000" channel="EC DIRECTV Sports Plus">
+    <title lang="en">Real Oviedo vs. Real Sociedad B : Fútbol Español Segunda División - Real Oviedo vs. Real Sociedad B</title>
+    <desc lang="en">Jornada 29 en la Segunda División. Oviedo recibe a Real Sociedad B en el estadio Carlos Tartiere. Los vascos, penúltimos con 23 puntos, visitan a los asturianos, séptimos con 41 puntos.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20220226191500 +0000" stop="20220226193000 +0000" channel="EC DIRECTV Sports Plus">
+    <title lang="en">Hilos : Jonah Lomu - Jonah Lomu</title>
+    <desc lang="en">Bajó el concepto Vértigo, nos ocupamos de un personaje que definió al rugby moderno. Refugio es el aspecto en el que se combina su familia con el deporte que lo sacó de las calles. Fenómeno es la palabra que define su aparición en el rugby mundial.(n)</desc>
+  </programme>
+  <programme start="20220226193000 +0000" stop="20220226195500 +0000" channel="EC DIRECTV Sports Plus">
+    <title lang="en">LaLiga Fans</title>
+    <desc lang="en">Un programa dedicado a los aficionados muy especiales que siguen a los equipos que compiten en LaLiga.(n)</desc>
+  </programme>
+  <programme start="20220226195500 +0000" stop="20220226220000 +0000" channel="EC DIRECTV Sports Plus">
+    <title lang="en">Las Palmas vs. Lugo : Fútbol Español Segunda División - Las Palmas vs. Lugo</title>
+    <desc lang="en">Jornada 29 en la Segunda División. Las Palmas recibe a Lugo en el estadio Gran Canaria. Los gallegos, decimoterceros con 36 puntos, viajan a las islas para enfrentar a los canarios, octavos con 39 puntos.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20220226220000 +0000" stop="20220226223000 +0000" channel="EC DIRECTV Sports Plus">
+    <title lang="en">LaLiga Nations</title>
+    <desc lang="en">La importancia y el valor de diferentes nacionalidades que han sido relevantes en la historia de LaLiga: Argentina, Reino Unido o Brasil son algunos ejemplos repasados en este programa.(n)</desc>
+  </programme>
+  <programme start="20220226223000 +0000" stop="20220227003000 +0000" channel="EC DIRECTV Sports Plus">
+    <title lang="en">Rayo Vallecano vs. Real Madrid : Fútbol Español La Liga - Rayo Vallecano vs. Real Madrid</title>
+    <desc lang="en">Jornada 26 de LaLiga 2021-2022. Rayo Vallecano ante Real Madrid en el Campo de Fútbol de Vallecas. El Rayito lleva 4 derrotas consecutivas, mientras que el Merengue viene de ganar luego de 2 partidos (1PE 1PP).(n)</desc>
+  </programme>
+  <programme start="20220226143000 +0000" stop="20220226163000 +0000" channel="Win Sports +">
+    <title lang="en">Huila vs. Santa Fe</title>
     <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20220224213000 +0000" stop="20220224233000 +0000" channel="Showtime Familyzone West">
-    <title lang="en">The Real Charlie Chaplin</title>
+  <programme start="20220226163000 +0000" stop="20220226173000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/62152993a4dd74459b6f2ac4/schedule-image/win-noticias-s.png" />
   </programme>
-  <programme start="20220224233000 +0000" stop="20220225010000 +0000" channel="Showtime Familyzone West">
-    <title lang="en">Spy Kids (MIRAMAX)</title>
+  <programme start="20220226173000 +0000" stop="20220226183000 +0000" channel="Win Sports +">
+    <title lang="en">Línea de 4</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20220224200900 +0000" stop="20220224215500 +0000" channel="Starz HD East (Dolby Available)">
-    <title lang="en">Monster Hunter</title>
+  <programme start="20220226183000 +0000" stop="20220226210500 +0000" channel="Win Sports +">
+    <title lang="en">Envigado vs. Jaguares</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20220224215500 +0000" stop="20220224234700 +0000" channel="Starz HD East (Dolby Available)">
-    <title lang="en">The Broken Hearts Gallery</title>
+  <programme start="20220226210500 +0000" stop="20220226231000 +0000" channel="Win Sports +">
+    <title lang="en">Pereira vs. La Equidad</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20220224234700 +0000" stop="20220225020000 +0000" channel="Starz HD East (Dolby Available)">
-    <title lang="en">Tomorrowland</title>
+  <programme start="20220226231000 +0000" stop="20220227011500 +0000" channel="Win Sports +">
+    <title lang="en">Tolima vs. Junior</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
-  <programme start="20220224205600 +0000" stop="20220224215800 +0000" channel="Starz Edge HD East">
-    <title lang="en">Outlander</title>
-    <sub-title lang="en">If Not For Hope</sub-title>
+  <programme start="20220226153000 +0000" stop="20220226171500 +0000" channel="Showtime Familyzone West">
+    <title lang="en">Spy Kids 2</title>
   </programme>
-  <programme start="20220224215800 +0000" stop="20220224225600 +0000" channel="Starz Edge HD East">
-    <title lang="en">Outlander</title>
-    <sub-title lang="en">Providence</sub-title>
+  <programme start="20220226171500 +0000" stop="20220226184000 +0000" channel="Showtime Familyzone West">
+    <title lang="en">Spy Kids 3</title>
+    <sub-title lang="en">Game Over</sub-title>
   </programme>
-  <programme start="20220224225600 +0000" stop="20220224235800 +0000" channel="Starz Edge HD East">
-    <title lang="en">Outlander</title>
-    <sub-title lang="en">Man Of Worth</sub-title>
+  <programme start="20220226184000 +0000" stop="20220226204500 +0000" channel="Showtime Familyzone West">
+    <title lang="en">First Cow</title>
   </programme>
-  <programme start="20220224235800 +0000" stop="20220225005300 +0000" channel="Starz Edge HD East">
+  <programme start="20220226204500 +0000" stop="20220226223000 +0000" channel="Showtime Familyzone West">
+    <title lang="en">The Current War</title>
+    <sub-title lang="en">Director's Cut</sub-title>
+  </programme>
+  <programme start="20220226223000 +0000" stop="20220227003000 +0000" channel="Showtime Familyzone West">
+    <title lang="en">Last Holiday</title>
+  </programme>
+  <programme start="20220226152400 +0000" stop="20220226174600 +0000" channel="Starz HD East (Dolby Available)">
+    <title lang="en">American Hustle</title>
+  </programme>
+  <programme start="20220226174600 +0000" stop="20220226184200 +0000" channel="Starz HD East (Dolby Available)">
     <title lang="en">Power Book IV</title>
     <sub-title lang="en">Firestarter</sub-title>
   </programme>
-  <programme start="20220224200500 +0000" stop="20220224214500 +0000" channel="Starz Kids &amp; Family HD East">
-    <title lang="en">A Cowgirl's Story</title>
+  <programme start="20220226184200 +0000" stop="20220226202700 +0000" channel="Starz HD East (Dolby Available)">
+    <title lang="en">Subjects of Desire</title>
   </programme>
-  <programme start="20220224214500 +0000" stop="20220224231400 +0000" channel="Starz Kids &amp; Family HD East">
-    <title lang="en">Leave It to Beaver</title>
+  <programme start="20220226202700 +0000" stop="20220226221200 +0000" channel="Starz HD East (Dolby Available)">
+    <title lang="en">Can't Hardly Wait</title>
   </programme>
-  <programme start="20220224231400 +0000" stop="20220225010000 +0000" channel="Starz Kids &amp; Family HD East">
-    <title lang="en">Kidco</title>
+  <programme start="20220226221200 +0000" stop="20220227000300 +0000" channel="Starz HD East (Dolby Available)">
+    <title lang="en">This Is the End</title>
   </programme>
-  <programme start="20220224205300 +0000" stop="20220224224500 +0000" channel="Starz inBlack HD East">
-    <title lang="en">Battle Of The Year</title>
+  <programme start="20220226153200 +0000" stop="20220226174800 +0000" channel="Starz Edge HD East">
+    <title lang="en">Captain Phillips</title>
   </programme>
-  <programme start="20220224224500 +0000" stop="20220225002300 +0000" channel="Starz inBlack HD East">
-    <title lang="en">Behind Enemy Lines II</title>
-    <sub-title lang="en">Axis of Evil</sub-title>
+  <programme start="20220226174800 +0000" stop="20220226194200 +0000" channel="Starz Edge HD East">
+    <title lang="en">Roll Bounce</title>
   </programme>
-  <programme start="20220224195200 +0000" stop="20220224220100 +0000" channel="Starz Cinema HD East">
-    <title lang="en">State of Play</title>
+  <programme start="20220226194200 +0000" stop="20220226212300 +0000" channel="Starz Edge HD East">
+    <title lang="en">Rv</title>
   </programme>
-  <programme start="20220224220100 +0000" stop="20220224234700 +0000" channel="Starz Cinema HD East">
-    <title lang="en">Lost Transmissions</title>
+  <programme start="20220226212300 +0000" stop="20220226230400 +0000" channel="Starz Edge HD East">
+    <title lang="en">Emperor</title>
   </programme>
-  <programme start="20220224234700 +0000" stop="20220225012600 +0000" channel="Starz Cinema HD East">
-    <title lang="en">Austenland</title>
+  <programme start="20220226230400 +0000" stop="20220226235900 +0000" channel="Starz Edge HD East">
+    <title lang="en">Power Book IV</title>
+    <sub-title lang="en">Firestarter</sub-title>
   </programme>
-  <programme start="20220224211500 +0000" stop="20220224225800 +0000" channel="Starz Comedy HD East">
-    <title lang="en">Grown Ups 2</title>
+  <programme start="20220226235900 +0000" stop="20220227020000 +0000" channel="Starz Edge HD East">
+    <title lang="en">King's Speech, The</title>
   </programme>
-  <programme start="20220224225800 +0000" stop="20220225010000 +0000" channel="Starz Comedy HD East">
-    <title lang="en">There's Something About Mary</title>
+  <programme start="20220226150400 +0000" stop="20220226164600 +0000" channel="Starz Kids &amp; Family HD East">
+    <title lang="en">Sidekicks</title>
   </programme>
-  <programme start="20220224192700 +0000" stop="20220224221400 +0000" channel="Encore HD East">
-    <title lang="en">Munich</title>
+  <programme start="20220226164600 +0000" stop="20220226182800 +0000" channel="Starz Kids &amp; Family HD East">
+    <title lang="en">Strike</title>
   </programme>
-  <programme start="20220224221400 +0000" stop="20220225001200 +0000" channel="Encore HD East">
-    <title lang="en">Red Dawn</title>
+  <programme start="20220226182800 +0000" stop="20220226200700 +0000" channel="Starz Kids &amp; Family HD East">
+    <title lang="en">Matilda</title>
   </programme>
-  <programme start="20220224210200 +0000" stop="20220224230700 +0000" channel="Encore Action HD East">
-    <title lang="en">Bravo Two Zero</title>
+  <programme start="20220226200700 +0000" stop="20220226214400 +0000" channel="Starz Kids &amp; Family HD East">
+    <title lang="en">City of Ember</title>
   </programme>
-  <programme start="20220224230700 +0000" stop="20220225010000 +0000" channel="Encore Action HD East">
-    <title lang="en">Act of Valor</title>
+  <programme start="20220226214400 +0000" stop="20220226222600 +0000" channel="Starz Kids &amp; Family HD East">
+    <title lang="en">Born to Be Wild</title>
   </programme>
-  <programme start="20220224004000 +0100" stop="20220224015500 +0100" channel="L'Equipe">
+  <programme start="20220226222600 +0000" stop="20220226234300 +0000" channel="Starz Kids &amp; Family HD East">
+    <title lang="en">Kangaroo Jack</title>
+  </programme>
+  <programme start="20220226234300 +0000" stop="20220227010000 +0000" channel="Starz Kids &amp; Family HD East">
+    <title lang="en">Stuart Little 3</title>
+    <sub-title lang="en">Call of the Wild</sub-title>
+  </programme>
+  <programme start="20220226151800 +0000" stop="20220226170000 +0000" channel="Starz inBlack HD East">
+    <title lang="en">Redbelt</title>
+  </programme>
+  <programme start="20220226170000 +0000" stop="20220226180500 +0000" channel="Starz inBlack HD East">
+    <title lang="en">Power Book II</title>
+    <sub-title lang="en">Free Will Is Never Free</sub-title>
+  </programme>
+  <programme start="20220226180500 +0000" stop="20220226190700 +0000" channel="Starz inBlack HD East">
+    <title lang="en">Power Book II</title>
+    <sub-title lang="en">Selfless Acts?</sub-title>
+  </programme>
+  <programme start="20220226190700 +0000" stop="20220226200900 +0000" channel="Starz inBlack HD East">
+    <title lang="en">Power Book II</title>
+    <sub-title lang="en">The Greater Good</sub-title>
+  </programme>
+  <programme start="20220226200900 +0000" stop="20220226211000 +0000" channel="Starz inBlack HD East">
+    <title lang="en">Power Book II</title>
+    <sub-title lang="en">Gettin' These Ends</sub-title>
+  </programme>
+  <programme start="20220226211000 +0000" stop="20220226221200 +0000" channel="Starz inBlack HD East">
+    <title lang="en">Power Book II</title>
+    <sub-title lang="en">Coming Home to Roost</sub-title>
+  </programme>
+  <programme start="20220226221200 +0000" stop="20220226231300 +0000" channel="Starz inBlack HD East">
+    <title lang="en">Power Book II</title>
+    <sub-title lang="en">What's Free?</sub-title>
+  </programme>
+  <programme start="20220226231300 +0000" stop="20220227001500 +0000" channel="Starz inBlack HD East">
+    <title lang="en">Power Book II</title>
+    <sub-title lang="en">Forced My Hand</sub-title>
+  </programme>
+  <programme start="20220226154300 +0000" stop="20220226175800 +0000" channel="Starz Cinema HD East">
+    <title lang="en">Legends Of The Fall</title>
+  </programme>
+  <programme start="20220226175800 +0000" stop="20220226200600 +0000" channel="Starz Cinema HD East">
+    <title lang="en">Silent Hill</title>
+  </programme>
+  <programme start="20220226200600 +0000" stop="20220226220100 +0000" channel="Starz Cinema HD East">
+    <title lang="en">City of Lies</title>
+  </programme>
+  <programme start="20220226220100 +0000" stop="20220226234100 +0000" channel="Starz Cinema HD East">
+    <title lang="en">The Devil Has a Name</title>
+  </programme>
+  <programme start="20220226234100 +0000" stop="20220227011600 +0000" channel="Starz Cinema HD East">
+    <title lang="en">Thank You For Smoking</title>
+  </programme>
+  <programme start="20220226161400 +0000" stop="20220226175500 +0000" channel="Starz Comedy HD East">
+    <title lang="en">Revenge Of the Pink Panther</title>
+  </programme>
+  <programme start="20220226175500 +0000" stop="20220226193400 +0000" channel="Starz Comedy HD East">
+    <title lang="en">Trail of the Pink Panther</title>
+  </programme>
+  <programme start="20220226193400 +0000" stop="20220226212700 +0000" channel="Starz Comedy HD East">
+    <title lang="en">Curse Of The Pink Panther</title>
+  </programme>
+  <programme start="20220226212700 +0000" stop="20220226230200 +0000" channel="Starz Comedy HD East">
+    <title lang="en">Son Of The Pink Panther</title>
+  </programme>
+  <programme start="20220226230200 +0000" stop="20220227010000 +0000" channel="Starz Comedy HD East">
+    <title lang="en">The Pink Panther (1963)</title>
+  </programme>
+  <programme start="20220226151100 +0000" stop="20220226172900 +0000" channel="Encore HD East">
+    <title lang="en">Tin Cup</title>
+  </programme>
+  <programme start="20220226172900 +0000" stop="20220226192800 +0000" channel="Encore HD East">
+    <title lang="en">Demolition Man</title>
+  </programme>
+  <programme start="20220226192800 +0000" stop="20220226214600 +0000" channel="Encore HD East">
+    <title lang="en">Urban Cowboy</title>
+  </programme>
+  <programme start="20220226214600 +0000" stop="20220226234200 +0000" channel="Encore HD East">
+    <title lang="en">Beautiful Girls</title>
+  </programme>
+  <programme start="20220226234200 +0000" stop="20220227020000 +0000" channel="Encore HD East">
+    <title lang="en">Tin Cup</title>
+  </programme>
+  <programme start="20220226151700 +0000" stop="20220226174400 +0000" channel="Encore Action HD East">
+    <title lang="en">Southland Tales</title>
+  </programme>
+  <programme start="20220226174400 +0000" stop="20220226213500 +0000" channel="Encore Action HD East">
+    <title lang="en">Once Upon a Time in America</title>
+  </programme>
+  <programme start="20220226213500 +0000" stop="20220226232200 +0000" channel="Encore Action HD East">
+    <title lang="en">Jeepers Creepers 2</title>
+  </programme>
+  <programme start="20220226232200 +0000" stop="20220227010000 +0000" channel="Encore Action HD East">
+    <title lang="en">Night of the Living Dead HD</title>
+  </programme>
+  <programme start="20220226044500 +0100" stop="20220226055000 +0100" channel="L Equipe">
     <title lang="fr">L'Equipe du soir</title>
-    <category lang="fr">Sport</category>
+    <desc lang="fr">Un talk sportif qui pose les questions, provoque les duels et distribue les cartons. Chaque jour, les journalistes, chroniqueurs et invités sur le plateau de la chaîne sportive, revisitent l'actualité de tous les sports. Au menu, des débats souvent passionnés et des points de vue sans concession sur celles et ceux qui font le sport en France et à l'étranger.(n)</desc>
     <category lang="fr">Multisports</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fcf-images.2Eeu-west-1.2Eprod.2Eboltdns.2Enet.2Fv1.2Fstatic.2F800000640001.2Fd1c8854d-2770-4f1a-a3e4-660ac140ffe8.2F0731c26e-b494-418d-9828-c95e42c0fa96.2F480x262.2Fmatch.2Fimage.2Ejpg/640x360/crop-from/top/quality/80/201-09-25-sanctuary-s4.jpg" />
+    <icon src="https://resize.programme-television.ladmedia.fr/img/var/imports/agtv/2/4/4/1194731442_169.jpg" />
+    <country lang="fr">France</country>
   </programme>
-  <programme start="20220224015500 +0100" stop="20220224023000 +0100" channel="L'Equipe">
+  <programme start="20220226055000 +0100" stop="20220226070000 +0100" channel="L Equipe">
     <title lang="fr">L'Equipe du soir</title>
-    <sub-title lang="fr">La prolongation</sub-title>
-    <category lang="fr">Sport</category>
+    <desc lang="fr">Un talk sportif qui pose les questions, provoque les duels et distribue les cartons. Chaque jour, les journalistes, chroniqueurs et invités sur le plateau de la chaîne sportive, revisitent l'actualité de tous les sports. Au menu, des débats souvent passionnés et des points de vue sans concession sur celles et ceux qui font le sport en France et à l'étranger.(n)</desc>
     <category lang="fr">Multisports</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fcf-images.2Eeu-west-1.2Eprod.2Eboltdns.2Enet.2Fv1.2Fstatic.2F800000640001.2Fd1c8854d-2770-4f1a-a3e4-660ac140ffe8.2F0731c26e-b494-418d-9828-c95e42c0fa96.2F480x262.2Fmatch.2Fimage.2Ejpg/640x360/crop-from/top/quality/80/201-09-25-sanctuary-s4.jpg" />
+    <icon src="https://resize.programme-television.ladmedia.fr/img/var/imports/agtv/3/4/4/1194731443_169.jpg" />
+    <country lang="fr">France</country>
   </programme>
-  <programme start="20220224023000 +0100" stop="20220224034000 +0100" channel="L'Equipe">
-    <title lang="fr">L'Equipe du soir</title>
-    <category lang="fr">Sport</category>
-    <category lang="fr">Multisports</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fcf-images.2Eeu-west-1.2Eprod.2Eboltdns.2Enet.2Fv1.2Fstatic.2F800000640001.2Fd1c8854d-2770-4f1a-a3e4-660ac140ffe8.2F0731c26e-b494-418d-9828-c95e42c0fa96.2F480x262.2Fmatch.2Fimage.2Ejpg/640x360/crop-from/top/quality/80/201-09-25-sanctuary-s4.jpg" />
-  </programme>
-  <programme start="20220224034000 +0100" stop="20220224041500 +0100" channel="L'Equipe">
-    <title lang="fr">L'Equipe du soir</title>
-    <sub-title lang="fr">La prolongation</sub-title>
-    <category lang="fr">Sport</category>
-    <category lang="fr">Multisports</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fcf-images.2Eeu-west-1.2Eprod.2Eboltdns.2Enet.2Fv1.2Fstatic.2F800000640001.2Fd1c8854d-2770-4f1a-a3e4-660ac140ffe8.2F0731c26e-b494-418d-9828-c95e42c0fa96.2F480x262.2Fmatch.2Fimage.2Ejpg/640x360/crop-from/top/quality/80/201-09-25-sanctuary-s4.jpg" />
-  </programme>
-  <programme start="20220224041500 +0100" stop="20220224053000 +0100" channel="L'Equipe">
-    <title lang="fr">L'Equipe du soir</title>
-    <category lang="fr">Sport</category>
-    <category lang="fr">Multisports</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fcf-images.2Eeu-west-1.2Eprod.2Eboltdns.2Enet.2Fv1.2Fstatic.2F800000640001.2Fd1c8854d-2770-4f1a-a3e4-660ac140ffe8.2F0731c26e-b494-418d-9828-c95e42c0fa96.2F480x262.2Fmatch.2Fimage.2Ejpg/640x360/crop-from/top/quality/80/201-09-25-sanctuary-s4.jpg" />
-  </programme>
-  <programme start="20220224053000 +0100" stop="20220224055900 +0100" channel="L'Equipe">
-    <title lang="fr">L'Equipe du soir</title>
-    <sub-title lang="fr">La prolongation</sub-title>
-    <category lang="fr">Sport</category>
-    <category lang="fr">Multisports</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fcf-images.2Eeu-west-1.2Eprod.2Eboltdns.2Enet.2Fv1.2Fstatic.2F800000640001.2Fd1c8854d-2770-4f1a-a3e4-660ac140ffe8.2F0731c26e-b494-418d-9828-c95e42c0fa96.2F480x262.2Fmatch.2Fimage.2Ejpg/640x360/crop-from/top/quality/80/201-09-25-sanctuary-s4.jpg" />
-  </programme>
-  <programme start="20220224055900 +0100" stop="20220224070000 +0100" channel="L'Equipe">
-    <title lang="fr">L'Equipe du soir</title>
-    <category lang="fr">Sport</category>
-    <category lang="fr">Multisports</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fcf-images.2Eeu-west-1.2Eprod.2Eboltdns.2Enet.2Fv1.2Fstatic.2F800000640001.2Fd1c8854d-2770-4f1a-a3e4-660ac140ffe8.2F0731c26e-b494-418d-9828-c95e42c0fa96.2F480x262.2Fmatch.2Fimage.2Ejpg/640x360/crop-from/top/quality/80/201-09-25-sanctuary-s4.jpg" />
-  </programme>
-  <programme start="20220224070000 +0100" stop="20220224090600 +0100" channel="L'Equipe">
+  <programme start="20220226070000 +0100" stop="20220226080600 +0100" channel="L Equipe">
     <title lang="fr">Best of Shopping</title>
-    <category lang="fr">Culture Infos</category>
-    <category lang="fr">Magazine De Télé Achat</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2Ff2d54c79f090c0f64.2Ejpg/630x355/quality/80/best-of-shopping.jpg" />
+    <desc lang="fr">L'émission Best of Shopping offre le meilleur du téléachat mondial.(n)</desc>
+    <category lang="fr">Magazine de télé-achat</category>
+    <icon src="https://resize.programme-television.ladmedia.fr/img/var/imports/agtv/8/7/8/3194833878_169.jpg" />
   </programme>
-  <programme start="20220224090600 +0100" stop="20220224100600 +0100" channel="L'Equipe">
+  <programme start="20220226080600 +0100" stop="20220226084500 +0100" channel="L Equipe">
     <title lang="fr">L'Equipe Moteur : Top Gear</title>
+    <desc lang="fr">A suivre divers documentaires, reportages ou émissions concernant le monde de l'auto/moto et de tous les véhicules à moteur.(n)</desc>
+    <category lang="fr">Magazine de l'automobile</category>
+    <icon src="https://resize.programme-television.ladmedia.fr/img/var/imports/agtv/9/7/8/3194833879_169.jpg" />
   </programme>
-  <programme start="20220224100600 +0100" stop="20220224110600 +0100" channel="L'Equipe">
+  <programme start="20220226084500 +0100" stop="20220226094500 +0100" channel="L Equipe">
     <title lang="fr">L'Equipe Moteur : Top Gear</title>
+    <desc lang="fr">A suivre divers documentaires, reportages ou émissions concernant le monde de l'auto/moto et de tous les véhicules à moteur.(n)</desc>
+    <category lang="fr">Magazine de l'automobile</category>
+    <icon src="https://resize.programme-television.ladmedia.fr/img/var/imports/agtv/0/8/8/3194833880_169.jpg" />
   </programme>
-  <programme start="20220224110600 +0100" stop="20220224120000 +0100" channel="L'Equipe">
+  <programme start="20220226094500 +0100" stop="20220226105000 +0100" channel="L Equipe">
     <title lang="fr">L'Equipe Moteur : Top Gear</title>
+    <desc lang="fr">A suivre divers documentaires, reportages ou émissions concernant le monde de l'auto/moto et de tous les véhicules à moteur.(n)</desc>
+    <category lang="fr">Magazine de l'automobile</category>
+    <icon src="https://resize.programme-television.ladmedia.fr/img/var/imports/agtv/1/8/8/3194833881_169.jpg" />
   </programme>
-  <programme start="20220224120000 +0100" stop="20220224134000 +0100" channel="L'Equipe">
+  <programme start="20220226105000 +0100" stop="20220226115000 +0100" channel="L Equipe">
     <title lang="fr">L'Equipe Moteur : Top Gear</title>
+    <desc lang="fr">A suivre divers documentaires, reportages ou émissions concernant le monde de l'auto/moto et de tous les véhicules à moteur.(n)</desc>
+    <category lang="fr">Magazine de l'automobile</category>
+    <icon src="https://resize.programme-television.ladmedia.fr/img/var/imports/agtv/7/1/2/4195094217_169.jpg" />
   </programme>
-  <programme start="20220224134000 +0100" stop="20220224160000 +0100" channel="L'Equipe">
-    <title lang="fr">Cyclisme : Saudi Tour</title>
-    <sub-title lang="fr">Winter Park - Skyviews of Harrat Uwayrid (149 km). Tour d'Arabie saoudite. 4e étape</sub-title>
-    <category lang="fr">Sport</category>
+  <programme start="20220226115000 +0100" stop="20220226123000 +0100" channel="L Equipe">
+    <title lang="fr">L'Equipe Moteur : Top Gear</title>
+    <desc lang="fr">A suivre divers documentaires, reportages ou émissions concernant le monde de l'auto/moto et de tous les véhicules à moteur.(n)</desc>
+    <category lang="fr">Magazine de l'automobile</category>
+    <icon src="https://resize.programme-television.ladmedia.fr/img/var/imports/agtv/8/1/2/4195094218_169.jpg" />
+  </programme>
+  <programme start="20220226123000 +0100" stop="20220226133200 +0100" channel="L Equipe">
+    <title lang="fr">Ça va frotter</title>
+    <sub-title lang="fr">Avant-course</sub-title>
     <category lang="fr">Cyclisme</category>
+    <icon src="https://resize.programme-television.ladmedia.fr/img/var/imports/agtv/3/8/8/3194833883_169.jpg" />
+    <country lang="fr">France</country>
   </programme>
-  <programme start="20220224160000 +0100" stop="20220224171500 +0100" channel="L'Equipe">
-    <title lang="fr">En attendant Greg</title>
-  </programme>
-  <programme start="20220224171500 +0100" stop="20220224174500 +0100" channel="L'Equipe">
-    <title lang="fr">L'Equipe de Greg</title>
-    <sub-title lang="fr">1re partie</sub-title>
+  <programme start="20220226133200 +0100" stop="20220226160600 +0100" channel="L Equipe">
+    <title lang="fr">Cyclisme : Faun Ardèche Classic</title>
+    <desc lang="fr">Faun Ardèche Classic.(n)</desc>
     <category lang="fr">Sport</category>
-    <category lang="fr">Multisports</category>
+    <icon src="https://resize.programme-television.ladmedia.fr/img/var/imports/agtv/4/8/8/3194833884_169.jpg" />
   </programme>
-  <programme start="20220224174500 +0100" stop="20220224203600 +0100" channel="L'Equipe">
-    <title lang="fr">L'Equipe de Greg</title>
-    <desc lang="fr">En compagnie de Carine Galli, Melisande Gomez, Vincent Duluc ou encore Etienne Moati, Grégory Ascher décline l'actualité sportive de la journée et ouvre le débat sur le thème qui l'anime. L'occasion d'évoquer les enjeux des différentes rencontres de football, des transferts, ou encore des règlements qui régissent les différentes disciplines.(n)</desc>
+  <programme start="20220226160600 +0100" stop="20220226163000 +0100" channel="L Equipe">
+    <title lang="fr">Ça va frotter</title>
+    <sub-title lang="fr">Après-course</sub-title>
+    <category lang="fr">Cyclisme</category>
+    <icon src="https://resize.programme-television.ladmedia.fr/img/var/imports/agtv/5/8/8/3194833885_169.jpg" />
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20220226163000 +0100" stop="20220226184900 +0100" channel="L Equipe">
+    <title lang="fr">Cyclisme : Circuit Het Nieuwsblad</title>
+    <desc lang="fr">Circuit Het Nieuwsblad.(n)</desc>
     <category lang="fr">Sport</category>
-    <category lang="fr">Multisports</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2F8fb233d6787aa24f.2Ejpg/630x355/quality/80/l-equipe-de-greg.jpg" />
+    <icon src="https://resize.programme-television.ladmedia.fr/img/var/imports/agtv/6/8/8/3194833886_169.jpg" />
+    <country lang="fr">Belgique</country>
   </programme>
-  <programme start="20220224203600 +0100" stop="20220224223000 +0100" channel="L'Equipe">
-    <title lang="fr">Handball : Ligue des Champions</title>
-    <sub-title lang="fr">Paris-SG / Flensburg-Handewitt. Ligue des champions masculine. 12e journée. Groupe B</sub-title>
+  <programme start="20220226184900 +0100" stop="20220226190000 +0100" channel="L Equipe">
+    <title lang="fr">Football : avant-match</title>
+    <category lang="fr">Football</category>
+    <icon src="https://resize.programme-television.ladmedia.fr/img/var/imports/agtv/7/8/8/3194833887_169.jpg" />
+  </programme>
+  <programme start="20220226190000 +0100" stop="20220226210000 +0100" channel="L Equipe">
+    <title lang="fr">Multiplex</title>
+    <desc lang="fr">Ligue 2 BKT. 26e journée. Multiplex.(n)</desc>
     <category lang="fr">Sport</category>
-    <category lang="fr">Handball</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FTXDby1Xw20ioZuX7e/640x360/crop-from/top/quality/80/handball.jpg" />
+    <icon src="https://resize.programme-television.ladmedia.fr/img/var/imports/agtv/8/8/8/3194833888_169.jpg" />
+    <country lang="fr">France</country>
   </programme>
-  <programme start="20220224223000 +0100" stop="20220224235900 +0100" channel="L'Equipe">
-    <title lang="fr">L'Equipe du soir</title>
+  <programme start="20220226210000 +0100" stop="20220226211000 +0100" channel="L Equipe">
+    <title lang="fr">Football : après-match</title>
+    <category lang="fr">Football</category>
+    <icon src="https://resize.programme-television.ladmedia.fr/img/var/imports/agtv/9/8/8/3194833889_169.jpg" />
+  </programme>
+  <programme start="20220226211000 +0100" stop="20220226223500 +0100" channel="L Equipe">
+    <title lang="fr">Athlétisme : Championnats de France Elite indoor</title>
+    <desc lang="fr">Les championnats de France indoor d'athlétisme se déroulent cette année à Miramas. Parmi les épreuves au programme de cette première journée de compétition : le 60m, le lancer de poids et la hauteur de l'heptathlon masculin, les séries des 400m et 800m messieurs et dames, le 3000m dames, les séries et la finale du 60m messieurs et dames, les séries et la finale du 60m haies dames, le concours messieurs de la longueur.(n)</desc>
     <category lang="fr">Sport</category>
-    <category lang="fr">Multisports</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fcf-images.2Eeu-west-1.2Eprod.2Eboltdns.2Enet.2Fv1.2Fstatic.2F800000640001.2Fd1c8854d-2770-4f1a-a3e4-660ac140ffe8.2F0731c26e-b494-418d-9828-c95e42c0fa96.2F480x262.2Fmatch.2Fimage.2Ejpg/640x360/crop-from/top/quality/80/201-09-25-sanctuary-s4.jpg" />
+    <icon src="https://resize.programme-television.ladmedia.fr/img/var/imports/agtv/2/0/7/3194833702_169.jpg" />
+    <country lang="fr">France</country>
   </programme>
-  <programme start="20220224235900 +0100" stop="20220225012000 +0100" channel="L'Equipe">
-    <title lang="fr">L'Equipe du soir</title>
-    <category lang="fr">Sport</category>
-    <category lang="fr">Multisports</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fcf-images.2Eeu-west-1.2Eprod.2Eboltdns.2Enet.2Fv1.2Fstatic.2F800000640001.2Fd1c8854d-2770-4f1a-a3e4-660ac140ffe8.2F0731c26e-b494-418d-9828-c95e42c0fa96.2F480x262.2Fmatch.2Fimage.2Ejpg/640x360/crop-from/top/quality/80/201-09-25-sanctuary-s4.jpg" />
+  <programme start="20220226223500 +0100" stop="20220227030500 +0100" channel="L Equipe">
+    <title lang="fr">MMA : UFC Classiques</title>
+    <sub-title lang="fr">Les plus grands combats de la décennie 2010 (épisode 16)</sub-title>
+    <category lang="fr">MMA</category>
+    <icon src="https://resize.programme-television.ladmedia.fr/img/var/imports/agtv/3/0/7/3194833703_169.jpg" />
   </programme>
-  <programme start="20220224213000 +0000" stop="20220224220000 +0000" channel="GOLPERU HD (GOLPERU HD)">
-    <title lang="es">Futbología</title>
-    <desc lang="es">Una mirada a los hechos y sucesos poco comunes dentro del mundo del fútbol y el deporte, con este programa que muestra diversas noticias sorprendentes, situaciones insólitas y mucho más, al fiel estilo de los conductores.(n)</desc>
+  <programme start="20220226160000 +0000" stop="20220226170000 +0000" channel="GOLPERU HD (GOLPERU HD)">
+    <title lang="es">La tribuna</title>
+    <desc lang="es">Un panel de expertos lo mantiene al tanto de toda la actualidad de la Liga1 y los hechos que marcan tendencia en el fútbol nacional e internacional, a través de análisis, debates y entrevistas.(n)</desc>
+    <category lang="es">Fútbol</category>
     <category lang="es">Deportes</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/73/9737022_98F3AAFCCF62236F.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/73/9737027_FDED00857554AE85.jpg" />
     <country lang="es">PE</country>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20220224220000 +0000" stop="20220224223000 +0000" channel="GOLPERU HD (GOLPERU HD)">
-    <title lang="es">Viva Fútbol</title>
-    <desc lang="es">Entrevistas, debate y análisis sobre toda la actualidad del fútbol nacional e internacional en la propia mirada de tres mujeres expertas en la materia.(n)</desc>
-    <category lang="es">Reportaje</category>
-    <category lang="es">Entrevista</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/73/9737025_3E6D8691703F6AD3.jpg" />
+  <programme start="20220226170000 +0000" stop="20220226181500 +0000" channel="GOLPERU HD (GOLPERU HD)">
+    <title lang="es">Antesala Liga1</title>
+    <sub-title lang="es">Carlos Mannucci vs. Sport Huancayo - Apertura, Fecha 4 (26-02-2022)</sub-title>
+    <desc lang="es">Manténgase informado con todos los pormenores previo al inicio del encuentro entre Carlos Mannucci y Sport Huancayo, por la fecha 4 del Torneo Apertura.(n)</desc>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Deportes</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10558184_14BAE0066F9CF7ED.jpg" />
     <country lang="es">PE</country>
+    <episode-num system="onscreen">S2022</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220226181500 +0000" stop="20220226201500 +0000" channel="GOLPERU HD (GOLPERU HD)">
+    <title lang="es">Liga1</title>
+    <sub-title lang="es">Carlos Mannucci vs. Sport Huancayo - Apertura, Fecha 4 (26-02-2022)</sub-title>
+    <desc lang="es">Carlos Mannucci busca un triunfo que lo mantenga sumando puntos en la tabla, pero Sport Huancayo va por una victoria que cancele las celebraciones locales.(n)</desc>
+    <category lang="es">Fútbol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10558222_C5513C3F492F109C.jpg" />
+    <country lang="es">PE</country>
+    <episode-num system="onscreen">S2022</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220226201500 +0000" stop="20220226203000 +0000" channel="GOLPERU HD (GOLPERU HD)">
+    <title lang="es">Antesala Liga1</title>
+    <sub-title lang="es">Ayacucho FC vs. San Martín - Apertura, Fecha 4 (26-02-2022)</sub-title>
+    <desc lang="es">Manténgase informado con todos los pormenores previo al inicio del encuentro entre Ayacucho FC y San Martín, por la fecha 4 del Torneo Apertura.(n)</desc>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Deportes</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10558192_1047B719ED4F927D.jpg" />
+    <country lang="es">PE</country>
+    <episode-num system="onscreen">S2022</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220226203000 +0000" stop="20220226223000 +0000" channel="GOLPERU HD (GOLPERU HD)">
+    <title lang="es">Liga1</title>
+    <sub-title lang="es">Ayacucho FC vs. San Martín - Apertura, Fecha 4 (26-02-2022)</sub-title>
+    <desc lang="es">Ayacucho FC busca un triunfo que lo mantenga sumando puntos en la tabla, pero San Martín va por una victoria que cancele las celebraciones locales.(n)</desc>
+    <category lang="es">Fútbol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10558144_5F76FF42E75DE907.jpg" />
+    <country lang="es">PE</country>
+    <episode-num system="onscreen">S2022</episode-num>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
